@@ -7012,6 +7012,7 @@
 ## CVE-2025-41450 ()
 > 
 - [Nero22k/CVE-2025-41450_poc](https://github.com/Nero22k/CVE-2025-41450_poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nero22k/CVE-2025-41450_poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nero22k/CVE-2025-41450_poc">
+- [msuiche/fromagegate](https://github.com/msuiche/fromagegate)	<img alt="forks" src="https://img.shields.io/github/forks/msuiche/fromagegate">	<img alt="stars" src="https://img.shields.io/github/stars/msuiche/fromagegate">
 
 ---
 ## CVE-2025-4138 ()
