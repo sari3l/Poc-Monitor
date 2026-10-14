@@ -2858,6 +2858,7 @@
 > 
 - [imbas007/CVE-2026-63223-POC](https://github.com/imbas007/CVE-2026-63223-POC)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2026-63223-POC">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2026-63223-POC">
 - [shinthink/CVE-2026-63223](https://github.com/shinthink/CVE-2026-63223)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-63223">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-63223">
+- [myeongji1/cve-2026-63223-ctf](https://github.com/myeongji1/cve-2026-63223-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/myeongji1/cve-2026-63223-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/myeongji1/cve-2026-63223-ctf">
 
 ---
 ## CVE-2026-63077 ()
@@ -11942,6 +11943,11 @@
 - [pbrass/CVE-2026-1814](https://github.com/pbrass/CVE-2026-1814)	<img alt="forks" src="https://img.shields.io/github/forks/pbrass/CVE-2026-1814">	<img alt="stars" src="https://img.shields.io/github/stars/pbrass/CVE-2026-1814">
 
 ---
+## CVE-2026-18116 ()
+> 
+- [EndlssNightmare/CVE-2026-18116](https://github.com/EndlssNightmare/CVE-2026-18116)	<img alt="forks" src="https://img.shields.io/github/forks/EndlssNightmare/CVE-2026-18116">	<img alt="stars" src="https://img.shields.io/github/stars/EndlssNightmare/CVE-2026-18116">
+
+---
 ## CVE-2026-18110 ()
 > 
 - [flenz00/CVE-2026-18110-PoC](https://github.com/flenz00/CVE-2026-18110-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/flenz00/CVE-2026-18110-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/flenz00/CVE-2026-18110-PoC">
@@ -13030,6 +13036,7 @@
 - [pochunter/POC-for-CVE-2026-104711---New](https://github.com/pochunter/POC-for-CVE-2026-104711---New)	<img alt="forks" src="https://img.shields.io/github/forks/pochunter/POC-for-CVE-2026-104711---New">	<img alt="stars" src="https://img.shields.io/github/stars/pochunter/POC-for-CVE-2026-104711---New">
 - [uday952/CVE-2026-104711-RestPlugin-PoC](https://github.com/uday952/CVE-2026-104711-RestPlugin-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-104711-RestPlugin-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-104711-RestPlugin-PoC">
 - [pochunter/POC-EXPLOIT-CVE-2026-104711](https://github.com/pochunter/POC-EXPLOIT-CVE-2026-104711)	<img alt="forks" src="https://img.shields.io/github/forks/pochunter/POC-EXPLOIT-CVE-2026-104711">	<img alt="stars" src="https://img.shields.io/github/stars/pochunter/POC-EXPLOIT-CVE-2026-104711">
+- [uday952/CVE-2026-104711-POC---Brand-New](https://github.com/uday952/CVE-2026-104711-POC---Brand-New)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-104711-POC---Brand-New">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-104711-POC---Brand-New">
 
 ---
 ## CVE-2026-104356 ()
@@ -13451,6 +13458,7 @@
 > 
 - [HORKimhab/CVE-2026-0768](https://github.com/HORKimhab/CVE-2026-0768)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-0768">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-0768">
 - [rmhowe425/POC-CVE-2026-0768](https://github.com/rmhowe425/POC-CVE-2026-0768)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-0768">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-0768">
+- [opthandsome/langflow_diff_cve-2026-0768](https://github.com/opthandsome/langflow_diff_cve-2026-0768)	<img alt="forks" src="https://img.shields.io/github/forks/opthandsome/langflow_diff_cve-2026-0768">	<img alt="stars" src="https://img.shields.io/github/stars/opthandsome/langflow_diff_cve-2026-0768">
 
 ---
 ## CVE-2026-0766 ()
