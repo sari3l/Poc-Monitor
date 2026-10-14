@@ -1605,6 +1605,11 @@
 - [izxci/CVE-2026-7654](https://github.com/izxci/CVE-2026-7654)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-7654">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-7654">
 
 ---
+## CVE-2026-76519 ()
+> 
+- [Mickysalivan/CVE-2026-76519-POC](https://github.com/Mickysalivan/CVE-2026-76519-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Mickysalivan/CVE-2026-76519-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Mickysalivan/CVE-2026-76519-POC">
+
+---
 ## CVE-2026-76461 ()
 > 
 - [0xBlackash/CVE-2026-76461](https://github.com/0xBlackash/CVE-2026-76461)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-76461">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-76461">
@@ -12875,6 +12880,11 @@
 - [Iniivan13/CVE-2026-1107](https://github.com/Iniivan13/CVE-2026-1107)	<img alt="forks" src="https://img.shields.io/github/forks/Iniivan13/CVE-2026-1107">	<img alt="stars" src="https://img.shields.io/github/stars/Iniivan13/CVE-2026-1107">
 
 ---
+## CVE-2026-110447 ()
+> 
+- [adriyansyah-mf/cve-2026-110447](https://github.com/adriyansyah-mf/cve-2026-110447)	<img alt="forks" src="https://img.shields.io/github/forks/adriyansyah-mf/cve-2026-110447">	<img alt="stars" src="https://img.shields.io/github/stars/adriyansyah-mf/cve-2026-110447">
+
+---
 ## CVE-2026-110025 ()
 > 
 - [capivara-research/CVE-2026-110025](https://github.com/capivara-research/CVE-2026-110025)	<img alt="forks" src="https://img.shields.io/github/forks/capivara-research/CVE-2026-110025">	<img alt="stars" src="https://img.shields.io/github/stars/capivara-research/CVE-2026-110025">
@@ -12888,6 +12898,11 @@
 ## CVE-2026-109519 ()
 > 
 - [0xgh0stri13y/CVE-2026-109519](https://github.com/0xgh0stri13y/CVE-2026-109519)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh0stri13y/CVE-2026-109519">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh0stri13y/CVE-2026-109519">
+
+---
+## CVE-2026-109506 ()
+> 
+- [lukaspalm/CVE-2026-109506](https://github.com/lukaspalm/CVE-2026-109506)	<img alt="forks" src="https://img.shields.io/github/forks/lukaspalm/CVE-2026-109506">	<img alt="stars" src="https://img.shields.io/github/stars/lukaspalm/CVE-2026-109506">
 
 ---
 ## CVE-2026-108924 ()
