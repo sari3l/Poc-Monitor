@@ -5499,10 +5499,12 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 ## CVE-2024-36058 ()
 > 
 - [hacklantic/CVE-2024-36058](https://github.com/hacklantic/CVE-2024-36058)	<img alt="forks" src="https://img.shields.io/github/forks/hacklantic/CVE-2024-36058">	<img alt="stars" src="https://img.shields.io/github/stars/hacklantic/CVE-2024-36058">
+- [hacklantic/CVE-2024-36058](https://github.com/hacklantic/CVE-2024-36058)	<img alt="forks" src="https://img.shields.io/github/forks/hacklantic/CVE-2024-36058">	<img alt="stars" src="https://img.shields.io/github/stars/hacklantic/CVE-2024-36058">
 
 ---
 ## CVE-2024-36057 ()
 > 
+- [hacklantic/CVE-2024-36057](https://github.com/hacklantic/CVE-2024-36057)	<img alt="forks" src="https://img.shields.io/github/forks/hacklantic/CVE-2024-36057">	<img alt="stars" src="https://img.shields.io/github/stars/hacklantic/CVE-2024-36057">
 - [hacklantic/CVE-2024-36057](https://github.com/hacklantic/CVE-2024-36057)	<img alt="forks" src="https://img.shields.io/github/forks/hacklantic/CVE-2024-36057">	<img alt="stars" src="https://img.shields.io/github/stars/hacklantic/CVE-2024-36057">
 
 ---
