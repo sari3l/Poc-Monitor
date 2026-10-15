@@ -12962,6 +12962,11 @@
 - [abdugafforov-bobur/cve-2026-107181-poc](https://github.com/abdugafforov-bobur/cve-2026-107181-poc)	<img alt="forks" src="https://img.shields.io/github/forks/abdugafforov-bobur/cve-2026-107181-poc">	<img alt="stars" src="https://img.shields.io/github/stars/abdugafforov-bobur/cve-2026-107181-poc">
 
 ---
+## CVE-2026-107081 ()
+> 
+- [Primandito/CVE-2026-107081](https://github.com/Primandito/CVE-2026-107081)	<img alt="forks" src="https://img.shields.io/github/forks/Primandito/CVE-2026-107081">	<img alt="stars" src="https://img.shields.io/github/stars/Primandito/CVE-2026-107081">
+
+---
 ## CVE-2026-10702 ()
 > 
 - [HORKimhab/CVE-2026-10702](https://github.com/HORKimhab/CVE-2026-10702)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-10702">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-10702">
