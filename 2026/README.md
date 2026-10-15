@@ -2825,6 +2825,7 @@
 - [Meniben/redmi14c-pond-cve-2026-64560](https://github.com/Meniben/redmi14c-pond-cve-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/Meniben/redmi14c-pond-cve-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/Meniben/redmi14c-pond-cve-2026-64560">
 - [imkidz0/CVE-2026-64560-exploit](https://github.com/imkidz0/CVE-2026-64560-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/imkidz0/CVE-2026-64560-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/imkidz0/CVE-2026-64560-exploit">
 - [feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu](https://github.com/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu)	<img alt="forks" src="https://img.shields.io/github/forks/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu">	<img alt="stars" src="https://img.shields.io/github/stars/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu">
+- [sangsheng2026/honor-90gt-mag-an00-root-research](https://github.com/sangsheng2026/honor-90gt-mag-an00-root-research)	<img alt="forks" src="https://img.shields.io/github/forks/sangsheng2026/honor-90gt-mag-an00-root-research">	<img alt="stars" src="https://img.shields.io/github/stars/sangsheng2026/honor-90gt-mag-an00-root-research">
 
 ---
 ## CVE-2026-64531 ()
@@ -11887,6 +11888,7 @@
 - [hardeep-sudo/Keycloak-CVE-2026-18963-Exploit](https://github.com/hardeep-sudo/Keycloak-CVE-2026-18963-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hardeep-sudo/Keycloak-CVE-2026-18963-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hardeep-sudo/Keycloak-CVE-2026-18963-Exploit">
 - [SonOfABot/-CVE-2026-18963-POC](https://github.com/SonOfABot/-CVE-2026-18963-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SonOfABot/-CVE-2026-18963-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SonOfABot/-CVE-2026-18963-POC">
 - [orevim/CVE-2026-18963-PoC](https://github.com/orevim/CVE-2026-18963-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/orevim/CVE-2026-18963-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/orevim/CVE-2026-18963-PoC">
+- [orevim/CVE-2026-18963-PoC](https://github.com/orevim/CVE-2026-18963-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/orevim/CVE-2026-18963-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/orevim/CVE-2026-18963-PoC">
 
 ---
 ## CVE-2026-18953 ()
@@ -13314,6 +13316,11 @@
 ## CVE-2026-102718 ()
 > 
 - [D7EAD/CVE-2026-102718](https://github.com/D7EAD/CVE-2026-102718)	<img alt="forks" src="https://img.shields.io/github/forks/D7EAD/CVE-2026-102718">	<img alt="stars" src="https://img.shields.io/github/stars/D7EAD/CVE-2026-102718">
+
+---
+## CVE-2026-102697 ()
+> 
+- [akinerkisa/blindllama-cve-2026-102697](https://github.com/akinerkisa/blindllama-cve-2026-102697)	<img alt="forks" src="https://img.shields.io/github/forks/akinerkisa/blindllama-cve-2026-102697">	<img alt="stars" src="https://img.shields.io/github/stars/akinerkisa/blindllama-cve-2026-102697">
 
 ---
 ## CVE-2026-102489 ()

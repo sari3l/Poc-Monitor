@@ -4790,6 +4790,7 @@
 - [brito101/session_reaper_lab](https://github.com/brito101/session_reaper_lab)	<img alt="forks" src="https://img.shields.io/github/forks/brito101/session_reaper_lab">	<img alt="stars" src="https://img.shields.io/github/stars/brito101/session_reaper_lab">
 - [nocerainfosec/polyshellv2.0](https://github.com/nocerainfosec/polyshellv2.0)	<img alt="forks" src="https://img.shields.io/github/forks/nocerainfosec/polyshellv2.0">	<img alt="stars" src="https://img.shields.io/github/stars/nocerainfosec/polyshellv2.0">
 - [qoliber/magento-open-source-security](https://github.com/qoliber/magento-open-source-security)	<img alt="forks" src="https://img.shields.io/github/forks/qoliber/magento-open-source-security">	<img alt="stars" src="https://img.shields.io/github/stars/qoliber/magento-open-source-security">
+- [Dx3iZ/CVE-2025-54236](https://github.com/Dx3iZ/CVE-2025-54236)	<img alt="forks" src="https://img.shields.io/github/forks/Dx3iZ/CVE-2025-54236">	<img alt="stars" src="https://img.shields.io/github/stars/Dx3iZ/CVE-2025-54236">
 
 ---
 ## CVE-2025-5419 ()
