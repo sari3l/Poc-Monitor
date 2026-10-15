@@ -1607,7 +1607,7 @@
 ---
 ## CVE-2026-76519 ()
 > 
-- [Mickysalivan/CVE-2026-76519-POC](https://github.com/Mickysalivan/CVE-2026-76519-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Mickysalivan/CVE-2026-76519-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Mickysalivan/CVE-2026-76519-POC">
+- [Mickysalivan/CVE-2026-76519-Proof-of-concept](https://github.com/Mickysalivan/CVE-2026-76519-Proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/Mickysalivan/CVE-2026-76519-Proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/Mickysalivan/CVE-2026-76519-Proof-of-concept">
 
 ---
 ## CVE-2026-76461 ()
@@ -4898,6 +4898,11 @@
 > 
 - [Nxploited/CVE-2026-47668](https://github.com/Nxploited/CVE-2026-47668)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-47668">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-47668">
 - [s-vx/CVE-2026-47668](https://github.com/s-vx/CVE-2026-47668)	<img alt="forks" src="https://img.shields.io/github/forks/s-vx/CVE-2026-47668">	<img alt="stars" src="https://img.shields.io/github/stars/s-vx/CVE-2026-47668">
+
+---
+## CVE-2026-47644 ()
+> 
+- [songjianyang/CVE-2026-47644](https://github.com/songjianyang/CVE-2026-47644)	<img alt="forks" src="https://img.shields.io/github/forks/songjianyang/CVE-2026-47644">	<img alt="stars" src="https://img.shields.io/github/stars/songjianyang/CVE-2026-47644">
 
 ---
 ## CVE-2026-47630 ()
@@ -11530,6 +11535,11 @@
 - [danish1162/CVE-2026-2035703-x300](https://github.com/danish1162/CVE-2026-2035703-x300)	<img alt="forks" src="https://img.shields.io/github/forks/danish1162/CVE-2026-2035703-x300">	<img alt="stars" src="https://img.shields.io/github/stars/danish1162/CVE-2026-2035703-x300">
 
 ---
+## CVE-2026-20329 ()
+> 
+- [ekacs/predicted-CVE-2026-20329](https://github.com/ekacs/predicted-CVE-2026-20329)	<img alt="forks" src="https://img.shields.io/github/forks/ekacs/predicted-CVE-2026-20329">	<img alt="stars" src="https://img.shields.io/github/stars/ekacs/predicted-CVE-2026-20329">
+
+---
 ## CVE-2026-20303 ()
 > 
 - [HORKimhab/Cisco-CVE-2026-20303-More](https://github.com/HORKimhab/Cisco-CVE-2026-20303-More)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/Cisco-CVE-2026-20303-More">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/Cisco-CVE-2026-20303-More">
@@ -12710,6 +12720,11 @@
 - [FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168](https://github.com/FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168)	<img alt="forks" src="https://img.shields.io/github/forks/FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168">	<img alt="stars" src="https://img.shields.io/github/stars/FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168">
 
 ---
+## CVE-2026-12118 ()
+> 
+- [uday952/CVE-2026-12118-POC-](https://github.com/uday952/CVE-2026-12118-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-12118-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-12118-POC-">
+
+---
 ## CVE-2026-1208 ()
 > 
 - [SnailSploit/CVE-2026-1208](https://github.com/SnailSploit/CVE-2026-1208)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-1208">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-1208">
@@ -12874,6 +12889,11 @@
 ## CVE-2026-11101 ()
 > 
 - [George0Papasotiriou/CVE-2026-11101-HTTP-Cache-Poisoning-via-Unkeyed-Query-Parameter](https://github.com/George0Papasotiriou/CVE-2026-11101-HTTP-Cache-Poisoning-via-Unkeyed-Query-Parameter)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-11101-HTTP-Cache-Poisoning-via-Unkeyed-Query-Parameter">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-11101-HTTP-Cache-Poisoning-via-Unkeyed-Query-Parameter">
+
+---
+## CVE-2026-110912 ()
+> 
+- [dreamfast/CVE-2026-110912](https://github.com/dreamfast/CVE-2026-110912)	<img alt="forks" src="https://img.shields.io/github/forks/dreamfast/CVE-2026-110912">	<img alt="stars" src="https://img.shields.io/github/stars/dreamfast/CVE-2026-110912">
 
 ---
 ## CVE-2026-1107 ()
@@ -13108,6 +13128,7 @@
 - [uday952/CVE-2026-104711-RestPlugin-PoC](https://github.com/uday952/CVE-2026-104711-RestPlugin-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-104711-RestPlugin-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-104711-RestPlugin-PoC">
 - [pochunter/POC-EXPLOIT-CVE-2026-104711](https://github.com/pochunter/POC-EXPLOIT-CVE-2026-104711)	<img alt="forks" src="https://img.shields.io/github/forks/pochunter/POC-EXPLOIT-CVE-2026-104711">	<img alt="stars" src="https://img.shields.io/github/stars/pochunter/POC-EXPLOIT-CVE-2026-104711">
 - [uday952/CVE-2026-104711-POC---Brand-New](https://github.com/uday952/CVE-2026-104711-POC---Brand-New)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-104711-POC---Brand-New">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-104711-POC---Brand-New">
+- [uday952/CVE-2026-104711-POC-NEW-VARIANT](https://github.com/uday952/CVE-2026-104711-POC-NEW-VARIANT)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-104711-POC-NEW-VARIANT">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-104711-POC-NEW-VARIANT">
 
 ---
 ## CVE-2026-104356 ()
