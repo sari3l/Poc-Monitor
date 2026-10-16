@@ -1359,6 +1359,8 @@
 ## CVE-2026-79984 ()
 > 
 - [oscerd/CVE-2026-79984](https://github.com/oscerd/CVE-2026-79984)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-79984">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-79984">
+- [oscerd/CVE-2026-79986](https://github.com/oscerd/CVE-2026-79986)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-79986">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-79986">
+- [oscerd/CVE-2026-79985](https://github.com/oscerd/CVE-2026-79985)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-79985">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-79985">
 
 ---
 ## CVE-2026-79983 ()
@@ -4123,6 +4125,7 @@
 ## CVE-2026-53264 ()
 > 
 - [HORKimhab/CVE-2026-53264](https://github.com/HORKimhab/CVE-2026-53264)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-53264">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-53264">
+- [b1nhack/CVE-2026-53264](https://github.com/b1nhack/CVE-2026-53264)	<img alt="forks" src="https://img.shields.io/github/forks/b1nhack/CVE-2026-53264">	<img alt="stars" src="https://img.shields.io/github/stars/b1nhack/CVE-2026-53264">
 
 ---
 ## CVE-2026-52993 ()
@@ -13429,6 +13432,11 @@
 ## CVE-2026-102782 ()
 > 
 - [murrez/CVE-2026-102782](https://github.com/murrez/CVE-2026-102782)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-102782">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-102782">
+
+---
+## CVE-2026-102764 ()
+> 
+- [Worthes/CVE-2026-102764-Proof-of-concept](https://github.com/Worthes/CVE-2026-102764-Proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/Worthes/CVE-2026-102764-Proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/Worthes/CVE-2026-102764-Proof-of-concept">
 
 ---
 ## CVE-2026-102718 ()
