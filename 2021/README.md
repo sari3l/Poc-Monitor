@@ -2703,6 +2703,7 @@
 - [abdulrafay25-svg/CVE-2021-41773-Exploit](https://github.com/abdulrafay25-svg/CVE-2021-41773-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/abdulrafay25-svg/CVE-2021-41773-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/abdulrafay25-svg/CVE-2021-41773-Exploit">
 - [1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab](https://github.com/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab">
 - [CyberCTF/vulhub-httpd-cve-2021-41773](https://github.com/CyberCTF/vulhub-httpd-cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-httpd-cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-httpd-cve-2021-41773">
+- [LordX404/CVE_2021-41773](https://github.com/LordX404/CVE_2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/LordX404/CVE_2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/LordX404/CVE_2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
