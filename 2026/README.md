@@ -4028,6 +4028,7 @@
 > 
 - [HORKimhab/CVE-2026-53365](https://github.com/HORKimhab/CVE-2026-53365)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-53365">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-53365">
 - [HackSpeak/CVE-2026-53365](https://github.com/HackSpeak/CVE-2026-53365)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-53365">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-53365">
+- [hoodoer/VsockDrop-Adapted-CVE-2026-53365](https://github.com/hoodoer/VsockDrop-Adapted-CVE-2026-53365)	<img alt="forks" src="https://img.shields.io/github/forks/hoodoer/VsockDrop-Adapted-CVE-2026-53365">	<img alt="stars" src="https://img.shields.io/github/stars/hoodoer/VsockDrop-Adapted-CVE-2026-53365">
 
 ---
 ## CVE-2026-53360 ()

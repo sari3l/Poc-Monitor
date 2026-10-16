@@ -7451,6 +7451,7 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [qinglove777/CVE-2024-2961-XXE-Exploit](https://github.com/qinglove777/CVE-2024-2961-XXE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/qinglove777/CVE-2024-2961-XXE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/qinglove777/CVE-2024-2961-XXE-Exploit">
 - [HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977](https://github.com/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977">
 - [whyuhurtz/wongpress](https://github.com/whyuhurtz/wongpress)	<img alt="forks" src="https://img.shields.io/github/forks/whyuhurtz/wongpress">	<img alt="stars" src="https://img.shields.io/github/stars/whyuhurtz/wongpress">
+- [Sib1110/cve-2024-2961](https://github.com/Sib1110/cve-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/Sib1110/cve-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/Sib1110/cve-2024-2961">
 
 ---
 ## CVE-2024-29510 (2024-07-03T19:15:00)
