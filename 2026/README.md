@@ -3174,6 +3174,11 @@
 - [Hassham1/CVE-2026-62059-ultimate-member-sqli-poc](https://github.com/Hassham1/CVE-2026-62059-ultimate-member-sqli-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Hassham1/CVE-2026-62059-ultimate-member-sqli-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Hassham1/CVE-2026-62059-ultimate-member-sqli-poc">
 
 ---
+## CVE-2026-61979 ()
+> 
+- [BIBILZERODAY/CVE-2026-61979-miniOrange-SAML-Auth-Bypass-Exploit](https://github.com/BIBILZERODAY/CVE-2026-61979-miniOrange-SAML-Auth-Bypass-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-61979-miniOrange-SAML-Auth-Bypass-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-61979-miniOrange-SAML-Auth-Bypass-Exploit">
+
+---
 ## CVE-2026-61946 ()
 > 
 - [Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR](https://github.com/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR">
@@ -3315,6 +3320,7 @@
 - [TranDongA3/POC-CVE-2026-63030-CVE-2026-60137-](https://github.com/TranDongA3/POC-CVE-2026-63030-CVE-2026-60137-)	<img alt="forks" src="https://img.shields.io/github/forks/TranDongA3/POC-CVE-2026-63030-CVE-2026-60137-">	<img alt="stars" src="https://img.shields.io/github/stars/TranDongA3/POC-CVE-2026-63030-CVE-2026-60137-">
 - [g0d150ne/WP2Shell](https://github.com/g0d150ne/WP2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/g0d150ne/WP2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/g0d150ne/WP2Shell">
 - [M4xSec/wp2shell-Exploit-Waf-Bypass](https://github.com/M4xSec/wp2shell-Exploit-Waf-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/M4xSec/wp2shell-Exploit-Waf-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/M4xSec/wp2shell-Exploit-Waf-Bypass">
+- [BIBILZERODAY/CVE-2026-60137---WordPress-Core-Critical-SQL-Injection-SQLi-PoC](https://github.com/BIBILZERODAY/CVE-2026-60137---WordPress-Core-Critical-SQL-Injection-SQLi-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-60137---WordPress-Core-Critical-SQL-Injection-SQLi-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-60137---WordPress-Core-Critical-SQL-Injection-SQLi-PoC">
 
 ---
 ## CVE-2026-60121 ()
@@ -6843,6 +6849,7 @@
 - [mfahdk/CVE-2026-39987_RCE_PoC](https://github.com/mfahdk/CVE-2026-39987_RCE_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mfahdk/CVE-2026-39987_RCE_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mfahdk/CVE-2026-39987_RCE_PoC">
 - [LaArana12/CVE-2026-39987-Marimo-Preauth-RCE](https://github.com/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE">
 - [Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE">
+- [Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE">
 
 ---
 ## CVE-2026-39983 ()
@@ -7120,6 +7127,7 @@
 - [Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE">
 - [Harry178945/CVE-2026-38526](https://github.com/Harry178945/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/Harry178945/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/Harry178945/CVE-2026-38526">
 - [MRdark-ops/CVE-2026-38526](https://github.com/MRdark-ops/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/MRdark-ops/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/MRdark-ops/CVE-2026-38526">
+- [Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE">
 
 ---
 ## CVE-2026-3847 ()
@@ -8056,6 +8064,9 @@
 - [maxprog-svg/CVE-2026-33017](https://github.com/maxprog-svg/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/maxprog-svg/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/maxprog-svg/CVE-2026-33017">
 - [MaximilianoMeyer/CVE-2026-33017](https://github.com/MaximilianoMeyer/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/MaximilianoMeyer/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/MaximilianoMeyer/CVE-2026-33017">
 - [Oieua/CVE-2026-33017](https://github.com/Oieua/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/Oieua/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/Oieua/CVE-2026-33017">
+- [Industri4l-H3ll-Xpl0it3rs/CVE-2026-33017-Langflow-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-33017-Langflow-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-33017-Langflow-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-33017-Langflow-RCE">
+- [yym8538/CVE-2026-33017](https://github.com/yym8538/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/yym8538/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/yym8538/CVE-2026-33017">
+- [1337or420/CVE-2026-33017-Langflow-RCE](https://github.com/1337or420/CVE-2026-33017-Langflow-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/1337or420/CVE-2026-33017-Langflow-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/1337or420/CVE-2026-33017-Langflow-RCE">
 
 ---
 ## CVE-2026-3300 ()
@@ -11857,6 +11868,11 @@
 - [kalnux/CVE-2026-1961-foreman-poc](https://github.com/kalnux/CVE-2026-1961-foreman-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kalnux/CVE-2026-1961-foreman-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kalnux/CVE-2026-1961-foreman-poc">
 
 ---
+## CVE-2026-19607 ()
+> 
+- [7Ragnarok7/CVE-2026-19607](https://github.com/7Ragnarok7/CVE-2026-19607)	<img alt="forks" src="https://img.shields.io/github/forks/7Ragnarok7/CVE-2026-19607">	<img alt="stars" src="https://img.shields.io/github/stars/7Ragnarok7/CVE-2026-19607">
+
+---
 ## CVE-2026-19598 ()
 > 
 - [ksotaria1337/CVE-2026-19598](https://github.com/ksotaria1337/CVE-2026-19598)	<img alt="forks" src="https://img.shields.io/github/forks/ksotaria1337/CVE-2026-19598">	<img alt="stars" src="https://img.shields.io/github/stars/ksotaria1337/CVE-2026-19598">
@@ -13261,6 +13277,11 @@
 ## CVE-2026-104745 ()
 > 
 - [rxsklife/CVE-2026-104745](https://github.com/rxsklife/CVE-2026-104745)	<img alt="forks" src="https://img.shields.io/github/forks/rxsklife/CVE-2026-104745">	<img alt="stars" src="https://img.shields.io/github/stars/rxsklife/CVE-2026-104745">
+
+---
+## CVE-2026-104736 ()
+> 
+- [BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details](https://github.com/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details)	<img alt="forks" src="https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details">	<img alt="stars" src="https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details">
 
 ---
 ## CVE-2026-104715 ()
