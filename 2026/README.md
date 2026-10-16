@@ -98,6 +98,7 @@
 > 
 - [jburgess-r7/CVE-2026-97229-PoC](https://github.com/jburgess-r7/CVE-2026-97229-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jburgess-r7/CVE-2026-97229-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jburgess-r7/CVE-2026-97229-PoC">
 - [AmpedWasTaken/CVE-2026-97229-GitLab-CI-CD-Regex-Compiler-RCE](https://github.com/AmpedWasTaken/CVE-2026-97229-GitLab-CI-CD-Regex-Compiler-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AmpedWasTaken/CVE-2026-97229-GitLab-CI-CD-Regex-Compiler-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AmpedWasTaken/CVE-2026-97229-GitLab-CI-CD-Regex-Compiler-RCE">
+- [OppositDeer/Gitlab-RCE-CVE-2026-97229](https://github.com/OppositDeer/Gitlab-RCE-CVE-2026-97229)	<img alt="forks" src="https://img.shields.io/github/forks/OppositDeer/Gitlab-RCE-CVE-2026-97229">	<img alt="stars" src="https://img.shields.io/github/stars/OppositDeer/Gitlab-RCE-CVE-2026-97229">
 
 ---
 ## CVE-2026-97205 ()
@@ -134,6 +135,7 @@
 ## CVE-2026-96889 ()
 > 
 - [lion9453/CVE-2026-96889-nextjs-rce](https://github.com/lion9453/CVE-2026-96889-nextjs-rce)	<img alt="forks" src="https://img.shields.io/github/forks/lion9453/CVE-2026-96889-nextjs-rce">	<img alt="stars" src="https://img.shields.io/github/stars/lion9453/CVE-2026-96889-nextjs-rce">
+- [rafabd1/VectorFreed](https://github.com/rafabd1/VectorFreed)	<img alt="forks" src="https://img.shields.io/github/forks/rafabd1/VectorFreed">	<img alt="stars" src="https://img.shields.io/github/stars/rafabd1/VectorFreed">
 
 ---
 ## CVE-2026-96878 ()
@@ -603,6 +605,11 @@
 - [murrez/CVE-2026-89274](https://github.com/murrez/CVE-2026-89274)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-89274">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-89274">
 - [Polosss/By-Poloss..-.CVE-2026-89274](https://github.com/Polosss/By-Poloss..-.CVE-2026-89274)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-.CVE-2026-89274">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-.CVE-2026-89274">
 - [Hassham1/CVE-2026-89274-wp-recipe-maker-poc](https://github.com/Hassham1/CVE-2026-89274-wp-recipe-maker-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Hassham1/CVE-2026-89274-wp-recipe-maker-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Hassham1/CVE-2026-89274-wp-recipe-maker-poc">
+
+---
+## CVE-2026-89079 ()
+> 
+- [murrez/CVE-2026-89079](https://github.com/murrez/CVE-2026-89079)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-89079">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-89079">
 
 ---
 ## CVE-2026-89055 ()
@@ -1324,6 +1331,11 @@
 - [y3g1/CraftCMS-CVE-2026-79987](https://github.com/y3g1/CraftCMS-CVE-2026-79987)	<img alt="forks" src="https://img.shields.io/github/forks/y3g1/CraftCMS-CVE-2026-79987">	<img alt="stars" src="https://img.shields.io/github/stars/y3g1/CraftCMS-CVE-2026-79987">
 
 ---
+## CVE-2026-79983 ()
+> 
+- [oscerd/CVE-2026-79983](https://github.com/oscerd/CVE-2026-79983)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-79983">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-79983">
+
+---
 ## CVE-2026-79752 ()
 > 
 - [abraxas/CVE-2026-79752](https://github.com/abraxas/CVE-2026-79752)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-79752">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-79752">
@@ -1450,6 +1462,26 @@
 > 
 - [Wh02m1/CVE-2026-78306](https://github.com/Wh02m1/CVE-2026-78306)	<img alt="forks" src="https://img.shields.io/github/forks/Wh02m1/CVE-2026-78306">	<img alt="stars" src="https://img.shields.io/github/stars/Wh02m1/CVE-2026-78306">
 - [FEEDBEEF/Dji_ble_vuln](https://github.com/FEEDBEEF/Dji_ble_vuln)	<img alt="forks" src="https://img.shields.io/github/forks/FEEDBEEF/Dji_ble_vuln">	<img alt="stars" src="https://img.shields.io/github/stars/FEEDBEEF/Dji_ble_vuln">
+
+---
+## CVE-2026-78165 ()
+> 
+- [oscerd/CVE-2026-78165](https://github.com/oscerd/CVE-2026-78165)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-78165">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-78165">
+
+---
+## CVE-2026-78164 ()
+> 
+- [oscerd/CVE-2026-78164](https://github.com/oscerd/CVE-2026-78164)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-78164">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-78164">
+
+---
+## CVE-2026-78163 ()
+> 
+- [oscerd/CVE-2026-78163](https://github.com/oscerd/CVE-2026-78163)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-78163">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-78163">
+
+---
+## CVE-2026-78162 ()
+> 
+- [oscerd/CVE-2026-78162](https://github.com/oscerd/CVE-2026-78162)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-78162">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-78162">
 
 ---
 ## CVE-2026-78159 ()
@@ -4294,6 +4326,16 @@
 ## CVE-2026-51385 ()
 > 
 - [Arturo0x90/CVE-2026-51385](https://github.com/Arturo0x90/CVE-2026-51385)	<img alt="forks" src="https://img.shields.io/github/forks/Arturo0x90/CVE-2026-51385">	<img alt="stars" src="https://img.shields.io/github/stars/Arturo0x90/CVE-2026-51385">
+
+---
+## CVE-2026-51367 ()
+> 
+- [StefanoAndreatta/CVE-2026-51367-Insecure-Direct-Object-Reference-IDOR](https://github.com/StefanoAndreatta/CVE-2026-51367-Insecure-Direct-Object-Reference-IDOR)	<img alt="forks" src="https://img.shields.io/github/forks/StefanoAndreatta/CVE-2026-51367-Insecure-Direct-Object-Reference-IDOR">	<img alt="stars" src="https://img.shields.io/github/stars/StefanoAndreatta/CVE-2026-51367-Insecure-Direct-Object-Reference-IDOR">
+
+---
+## CVE-2026-51366 ()
+> 
+- [StefanoAndreatta/CVE-2026-51366-SQL-Injection-leading-to-Remote-Code-Execution](https://github.com/StefanoAndreatta/CVE-2026-51366-SQL-Injection-leading-to-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/StefanoAndreatta/CVE-2026-51366-SQL-Injection-leading-to-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/StefanoAndreatta/CVE-2026-51366-SQL-Injection-leading-to-Remote-Code-Execution">
 
 ---
 ## CVE-2026-51302 ()
@@ -12999,6 +13041,11 @@
 ## CVE-2026-10817 ()
 > 
 - [HORKimhab/CVE-2026-10817](https://github.com/HORKimhab/CVE-2026-10817)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-10817">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-10817">
+
+---
+## CVE-2026-108097 ()
+> 
+- [FurkanKAYAPINAR/CVE-2026-108097](https://github.com/FurkanKAYAPINAR/CVE-2026-108097)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/CVE-2026-108097">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/CVE-2026-108097">
 
 ---
 ## CVE-2026-10795 ()
