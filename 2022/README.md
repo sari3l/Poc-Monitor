@@ -31564,6 +31564,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [HynekPetrak/log4shell-finder](https://github.com/HynekPetrak/log4shell-finder)	<img alt="forks" src="https://img.shields.io/github/forks/HynekPetrak/log4shell-finder">	<img alt="stars" src="https://img.shields.io/github/stars/HynekPetrak/log4shell-finder">
 - [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner">
 - [AlphabugX/CVE-2022-RCE](https://github.com/AlphabugX/CVE-2022-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AlphabugX/CVE-2022-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AlphabugX/CVE-2022-RCE">
+- [hoor113/CVE-2022-23305-Demo-and-Whitebox-Report](https://github.com/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report)	<img alt="forks" src="https://img.shields.io/github/forks/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report">	<img alt="stars" src="https://img.shields.io/github/stars/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report">
 
 ---
 ## CVE-2022-23277 (2022-03-09T17:15:00)
