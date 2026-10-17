@@ -266,6 +266,11 @@
 - [Wayang1337/CVE-2026-94503](https://github.com/Wayang1337/CVE-2026-94503)	<img alt="forks" src="https://img.shields.io/github/forks/Wayang1337/CVE-2026-94503">	<img alt="stars" src="https://img.shields.io/github/stars/Wayang1337/CVE-2026-94503">
 
 ---
+## CVE-2026-94169 ()
+> 
+- [kize7/CVE-2026-94169](https://github.com/kize7/CVE-2026-94169)	<img alt="forks" src="https://img.shields.io/github/forks/kize7/CVE-2026-94169">	<img alt="stars" src="https://img.shields.io/github/stars/kize7/CVE-2026-94169">
+
+---
 ## CVE-2026-94134 ()
 > 
 - [MosesOX/POC-CVE-2026-94134](https://github.com/MosesOX/POC-CVE-2026-94134)	<img alt="forks" src="https://img.shields.io/github/forks/MosesOX/POC-CVE-2026-94134">	<img alt="stars" src="https://img.shields.io/github/stars/MosesOX/POC-CVE-2026-94134">
@@ -4819,6 +4824,7 @@
 - [CerberusMrXi/JCEzploit-CVE-2026-48907](https://github.com/CerberusMrXi/JCEzploit-CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/JCEzploit-CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/JCEzploit-CVE-2026-48907">
 - [ksotaria1337/-CVE-2026-48907-](https://github.com/ksotaria1337/-CVE-2026-48907-)	<img alt="forks" src="https://img.shields.io/github/forks/ksotaria1337/-CVE-2026-48907-">	<img alt="stars" src="https://img.shields.io/github/stars/ksotaria1337/-CVE-2026-48907-">
 - [NONAME-ELV/CVE-2026-48907](https://github.com/NONAME-ELV/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/NONAME-ELV/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/NONAME-ELV/CVE-2026-48907">
+- [0xCyp1337/CVE-2026-48907-RCE](https://github.com/0xCyp1337/CVE-2026-48907-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-48907-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-48907-RCE">
 
 ---
 ## CVE-2026-48866 ()
@@ -7086,6 +7092,11 @@
 - [AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation](https://github.com/AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation)	<img alt="forks" src="https://img.shields.io/github/forks/AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation">	<img alt="stars" src="https://img.shields.io/github/stars/AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation">
 - [Bailan766/rmx3888-cve-2026-43499-config](https://github.com/Bailan766/rmx3888-cve-2026-43499-config)	<img alt="forks" src="https://img.shields.io/github/forks/Bailan766/rmx3888-cve-2026-43499-config">	<img alt="stars" src="https://img.shields.io/github/stars/Bailan766/rmx3888-cve-2026-43499-config">
 - [alinpfan/CVE-2026-3888-PoC](https://github.com/alinpfan/CVE-2026-3888-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alinpfan/CVE-2026-3888-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alinpfan/CVE-2026-3888-PoC">
+
+---
+## CVE-2026-38838 ()
+> 
+- [pawelskokowski/CVE-2026-38838](https://github.com/pawelskokowski/CVE-2026-38838)	<img alt="forks" src="https://img.shields.io/github/forks/pawelskokowski/CVE-2026-38838">	<img alt="stars" src="https://img.shields.io/github/stars/pawelskokowski/CVE-2026-38838">
 
 ---
 ## CVE-2026-38812 ()
@@ -13072,6 +13083,11 @@
 ## CVE-2026-110958 ()
 > 
 - [shlln/CVE-2026-110958](https://github.com/shlln/CVE-2026-110958)	<img alt="forks" src="https://img.shields.io/github/forks/shlln/CVE-2026-110958">	<img alt="stars" src="https://img.shields.io/github/stars/shlln/CVE-2026-110958">
+
+---
+## CVE-2026-110916 ()
+> 
+- [SeanDishman/Google-Chrome-CVE-2026-110916-POC](https://github.com/SeanDishman/Google-Chrome-CVE-2026-110916-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SeanDishman/Google-Chrome-CVE-2026-110916-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SeanDishman/Google-Chrome-CVE-2026-110916-POC">
 
 ---
 ## CVE-2026-110912 ()
