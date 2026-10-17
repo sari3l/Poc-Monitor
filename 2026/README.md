@@ -4042,6 +4042,11 @@
 - [Saku0512/CVE-2026-54088-poc](https://github.com/Saku0512/CVE-2026-54088-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-54088-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-54088-poc">
 
 ---
+## CVE-2026-53995 ()
+> 
+- [SaiTeja-Erukude/CVE-2026-53995-mlflow-path-traversal](https://github.com/SaiTeja-Erukude/CVE-2026-53995-mlflow-path-traversal)	<img alt="forks" src="https://img.shields.io/github/forks/SaiTeja-Erukude/CVE-2026-53995-mlflow-path-traversal">	<img alt="stars" src="https://img.shields.io/github/stars/SaiTeja-Erukude/CVE-2026-53995-mlflow-path-traversal">
+
+---
 ## CVE-2026-53959 ()
 > 
 - [anirbala98/CVE-2026-53959](https://github.com/anirbala98/CVE-2026-53959)	<img alt="forks" src="https://img.shields.io/github/forks/anirbala98/CVE-2026-53959">	<img alt="stars" src="https://img.shields.io/github/stars/anirbala98/CVE-2026-53959">
