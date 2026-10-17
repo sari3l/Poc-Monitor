@@ -12978,6 +12978,11 @@
 - [Syscallh00k/CVE-2026-111444](https://github.com/Syscallh00k/CVE-2026-111444)	<img alt="forks" src="https://img.shields.io/github/forks/Syscallh00k/CVE-2026-111444">	<img alt="stars" src="https://img.shields.io/github/stars/Syscallh00k/CVE-2026-111444">
 
 ---
+## CVE-2026-111437 ()
+> 
+- [ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report](https://github.com/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report)	<img alt="forks" src="https://img.shields.io/github/forks/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report">	<img alt="stars" src="https://img.shields.io/github/stars/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report">
+
+---
 ## CVE-2026-111389 ()
 > 
 - [Syscallh00k/CVE-2026-111389](https://github.com/Syscallh00k/CVE-2026-111389)	<img alt="forks" src="https://img.shields.io/github/forks/Syscallh00k/CVE-2026-111389">	<img alt="stars" src="https://img.shields.io/github/stars/Syscallh00k/CVE-2026-111389">
