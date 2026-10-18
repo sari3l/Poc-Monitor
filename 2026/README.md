@@ -4566,6 +4566,7 @@
 ## CVE-2026-50229 ()
 > 
 - [zero-trace7/CVE-2026-50229](https://github.com/zero-trace7/CVE-2026-50229)	<img alt="forks" src="https://img.shields.io/github/forks/zero-trace7/CVE-2026-50229">	<img alt="stars" src="https://img.shields.io/github/stars/zero-trace7/CVE-2026-50229">
+- [flvzx/CVE-2026-50229](https://github.com/flvzx/CVE-2026-50229)	<img alt="forks" src="https://img.shields.io/github/forks/flvzx/CVE-2026-50229">	<img alt="stars" src="https://img.shields.io/github/stars/flvzx/CVE-2026-50229">
 
 ---
 ## CVE-2026-50181 ()
@@ -4830,6 +4831,7 @@
 - [ksotaria1337/-CVE-2026-48907-](https://github.com/ksotaria1337/-CVE-2026-48907-)	<img alt="forks" src="https://img.shields.io/github/forks/ksotaria1337/-CVE-2026-48907-">	<img alt="stars" src="https://img.shields.io/github/stars/ksotaria1337/-CVE-2026-48907-">
 - [NONAME-ELV/CVE-2026-48907](https://github.com/NONAME-ELV/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/NONAME-ELV/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/NONAME-ELV/CVE-2026-48907">
 - [0xCyp1337/CVE-2026-48907-RCE](https://github.com/0xCyp1337/CVE-2026-48907-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-48907-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-48907-RCE">
+- [theendofabbys/CVE-2026-48907](https://github.com/theendofabbys/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/theendofabbys/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/theendofabbys/CVE-2026-48907">
 
 ---
 ## CVE-2026-48866 ()

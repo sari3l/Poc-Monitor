@@ -5885,6 +5885,8 @@
 - [ankitpandey383/roundcube-cve-2025-49113-lab](https://github.com/ankitpandey383/roundcube-cve-2025-49113-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ankitpandey383/roundcube-cve-2025-49113-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ankitpandey383/roundcube-cve-2025-49113-lab">
 - [Evillm/CVE-2025-49113-PoC](https://github.com/Evillm/CVE-2025-49113-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Evillm/CVE-2025-49113-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Evillm/CVE-2025-49113-PoC">
 - [mooder1/CVE-2025-49113](https://github.com/mooder1/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/mooder1/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/mooder1/CVE-2025-49113">
+- [rank03031/CVE-2025-49113-CTF](https://github.com/rank03031/CVE-2025-49113-CTF)	<img alt="forks" src="https://img.shields.io/github/forks/rank03031/CVE-2025-49113-CTF">	<img alt="stars" src="https://img.shields.io/github/stars/rank03031/CVE-2025-49113-CTF">
+- [rippsec/CVE-2025-49113-Roundcube-RCE](https://github.com/rippsec/CVE-2025-49113-Roundcube-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/CVE-2025-49113-Roundcube-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/CVE-2025-49113-Roundcube-RCE">
 
 ---
 ## CVE-2025-49091 ()
