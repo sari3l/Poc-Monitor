@@ -4097,6 +4097,8 @@
 - [anonx1945/CVE-2026-53787](https://github.com/anonx1945/CVE-2026-53787)	<img alt="forks" src="https://img.shields.io/github/forks/anonx1945/CVE-2026-53787">	<img alt="stars" src="https://img.shields.io/github/stars/anonx1945/CVE-2026-53787">
 - [webshellseo8/CVE-2026-53787-POC-](https://github.com/webshellseo8/CVE-2026-53787-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-53787-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-53787-POC-">
 - [ChrisSEC2014/amasty-chekout-POC-rce](https://github.com/ChrisSEC2014/amasty-chekout-POC-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisSEC2014/amasty-chekout-POC-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisSEC2014/amasty-chekout-POC-rce">
+- [MRdark-ops/CVE-2026-53787-poc](https://github.com/MRdark-ops/CVE-2026-53787-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MRdark-ops/CVE-2026-53787-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MRdark-ops/CVE-2026-53787-poc">
+- [elitexspam/Def4cer](https://github.com/elitexspam/Def4cer)	<img alt="forks" src="https://img.shields.io/github/forks/elitexspam/Def4cer">	<img alt="stars" src="https://img.shields.io/github/stars/elitexspam/Def4cer">
 
 ---
 ## CVE-2026-53753 ()
@@ -13211,6 +13213,7 @@
 ## CVE-2026-108097 ()
 > 
 - [FurkanKAYAPINAR/CVE-2026-108097](https://github.com/FurkanKAYAPINAR/CVE-2026-108097)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/CVE-2026-108097">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/CVE-2026-108097">
+- [fortbridge/cve-2026-108097-research](https://github.com/fortbridge/cve-2026-108097-research)	<img alt="forks" src="https://img.shields.io/github/forks/fortbridge/cve-2026-108097-research">	<img alt="stars" src="https://img.shields.io/github/stars/fortbridge/cve-2026-108097-research">
 
 ---
 ## CVE-2026-10795 ()

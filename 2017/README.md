@@ -1666,6 +1666,7 @@
 - [imkidz0/CVE-2017-11882](https://github.com/imkidz0/CVE-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/imkidz0/CVE-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/imkidz0/CVE-2017-11882">
 - [DONKEY0xSHOT/CVE-2017-11882-Blocker](https://github.com/DONKEY0xSHOT/CVE-2017-11882-Blocker)	<img alt="forks" src="https://img.shields.io/github/forks/DONKEY0xSHOT/CVE-2017-11882-Blocker">	<img alt="stars" src="https://img.shields.io/github/stars/DONKEY0xSHOT/CVE-2017-11882-Blocker">
 - [futureFfff/CVE-2017](https://github.com/futureFfff/CVE-2017)	<img alt="forks" src="https://img.shields.io/github/forks/futureFfff/CVE-2017">	<img alt="stars" src="https://img.shields.io/github/stars/futureFfff/CVE-2017">
+- [danielakin417/CVE-2017-11882-analysis](https://github.com/danielakin417/CVE-2017-11882-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/danielakin417/CVE-2017-11882-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/danielakin417/CVE-2017-11882-analysis">
 
 ---
 ## CVE-2017-1182 ()
