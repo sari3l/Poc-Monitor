@@ -56,6 +56,11 @@
 - [opaxial/CVE-2026-9830](https://github.com/opaxial/CVE-2026-9830)	<img alt="forks" src="https://img.shields.io/github/forks/opaxial/CVE-2026-9830">	<img alt="stars" src="https://img.shields.io/github/stars/opaxial/CVE-2026-9830">
 
 ---
+## CVE-2026-982600 ()
+> 
+- [yanoo1222/CVE-2026-982600-android](https://github.com/yanoo1222/CVE-2026-982600-android)	<img alt="forks" src="https://img.shields.io/github/forks/yanoo1222/CVE-2026-982600-android">	<img alt="stars" src="https://img.shields.io/github/stars/yanoo1222/CVE-2026-982600-android">
+
+---
 ## CVE-2026-98256 ()
 > 
 - [villager1314/CVE-2026-98256-Analysis](https://github.com/villager1314/CVE-2026-98256-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/villager1314/CVE-2026-98256-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/villager1314/CVE-2026-98256-Analysis">
@@ -458,6 +463,11 @@
 ## CVE-2026-92392 ()
 > 
 - [ashu7ank/CVE-2026-92392](https://github.com/ashu7ank/CVE-2026-92392)	<img alt="forks" src="https://img.shields.io/github/forks/ashu7ank/CVE-2026-92392">	<img alt="stars" src="https://img.shields.io/github/stars/ashu7ank/CVE-2026-92392">
+
+---
+## CVE-2026-92262 ()
+> 
+- [SeanDishman/mariadb-cve-2026-92262](https://github.com/SeanDishman/mariadb-cve-2026-92262)	<img alt="forks" src="https://img.shields.io/github/forks/SeanDishman/mariadb-cve-2026-92262">	<img alt="stars" src="https://img.shields.io/github/stars/SeanDishman/mariadb-cve-2026-92262">
 
 ---
 ## CVE-2026-92247 ()
@@ -13411,6 +13421,7 @@
 ## CVE-2026-104736 ()
 > 
 - [BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details](https://github.com/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details)	<img alt="forks" src="https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details">	<img alt="stars" src="https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details">
+- [murrez/CVE-2026-104736](https://github.com/murrez/CVE-2026-104736)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-104736">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-104736">
 
 ---
 ## CVE-2026-104715 ()
