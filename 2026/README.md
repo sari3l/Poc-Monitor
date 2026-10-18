@@ -2131,6 +2131,7 @@
 ## CVE-2026-71557 ()
 > 
 - [Saku0512/CVE-2026-71557-poc](https://github.com/Saku0512/CVE-2026-71557-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-71557-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-71557-poc">
+- [Saku0512/reprokit-go-git-cve-2026-71557-lab](https://github.com/Saku0512/reprokit-go-git-cve-2026-71557-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/reprokit-go-git-cve-2026-71557-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/reprokit-go-git-cve-2026-71557-lab">
 
 ---
 ## CVE-2026-71554 ()
