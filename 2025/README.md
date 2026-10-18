@@ -1959,6 +1959,7 @@
 - [sahmsec/CVE-2025-6440](https://github.com/sahmsec/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2025-6440">
 - [SangSenimanWartefak/CVE-2025-6440](https://github.com/SangSenimanWartefak/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/SangSenimanWartefak/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/SangSenimanWartefak/CVE-2025-6440">
 - [katranSefa/CVE-2025-6440](https://github.com/katranSefa/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2025-6440">
+- [0xCyp1337/CVE-2025-6440-BypassExt](https://github.com/0xCyp1337/CVE-2025-6440-BypassExt)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2025-6440-BypassExt">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2025-6440-BypassExt">
 
 ---
 ## CVE-2025-64328 ()

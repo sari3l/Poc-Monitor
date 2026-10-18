@@ -13448,6 +13448,11 @@
 - [kayes817/CVE-2026-103889](https://github.com/kayes817/CVE-2026-103889)	<img alt="forks" src="https://img.shields.io/github/forks/kayes817/CVE-2026-103889">	<img alt="stars" src="https://img.shields.io/github/stars/kayes817/CVE-2026-103889">
 
 ---
+## CVE-2026-103849 ()
+> 
+- [dinosn/cve-2026-103849-blockstrap-lab](https://github.com/dinosn/cve-2026-103849-blockstrap-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-103849-blockstrap-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-103849-blockstrap-lab">
+
+---
 ## CVE-2026-103752 ()
 > 
 - [anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation](https://github.com/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation">
