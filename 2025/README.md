@@ -8488,6 +8488,7 @@
 - [HazaVVIP/CVE-2025-30208](https://github.com/HazaVVIP/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/HazaVVIP/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/HazaVVIP/CVE-2025-30208">
 - [cc3305/CVE-2025-30208](https://github.com/cc3305/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2025-30208">
 - [Minseo9503/cve-2025-30208](https://github.com/Minseo9503/cve-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/Minseo9503/cve-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/Minseo9503/cve-2025-30208">
+- [L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125](https://github.com/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125)	<img alt="forks" src="https://img.shields.io/github/forks/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125">	<img alt="stars" src="https://img.shields.io/github/stars/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125">
 
 ---
 ## CVE-2025-30144 ()
