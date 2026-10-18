@@ -1236,6 +1236,7 @@
 ## CVE-2020-36847 ()
 > 
 - [137f/PoC-CVE-2020-36847-WordPress-Plugin-4.2.2-RCE](https://github.com/137f/PoC-CVE-2020-36847-WordPress-Plugin-4.2.2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/137f/PoC-CVE-2020-36847-WordPress-Plugin-4.2.2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/137f/PoC-CVE-2020-36847-WordPress-Plugin-4.2.2-RCE">
+- [K52-ai/CVE-2020-36847](https://github.com/K52-ai/CVE-2020-36847)	<img alt="forks" src="https://img.shields.io/github/forks/K52-ai/CVE-2020-36847">	<img alt="stars" src="https://img.shields.io/github/stars/K52-ai/CVE-2020-36847">
 
 ---
 ## CVE-2020-36842 ()

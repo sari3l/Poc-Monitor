@@ -5096,6 +5096,11 @@
 - [B1ack4sh/Blackash-CVE-2025-53072](https://github.com/B1ack4sh/Blackash-CVE-2025-53072)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-53072">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-53072">
 
 ---
+## CVE-2025-53051 ()
+> 
+- [emad-almousa/CVE-2025-53051](https://github.com/emad-almousa/CVE-2025-53051)	<img alt="forks" src="https://img.shields.io/github/forks/emad-almousa/CVE-2025-53051">	<img alt="stars" src="https://img.shields.io/github/stars/emad-almousa/CVE-2025-53051">
+
+---
 ## CVE-2025-5304 ()
 > 
 - [Nxploited/CVE-2025-5304](https://github.com/Nxploited/CVE-2025-5304)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-5304">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-5304">
@@ -5679,6 +5684,11 @@
 - [open-flaw/CVE-2025-49844](https://github.com/open-flaw/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/open-flaw/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/open-flaw/CVE-2025-49844">
 - [cc3305/CVE-2025-49844](https://github.com/cc3305/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2025-49844">
 - [xiaoqiMikko/log4j-check](https://github.com/xiaoqiMikko/log4j-check)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiMikko/log4j-check">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiMikko/log4j-check">
+
+---
+## CVE-2025-49812 ()
+> 
+- [kimdongjun22/cve-2025-49812-ctf](https://github.com/kimdongjun22/cve-2025-49812-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/kimdongjun22/cve-2025-49812-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/kimdongjun22/cve-2025-49812-ctf">
 
 ---
 ## CVE-2025-49752 ()
