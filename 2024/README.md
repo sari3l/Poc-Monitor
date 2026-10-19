@@ -8147,6 +8147,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [swimmmmy/CVE-2024-27198-teamcity-auth-bypass](https://github.com/swimmmmy/CVE-2024-27198-teamcity-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/swimmmmy/CVE-2024-27198-teamcity-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/swimmmmy/CVE-2024-27198-teamcity-auth-bypass">
 - [kxom9ks/CVE-2024-27198-TeamCity](https://github.com/kxom9ks/CVE-2024-27198-TeamCity)	<img alt="forks" src="https://img.shields.io/github/forks/kxom9ks/CVE-2024-27198-TeamCity">	<img alt="stars" src="https://img.shields.io/github/stars/kxom9ks/CVE-2024-27198-TeamCity">
 - [abiral-timalsina/Cyber-Defenders-lab-](https://github.com/abiral-timalsina/Cyber-Defenders-lab-)	<img alt="forks" src="https://img.shields.io/github/forks/abiral-timalsina/Cyber-Defenders-lab-">	<img alt="stars" src="https://img.shields.io/github/stars/abiral-timalsina/Cyber-Defenders-lab-">
+- [wonnnggge/CVE-2024-27198_CTF](https://github.com/wonnnggge/CVE-2024-27198_CTF)	<img alt="forks" src="https://img.shields.io/github/forks/wonnnggge/CVE-2024-27198_CTF">	<img alt="stars" src="https://img.shields.io/github/stars/wonnnggge/CVE-2024-27198_CTF">
 
 ---
 ## CVE-2024-27191 (2024-04-03T12:15:00)

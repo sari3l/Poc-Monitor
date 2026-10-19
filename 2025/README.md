@@ -4598,6 +4598,7 @@
 - [foxcornlab/react2shell-scanner](https://github.com/foxcornlab/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/foxcornlab/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/foxcornlab/react2shell-scanner">
 - [M4rc3l08/ReactorWriteUp-HackTheBox](https://github.com/M4rc3l08/ReactorWriteUp-HackTheBox)	<img alt="forks" src="https://img.shields.io/github/forks/M4rc3l08/ReactorWriteUp-HackTheBox">	<img alt="stars" src="https://img.shields.io/github/stars/M4rc3l08/ReactorWriteUp-HackTheBox">
 - [Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell">
+- [0xRAM-bit/CVE-2025-55182](https://github.com/0xRAM-bit/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xRAM-bit/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xRAM-bit/CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
