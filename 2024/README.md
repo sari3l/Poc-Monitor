@@ -997,6 +997,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [oseasfr/Scanner_CVE_OpenSSH](https://github.com/oseasfr/Scanner_CVE_OpenSSH)	<img alt="forks" src="https://img.shields.io/github/forks/oseasfr/Scanner_CVE_OpenSSH">	<img alt="stars" src="https://img.shields.io/github/stars/oseasfr/Scanner_CVE_OpenSSH">
 - [vuducmanhno100-cloud/CVE-2024-6387](https://github.com/vuducmanhno100-cloud/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/vuducmanhno100-cloud/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/vuducmanhno100-cloud/CVE-2024-6387">
 - [hasan8babiker/CVE-2024-6387](https://github.com/hasan8babiker/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/hasan8babiker/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/hasan8babiker/CVE-2024-6387">
+- [dolapoojone/CVE-2024-6387-Vulnerability-Anaysis](https://github.com/dolapoojone/CVE-2024-6387-Vulnerability-Anaysis)	<img alt="forks" src="https://img.shields.io/github/forks/dolapoojone/CVE-2024-6387-Vulnerability-Anaysis">	<img alt="stars" src="https://img.shields.io/github/stars/dolapoojone/CVE-2024-6387-Vulnerability-Anaysis">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)
@@ -6092,6 +6093,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [wa6n3r/CVE-2024-3400](https://github.com/wa6n3r/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/wa6n3r/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/wa6n3r/CVE-2024-3400">
 - [P4rC3L/Global-Protect_VPN_Vuln](https://github.com/P4rC3L/Global-Protect_VPN_Vuln)	<img alt="forks" src="https://img.shields.io/github/forks/P4rC3L/Global-Protect_VPN_Vuln">	<img alt="stars" src="https://img.shields.io/github/stars/P4rC3L/Global-Protect_VPN_Vuln">
 - [razureink/cve-2024-3400-panos_rce_reproduction](https://github.com/razureink/cve-2024-3400-panos_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-3400-panos_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-3400-panos_rce_reproduction">
+- [Onosetalease/CVE-2024-3400-Vulnerability-Analysis](https://github.com/Onosetalease/CVE-2024-3400-Vulnerability-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Onosetalease/CVE-2024-3400-Vulnerability-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Onosetalease/CVE-2024-3400-Vulnerability-Analysis">
 
 ---
 ## CVE-2024-340 ()
