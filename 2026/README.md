@@ -45,6 +45,11 @@
 - [aj2108/CVE-2026-9848](https://github.com/aj2108/CVE-2026-9848)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-9848">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-9848">
 
 ---
+## CVE-2026-98385 ()
+> 
+- [ylh440104/InfinityCore-Android-CVE-2026-98385](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98385)	<img alt="forks" src="https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-98385">	<img alt="stars" src="https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-98385">
+
+---
 ## CVE-2026-9833 ()
 > 
 - [aj2108/CVE-2026-9833](https://github.com/aj2108/CVE-2026-9833)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-9833">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-9833">
@@ -61,9 +66,16 @@
 - [yanoo1222/CVE-2026-982600-android](https://github.com/yanoo1222/CVE-2026-982600-android)	<img alt="forks" src="https://img.shields.io/github/forks/yanoo1222/CVE-2026-982600-android">	<img alt="stars" src="https://img.shields.io/github/stars/yanoo1222/CVE-2026-982600-android">
 
 ---
+## CVE-2026-98260 ()
+> 
+- [ylh440104/InfinityCore-Android-CVE-2026-98260](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98260)	<img alt="forks" src="https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-98260">	<img alt="stars" src="https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-98260">
+- [jadedFella/lpe-study-notes](https://github.com/jadedFella/lpe-study-notes)	<img alt="forks" src="https://img.shields.io/github/forks/jadedFella/lpe-study-notes">	<img alt="stars" src="https://img.shields.io/github/stars/jadedFella/lpe-study-notes">
+
+---
 ## CVE-2026-98256 ()
 > 
 - [villager1314/CVE-2026-98256-Analysis](https://github.com/villager1314/CVE-2026-98256-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/villager1314/CVE-2026-98256-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/villager1314/CVE-2026-98256-Analysis">
+- [ylh440104/InfinityCore-Android-CVE-2026-98256](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98256)	<img alt="forks" src="https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-98256">	<img alt="stars" src="https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-98256">
 
 ---
 ## CVE-2026-98198 ()
@@ -89,6 +101,11 @@
 ## CVE-2026-9806 ()
 > 
 - [aj2108/CVE-2026-9806](https://github.com/aj2108/CVE-2026-9806)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-9806">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-9806">
+
+---
+## CVE-2026-97941 ()
+> 
+- [ylh440104/InfinityCore-Android-CVE-2026-97941](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-97941)	<img alt="forks" src="https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-97941">	<img alt="stars" src="https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-97941">
 
 ---
 ## CVE-2026-9789 ()
@@ -640,6 +657,11 @@
 ## CVE-2026-9018 ()
 > 
 - [xxconi/CVE-2026-9018](https://github.com/xxconi/CVE-2026-9018)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-9018">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-9018">
+
+---
+## CVE-2026-89754 ()
+> 
+- [ylh440104/InfinityCore-Android-CVE-2026-89754](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-89754)	<img alt="forks" src="https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-89754">	<img alt="stars" src="https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-89754">
 
 ---
 ## CVE-2026-8933 ()
@@ -1340,6 +1362,11 @@
 ## CVE-2026-8080 ()
 > 
 - [George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-](https://github.com/George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-8080-DKIM-Signature-Verification-Bypass-Header-Canonicalization-Flaw-">
+
+---
+## CVE-2026-80775 ()
+> 
+- [ylh440104/InfinityCore-Android-CVE-2026-80775](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-80775)	<img alt="forks" src="https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-80775">	<img alt="stars" src="https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-80775">
 
 ---
 ## CVE-2026-8069 ()
