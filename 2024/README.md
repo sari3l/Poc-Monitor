@@ -1103,6 +1103,11 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [ading2210/CVE-2024-6778-POC](https://github.com/ading2210/CVE-2024-6778-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ading2210/CVE-2024-6778-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ading2210/CVE-2024-6778-POC">
 
 ---
+## CVE-2024-58299 ()
+> 
+- [CyberWarrior10101/CVE-2024-58299](https://github.com/CyberWarrior10101/CVE-2024-58299)	<img alt="forks" src="https://img.shields.io/github/forks/CyberWarrior10101/CVE-2024-58299">	<img alt="stars" src="https://img.shields.io/github/stars/CyberWarrior10101/CVE-2024-58299">
+
+---
 ## CVE-2024-58290 ()
 > 
 - [SohelYousef/CVE-2024-58290-Xhibiter-SQLi](https://github.com/SohelYousef/CVE-2024-58290-Xhibiter-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/SohelYousef/CVE-2024-58290-Xhibiter-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/SohelYousef/CVE-2024-58290-Xhibiter-SQLi">
@@ -5721,6 +5726,10 @@ PANIC from 6.8.0-rc1:
 - [0xjiefeng/CVE-2024-35250-BOF](https://github.com/0xjiefeng/CVE-2024-35250-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/0xjiefeng/CVE-2024-35250-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/0xjiefeng/CVE-2024-35250-BOF">
 - [yinsel/CVE-2024-35250-BOF](https://github.com/yinsel/CVE-2024-35250-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/yinsel/CVE-2024-35250-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/yinsel/CVE-2024-35250-BOF">
 - [ro0tmylove/CVE-2024-35250-BOF](https://github.com/ro0tmylove/CVE-2024-35250-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/ro0tmylove/CVE-2024-35250-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/ro0tmylove/CVE-2024-35250-BOF">
+- [m01000xd/CVE-2024-35250](https://github.com/m01000xd/CVE-2024-35250)	<img alt="forks" src="https://img.shields.io/github/forks/m01000xd/CVE-2024-35250">	<img alt="stars" src="https://img.shields.io/github/stars/m01000xd/CVE-2024-35250">
+- [xvalegendary/HVCIPwned](https://github.com/xvalegendary/HVCIPwned)	<img alt="forks" src="https://img.shields.io/github/forks/xvalegendary/HVCIPwned">	<img alt="stars" src="https://img.shields.io/github/stars/xvalegendary/HVCIPwned">
+- [0xROOTPLS/GiveMeKernel](https://github.com/0xROOTPLS/GiveMeKernel)	<img alt="forks" src="https://img.shields.io/github/forks/0xROOTPLS/GiveMeKernel">	<img alt="stars" src="https://img.shields.io/github/stars/0xROOTPLS/GiveMeKernel">
+- [CrackerCat/CVE-2024-35250](https://github.com/CrackerCat/CVE-2024-35250)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2024-35250">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2024-35250">
 
 ---
 ## CVE-2024-35242 (2024-06-10T22:15:00)
@@ -8150,6 +8159,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [kxom9ks/CVE-2024-27198-TeamCity](https://github.com/kxom9ks/CVE-2024-27198-TeamCity)	<img alt="forks" src="https://img.shields.io/github/forks/kxom9ks/CVE-2024-27198-TeamCity">	<img alt="stars" src="https://img.shields.io/github/stars/kxom9ks/CVE-2024-27198-TeamCity">
 - [abiral-timalsina/Cyber-Defenders-lab-](https://github.com/abiral-timalsina/Cyber-Defenders-lab-)	<img alt="forks" src="https://img.shields.io/github/forks/abiral-timalsina/Cyber-Defenders-lab-">	<img alt="stars" src="https://img.shields.io/github/stars/abiral-timalsina/Cyber-Defenders-lab-">
 - [wonnnggge/CVE-2024-27198_CTF](https://github.com/wonnnggge/CVE-2024-27198_CTF)	<img alt="forks" src="https://img.shields.io/github/forks/wonnnggge/CVE-2024-27198_CTF">	<img alt="stars" src="https://img.shields.io/github/stars/wonnnggge/CVE-2024-27198_CTF">
+- [GREATKID05/CVE-2024-27198-Assignment](https://github.com/GREATKID05/CVE-2024-27198-Assignment)	<img alt="forks" src="https://img.shields.io/github/forks/GREATKID05/CVE-2024-27198-Assignment">	<img alt="stars" src="https://img.shields.io/github/stars/GREATKID05/CVE-2024-27198-Assignment">
 
 ---
 ## CVE-2024-27191 (2024-04-03T12:15:00)
@@ -10664,6 +10674,11 @@ authentication.   
 ## CVE-2024-12641 ()
 > 
 - [Jimmy01240397/CVE-2024-12641_12642_12645](https://github.com/Jimmy01240397/CVE-2024-12641_12642_12645)	<img alt="forks" src="https://img.shields.io/github/forks/Jimmy01240397/CVE-2024-12641_12642_12645">	<img alt="stars" src="https://img.shields.io/github/stars/Jimmy01240397/CVE-2024-12641_12642_12645">
+
+---
+## CVE-2024-12603 ()
+> 
+- [MAwaisAfzal0/CVE-2024-12603-POC](https://github.com/MAwaisAfzal0/CVE-2024-12603-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MAwaisAfzal0/CVE-2024-12603-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MAwaisAfzal0/CVE-2024-12603-POC">
 
 ---
 ## CVE-2024-12583 ()
