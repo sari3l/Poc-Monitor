@@ -3853,6 +3853,7 @@
 - [sudoand3rs0n/CVE-2025-5548](https://github.com/sudoand3rs0n/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/sudoand3rs0n/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/sudoand3rs0n/CVE-2025-5548">
 - [VSvalinX/CVE-2025-5548](https://github.com/VSvalinX/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/VSvalinX/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/VSvalinX/CVE-2025-5548">
 - [M4Rc0s-S3c/CVE-2025-5548-FreeFloat-FTP-Lab](https://github.com/M4Rc0s-S3c/CVE-2025-5548-FreeFloat-FTP-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/M4Rc0s-S3c/CVE-2025-5548-FreeFloat-FTP-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/M4Rc0s-S3c/CVE-2025-5548-FreeFloat-FTP-Lab">
+- [jonbondani/CVE-2025-5548](https://github.com/jonbondani/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/jonbondani/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/jonbondani/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
