@@ -1007,6 +1007,21 @@
 - [hotplugin0x01/CVE-2026-85612](https://github.com/hotplugin0x01/CVE-2026-85612)	<img alt="forks" src="https://img.shields.io/github/forks/hotplugin0x01/CVE-2026-85612">	<img alt="stars" src="https://img.shields.io/github/stars/hotplugin0x01/CVE-2026-85612">
 
 ---
+## CVE-2026-85314 ()
+> 
+- [oscerd/CVE-2026-85314](https://github.com/oscerd/CVE-2026-85314)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-85314">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-85314">
+
+---
+## CVE-2026-85313 ()
+> 
+- [oscerd/CVE-2026-85313](https://github.com/oscerd/CVE-2026-85313)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-85313">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-85313">
+
+---
+## CVE-2026-85312 ()
+> 
+- [oscerd/CVE-2026-85312](https://github.com/oscerd/CVE-2026-85312)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-85312">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-85312">
+
+---
 ## CVE-2026-85301 ()
 > 
 - [oscerd/CVE-2026-85301](https://github.com/oscerd/CVE-2026-85301)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-85301">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-85301">
@@ -13457,6 +13472,12 @@
 ## CVE-2026-10672 ()
 > 
 - [Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri](https://github.com/Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri">
+
+---
+## CVE-2026-106173 ()
+> 
+- [0xBlackash/CVE-2026-106173](https://github.com/0xBlackash/CVE-2026-106173)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-106173">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-106173">
+- [horizon3ai/CVE-2026-106173](https://github.com/horizon3ai/CVE-2026-106173)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2026-106173">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2026-106173">
 
 ---
 ## CVE-2026-105950 ()

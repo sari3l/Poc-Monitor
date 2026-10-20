@@ -7315,6 +7315,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [JawadPy/CVE-2023-24329-Exploit](https://github.com/JawadPy/CVE-2023-24329-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JawadPy/CVE-2023-24329-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JawadPy/CVE-2023-24329-Exploit">
 - [jithinodattu/CVE-2023-24329-lab](https://github.com/jithinodattu/CVE-2023-24329-lab)	<img alt="forks" src="https://img.shields.io/github/forks/jithinodattu/CVE-2023-24329-lab">	<img alt="stars" src="https://img.shields.io/github/stars/jithinodattu/CVE-2023-24329-lab">
 - [PenTestMano/CVE-2023-24329-Exploit](https://github.com/PenTestMano/CVE-2023-24329-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/PenTestMano/CVE-2023-24329-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/PenTestMano/CVE-2023-24329-Exploit">
+- [UpWguyy/CVE-2023-24329-PoC](https://github.com/UpWguyy/CVE-2023-24329-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/UpWguyy/CVE-2023-24329-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/UpWguyy/CVE-2023-24329-PoC">
 
 ---
 ## CVE-2023-24317 (2023-02-23T20:15:00)
