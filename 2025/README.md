@@ -5213,6 +5213,11 @@
 - [msdmehdipour/meshtastic-cve-2025-52464-poc](https://github.com/msdmehdipour/meshtastic-cve-2025-52464-poc)	<img alt="forks" src="https://img.shields.io/github/forks/msdmehdipour/meshtastic-cve-2025-52464-poc">	<img alt="stars" src="https://img.shields.io/github/stars/msdmehdipour/meshtastic-cve-2025-52464-poc">
 
 ---
+## CVE-2025-5243 ()
+> 
+- [ersinerenler/CVE-2025-5243-SMG-Software-Information-Portal-Arbitrary-File-Upload-Vulnerability](https://github.com/ersinerenler/CVE-2025-5243-SMG-Software-Information-Portal-Arbitrary-File-Upload-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/CVE-2025-5243-SMG-Software-Information-Portal-Arbitrary-File-Upload-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/CVE-2025-5243-SMG-Software-Information-Portal-Arbitrary-File-Upload-Vulnerability">
+
+---
 ## CVE-2025-52413 ()
 > 
 - [GoldenTicketLabs/CVE-2025-52413](https://github.com/GoldenTicketLabs/CVE-2025-52413)	<img alt="forks" src="https://img.shields.io/github/forks/GoldenTicketLabs/CVE-2025-52413">	<img alt="stars" src="https://img.shields.io/github/stars/GoldenTicketLabs/CVE-2025-52413">

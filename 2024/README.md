@@ -10963,6 +10963,11 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [windz3r0day/CVE-2024-11199](https://github.com/windz3r0day/CVE-2024-11199)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11199">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11199">
 
 ---
+## CVE-2024-11142 ()
+> 
+- [ersinerenler/CVE-2024-11142-Gosoft-Proticaret-E-Commerce-CSRF-Vulnerability](https://github.com/ersinerenler/CVE-2024-11142-Gosoft-Proticaret-E-Commerce-CSRF-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/CVE-2024-11142-Gosoft-Proticaret-E-Commerce-CSRF-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/CVE-2024-11142-Gosoft-Proticaret-E-Commerce-CSRF-Vulnerability">
+
+---
 ## CVE-2024-11120 ()
 > 
 - [FoKiiin/CVE-2024-11120](https://github.com/FoKiiin/CVE-2024-11120)	<img alt="forks" src="https://img.shields.io/github/forks/FoKiiin/CVE-2024-11120">	<img alt="stars" src="https://img.shields.io/github/stars/FoKiiin/CVE-2024-11120">
