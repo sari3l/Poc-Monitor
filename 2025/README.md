@@ -333,6 +333,7 @@
 - [Waynehck8/CVE-2025-8110-POC](https://github.com/Waynehck8/CVE-2025-8110-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Waynehck8/CVE-2025-8110-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Waynehck8/CVE-2025-8110-POC">
 - [Makis6/CVE-2025-8110](https://github.com/Makis6/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/Makis6/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/Makis6/CVE-2025-8110">
 - [eds1268/cve-2025-8110-ctf](https://github.com/eds1268/cve-2025-8110-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/eds1268/cve-2025-8110-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/eds1268/cve-2025-8110-ctf">
+- [kur0bai/CVE-2025-8110](https://github.com/kur0bai/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/kur0bai/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/kur0bai/CVE-2025-8110">
 
 ---
 ## CVE-2025-8088 ()
