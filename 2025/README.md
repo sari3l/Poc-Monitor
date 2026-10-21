@@ -9107,6 +9107,11 @@
 - [joaovicdev/EXPLOIT-CVE-2025-27515](https://github.com/joaovicdev/EXPLOIT-CVE-2025-27515)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2025-27515">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2025-27515">
 
 ---
+## CVE-2025-27509 ()
+> 
+- [Chillov3k/poc-cve-2025-27509](https://github.com/Chillov3k/poc-cve-2025-27509)	<img alt="forks" src="https://img.shields.io/github/forks/Chillov3k/poc-cve-2025-27509">	<img alt="stars" src="https://img.shields.io/github/stars/Chillov3k/poc-cve-2025-27509">
+
+---
 ## CVE-2025-27480 ()
 > 
 - [mrk336/CVE-2025-27480-The-Silent-Gateway-Risk](https://github.com/mrk336/CVE-2025-27480-The-Silent-Gateway-Risk)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-27480-The-Silent-Gateway-Risk">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-27480-The-Silent-Gateway-Risk">

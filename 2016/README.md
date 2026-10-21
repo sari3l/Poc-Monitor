@@ -560,6 +560,8 @@
 - [KongQBin/CVE-2016-5195](https://github.com/KongQBin/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/KongQBin/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/KongQBin/CVE-2016-5195">
 - [vudangducminh/CVE-2016-5195](https://github.com/vudangducminh/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/vudangducminh/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/vudangducminh/CVE-2016-5195">
 - [Mr-Ochobot/CVE-2016-5195](https://github.com/Mr-Ochobot/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Ochobot/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Ochobot/CVE-2016-5195">
+- [bL8nCO/Dirty-cow](https://github.com/bL8nCO/Dirty-cow)	<img alt="forks" src="https://img.shields.io/github/forks/bL8nCO/Dirty-cow">	<img alt="stars" src="https://img.shields.io/github/stars/bL8nCO/Dirty-cow">
+- [joshfng/root-honda](https://github.com/joshfng/root-honda)	<img alt="forks" src="https://img.shields.io/github/forks/joshfng/root-honda">	<img alt="stars" src="https://img.shields.io/github/stars/joshfng/root-honda">
 
 ---
 ## CVE-2016-5180 (2016-10-03T15:59:00)
