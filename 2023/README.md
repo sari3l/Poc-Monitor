@@ -1525,6 +1525,11 @@ Qsync Central 4.3.0.11 ( 2024/01/11 ) and later
 - [gmh5225/CVE-2023-47253](https://github.com/gmh5225/CVE-2023-47253)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2023-47253">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2023-47253">
 
 ---
+## CVE-2023-47250 ()
+> 
+- [christinasm1th/CVE-2023-47250-break-fix](https://github.com/christinasm1th/CVE-2023-47250-break-fix)	<img alt="forks" src="https://img.shields.io/github/forks/christinasm1th/CVE-2023-47250-break-fix">	<img alt="stars" src="https://img.shields.io/github/stars/christinasm1th/CVE-2023-47250-break-fix">
+
+---
 ## CVE-2023-47248 ()
 > 
 - [Prodigysec/pyarrow-CVE-2023-47248](https://github.com/Prodigysec/pyarrow-CVE-2023-47248)	<img alt="forks" src="https://img.shields.io/github/forks/Prodigysec/pyarrow-CVE-2023-47248">	<img alt="stars" src="https://img.shields.io/github/stars/Prodigysec/pyarrow-CVE-2023-47248">

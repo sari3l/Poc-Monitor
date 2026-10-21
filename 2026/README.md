@@ -253,6 +253,11 @@
 - [murrez/CVE-2026-96349](https://github.com/murrez/CVE-2026-96349)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-96349">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-96349">
 
 ---
+## CVE-2026-9618 ()
+> 
+- [SleepTheGod/cve-2026-9618-Patch](https://github.com/SleepTheGod/cve-2026-9618-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/SleepTheGod/cve-2026-9618-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/SleepTheGod/cve-2026-9618-Patch">
+
+---
 ## CVE-2026-9586 ()
 > 
 - [HORKimhab/CVE-2026-9586](https://github.com/HORKimhab/CVE-2026-9586)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-9586">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-9586">
@@ -1788,6 +1793,11 @@
 ## CVE-2026-7777 ()
 > 
 - [George0Papasotiriou/CVE-2026-7777-Rust-Use-After-Free-in-Unsafe-Web-Server](https://github.com/George0Papasotiriou/CVE-2026-7777-Rust-Use-After-Free-in-Unsafe-Web-Server)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-7777-Rust-Use-After-Free-in-Unsafe-Web-Server">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-7777-Rust-Use-After-Free-in-Unsafe-Web-Server">
+
+---
+## CVE-2026-77680 ()
+> 
+- [OJ01-creates/CVE-2026-77680-Security-Analysis](https://github.com/OJ01-creates/CVE-2026-77680-Security-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/OJ01-creates/CVE-2026-77680-Security-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/OJ01-creates/CVE-2026-77680-Security-Analysis">
 
 ---
 ## CVE-2026-77635 ()
@@ -4584,6 +4594,7 @@
 ## CVE-2026-51954 ()
 > 
 - [envincion1991-cmyk/CVE-2026-51954](https://github.com/envincion1991-cmyk/CVE-2026-51954)	<img alt="forks" src="https://img.shields.io/github/forks/envincion1991-cmyk/CVE-2026-51954">	<img alt="stars" src="https://img.shields.io/github/stars/envincion1991-cmyk/CVE-2026-51954">
+- [Envincion/CVE-2026-51954](https://github.com/Envincion/CVE-2026-51954)	<img alt="forks" src="https://img.shields.io/github/forks/Envincion/CVE-2026-51954">	<img alt="stars" src="https://img.shields.io/github/stars/Envincion/CVE-2026-51954">
 
 ---
 ## CVE-2026-51947 ()
@@ -13385,6 +13396,11 @@
 - [Iceman2050/cve-2026-110447-checker](https://github.com/Iceman2050/cve-2026-110447-checker)	<img alt="forks" src="https://img.shields.io/github/forks/Iceman2050/cve-2026-110447-checker">	<img alt="stars" src="https://img.shields.io/github/stars/Iceman2050/cve-2026-110447-checker">
 
 ---
+## CVE-2026-110372 ()
+> 
+- [BIBILZERODAY/CVE-2026-110372-MASS-EXPLOIT-WEBSHELL.STORE](https://github.com/BIBILZERODAY/CVE-2026-110372-MASS-EXPLOIT-WEBSHELL.STORE)	<img alt="forks" src="https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-110372-MASS-EXPLOIT-WEBSHELL.STORE">	<img alt="stars" src="https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-110372-MASS-EXPLOIT-WEBSHELL.STORE">
+
+---
 ## CVE-2026-110025 ()
 > 
 - [capivara-research/CVE-2026-110025](https://github.com/capivara-research/CVE-2026-110025)	<img alt="forks" src="https://img.shields.io/github/forks/capivara-research/CVE-2026-110025">	<img alt="stars" src="https://img.shields.io/github/stars/capivara-research/CVE-2026-110025">
@@ -13393,6 +13409,12 @@
 ## CVE-2026-109721 ()
 > 
 - [Scyrix-LLC/CVE-2026-109721](https://github.com/Scyrix-LLC/CVE-2026-109721)	<img alt="forks" src="https://img.shields.io/github/forks/Scyrix-LLC/CVE-2026-109721">	<img alt="stars" src="https://img.shields.io/github/stars/Scyrix-LLC/CVE-2026-109721">
+
+---
+## CVE-2026-109618 ()
+> 
+- [19h/CVE-2026-109618](https://github.com/19h/CVE-2026-109618)	<img alt="forks" src="https://img.shields.io/github/forks/19h/CVE-2026-109618">	<img alt="stars" src="https://img.shields.io/github/stars/19h/CVE-2026-109618">
+- [Zer061/CVE-2026-109618](https://github.com/Zer061/CVE-2026-109618)	<img alt="forks" src="https://img.shields.io/github/forks/Zer061/CVE-2026-109618">	<img alt="stars" src="https://img.shields.io/github/stars/Zer061/CVE-2026-109618">
 
 ---
 ## CVE-2026-109519 ()
@@ -13659,6 +13681,7 @@
 > 
 - [BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details](https://github.com/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details)	<img alt="forks" src="https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details">	<img alt="stars" src="https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details">
 - [murrez/CVE-2026-104736](https://github.com/murrez/CVE-2026-104736)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-104736">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-104736">
+- [BIBILZERODAY/CVE-2026-104736-Mass-Webshell-CVE](https://github.com/BIBILZERODAY/CVE-2026-104736-Mass-Webshell-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-104736-Mass-Webshell-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-104736-Mass-Webshell-CVE">
 
 ---
 ## CVE-2026-104715 ()
