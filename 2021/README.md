@@ -1200,6 +1200,13 @@
 - [hoangvvthu/CVE-2021-44228-Log4Shell-Lab](https://github.com/hoangvvthu/CVE-2021-44228-Log4Shell-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/hoangvvthu/CVE-2021-44228-Log4Shell-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/hoangvvthu/CVE-2021-44228-Log4Shell-Lab">
 - [ResoluteRacoons/log4-Java-logging-poc](https://github.com/ResoluteRacoons/log4-Java-logging-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ResoluteRacoons/log4-Java-logging-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ResoluteRacoons/log4-Java-logging-poc">
 - [mcpmark-eval-liuhezi/log4shell-audit](https://github.com/mcpmark-eval-liuhezi/log4shell-audit)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit">
+- [dave-ojumoola/CYB-401-CVE-2021-44228-Log4Shell](https://github.com/dave-ojumoola/CYB-401-CVE-2021-44228-Log4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/dave-ojumoola/CYB-401-CVE-2021-44228-Log4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/dave-ojumoola/CYB-401-CVE-2021-44228-Log4Shell">
+- [ferralon-demo/log4shell-chain](https://github.com/ferralon-demo/log4shell-chain)	<img alt="forks" src="https://img.shields.io/github/forks/ferralon-demo/log4shell-chain">	<img alt="stars" src="https://img.shields.io/github/stars/ferralon-demo/log4shell-chain">
+- [mcpmark-eval-liuhezi/log4shell-drill](https://github.com/mcpmark-eval-liuhezi/log4shell-drill)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-drill">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-drill">
+- [mcpmark-eval-liuhezi/log4shell-audit-2026](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-2026)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-2026">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-2026">
+- [mcpmark-eval-liuhezi/log4shell-remediation](https://github.com/mcpmark-eval-liuhezi/log4shell-remediation)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-remediation">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-remediation">
+- [TurlaFSB/logshield](https://github.com/TurlaFSB/logshield)	<img alt="forks" src="https://img.shields.io/github/forks/TurlaFSB/logshield">	<img alt="stars" src="https://img.shields.io/github/stars/TurlaFSB/logshield">
+- [Developer-Dynamo/cs50-cybersecurity-final-project](https://github.com/Developer-Dynamo/cs50-cybersecurity-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/Developer-Dynamo/cs50-cybersecurity-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/Developer-Dynamo/cs50-cybersecurity-final-project">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
@@ -5837,6 +5844,11 @@
 - [AlDawli/CVE-2021-34527-](https://github.com/AlDawli/CVE-2021-34527-)	<img alt="forks" src="https://img.shields.io/github/forks/AlDawli/CVE-2021-34527-">	<img alt="stars" src="https://img.shields.io/github/stars/AlDawli/CVE-2021-34527-">
 - [ccordeiro/CVE-2021-1675](https://github.com/ccordeiro/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/ccordeiro/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/ccordeiro/CVE-2021-1675">
 - [CameraShutterBug/PrintNightmare](https://github.com/CameraShutterBug/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/CameraShutterBug/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/CameraShutterBug/PrintNightmare">
+- [honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md](https://github.com/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md)	<img alt="forks" src="https://img.shields.io/github/forks/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md">	<img alt="stars" src="https://img.shields.io/github/stars/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md">
+- [s1kh/Vulnerability-Analysis-and-Mitigation](https://github.com/s1kh/Vulnerability-Analysis-and-Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/s1kh/Vulnerability-Analysis-and-Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/s1kh/Vulnerability-Analysis-and-Mitigation">
+- [HKenzoKimura/CVE-2021-1675](https://github.com/HKenzoKimura/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/HKenzoKimura/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/HKenzoKimura/CVE-2021-1675">
+- [joertx07/printnightmare-detection-lab](https://github.com/joertx07/printnightmare-detection-lab)	<img alt="forks" src="https://img.shields.io/github/forks/joertx07/printnightmare-detection-lab">	<img alt="stars" src="https://img.shields.io/github/stars/joertx07/printnightmare-detection-lab">
+- [KaritaMW/printnightmare-detection-mitigation-lab](https://github.com/KaritaMW/printnightmare-detection-mitigation-lab)	<img alt="forks" src="https://img.shields.io/github/forks/KaritaMW/printnightmare-detection-mitigation-lab">	<img alt="stars" src="https://img.shields.io/github/stars/KaritaMW/printnightmare-detection-mitigation-lab">
 
 ---
 ## CVE-2021-34523 (2021-07-14T18:15:00)
@@ -7768,6 +7780,7 @@
 - [haotiku/CVE-2021-26855-exploit-Exchange](https://github.com/haotiku/CVE-2021-26855-exploit-Exchange)	<img alt="forks" src="https://img.shields.io/github/forks/haotiku/CVE-2021-26855-exploit-Exchange">	<img alt="stars" src="https://img.shields.io/github/stars/haotiku/CVE-2021-26855-exploit-Exchange">
 - [sydneysamantha/Triage-CVE-2021-26855-ProxyLogon---Microsoft-Exchange-](https://github.com/sydneysamantha/Triage-CVE-2021-26855-ProxyLogon---Microsoft-Exchange-)	<img alt="forks" src="https://img.shields.io/github/forks/sydneysamantha/Triage-CVE-2021-26855-ProxyLogon---Microsoft-Exchange-">	<img alt="stars" src="https://img.shields.io/github/stars/sydneysamantha/Triage-CVE-2021-26855-ProxyLogon---Microsoft-Exchange-">
 - [wysssadda/ExchangeSmash](https://github.com/wysssadda/ExchangeSmash)	<img alt="forks" src="https://img.shields.io/github/forks/wysssadda/ExchangeSmash">	<img alt="stars" src="https://img.shields.io/github/stars/wysssadda/ExchangeSmash">
+- [ifeoluwaayodeji/CVE-2021-26855-Analysis](https://github.com/ifeoluwaayodeji/CVE-2021-26855-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/ifeoluwaayodeji/CVE-2021-26855-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/ifeoluwaayodeji/CVE-2021-26855-Analysis">
 
 ---
 ## CVE-2021-26837 ()

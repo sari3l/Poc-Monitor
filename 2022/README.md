@@ -26822,6 +26822,9 @@ the client's API server credentials to third parties.
 - [czabatta/THM-Tempest](https://github.com/czabatta/THM-Tempest)	<img alt="forks" src="https://img.shields.io/github/forks/czabatta/THM-Tempest">	<img alt="stars" src="https://img.shields.io/github/stars/czabatta/THM-Tempest">
 - [zavikhttak/Follina-CVE-2022-30190-Analysis](https://github.com/zavikhttak/Follina-CVE-2022-30190-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/zavikhttak/Follina-CVE-2022-30190-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/zavikhttak/Follina-CVE-2022-30190-Analysis">
 - [zavikhttak/follina-msdt-threat-investigation](https://github.com/zavikhttak/follina-msdt-threat-investigation)	<img alt="forks" src="https://img.shields.io/github/forks/zavikhttak/follina-msdt-threat-investigation">	<img alt="stars" src="https://img.shields.io/github/stars/zavikhttak/follina-msdt-threat-investigation">
+- [jamespelumi79-ctrl/CVE-2022-30190-Follina-Research](https://github.com/jamespelumi79-ctrl/CVE-2022-30190-Follina-Research)	<img alt="forks" src="https://img.shields.io/github/forks/jamespelumi79-ctrl/CVE-2022-30190-Follina-Research">	<img alt="stars" src="https://img.shields.io/github/stars/jamespelumi79-ctrl/CVE-2022-30190-Follina-Research">
+- [dayobamiii/OMOTOSO-AYOBAMI](https://github.com/dayobamiii/OMOTOSO-AYOBAMI)	<img alt="forks" src="https://img.shields.io/github/forks/dayobamiii/OMOTOSO-AYOBAMI">	<img alt="stars" src="https://img.shields.io/github/stars/dayobamiii/OMOTOSO-AYOBAMI">
+- [KaritaMW/follina-vulnerability-analysis-lab](https://github.com/KaritaMW/follina-vulnerability-analysis-lab)	<img alt="forks" src="https://img.shields.io/github/forks/KaritaMW/follina-vulnerability-analysis-lab">	<img alt="stars" src="https://img.shields.io/github/stars/KaritaMW/follina-vulnerability-analysis-lab">
 
 ---
 ## CVE-2022-30166 (2022-06-15T22:15:00)
