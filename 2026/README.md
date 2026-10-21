@@ -77,6 +77,7 @@
 > 
 - [ylh440104/InfinityCore-Android-CVE-2026-98260](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98260)	<img alt="forks" src="https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-98260">	<img alt="stars" src="https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-98260">
 - [jadedFella/lpe-study-notes](https://github.com/jadedFella/lpe-study-notes)	<img alt="forks" src="https://img.shields.io/github/forks/jadedFella/lpe-study-notes">	<img alt="stars" src="https://img.shields.io/github/stars/jadedFella/lpe-study-notes">
+- [yanoo1222/CVE-2026-98260-android](https://github.com/yanoo1222/CVE-2026-98260-android)	<img alt="forks" src="https://img.shields.io/github/forks/yanoo1222/CVE-2026-98260-android">	<img alt="stars" src="https://img.shields.io/github/stars/yanoo1222/CVE-2026-98260-android">
 
 ---
 ## CVE-2026-98256 ()
@@ -3355,6 +3356,7 @@
 - [hypnguyen1209/CVE-2026-62911](https://github.com/hypnguyen1209/CVE-2026-62911)	<img alt="forks" src="https://img.shields.io/github/forks/hypnguyen1209/CVE-2026-62911">	<img alt="stars" src="https://img.shields.io/github/stars/hypnguyen1209/CVE-2026-62911">
 - [ZeroDayEvil/CVE-2026-62911](https://github.com/ZeroDayEvil/CVE-2026-62911)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-62911">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-62911">
 - [bhavik08-gone/CVE-2026-62911-info](https://github.com/bhavik08-gone/CVE-2026-62911-info)	<img alt="forks" src="https://img.shields.io/github/forks/bhavik08-gone/CVE-2026-62911-info">	<img alt="stars" src="https://img.shields.io/github/stars/bhavik08-gone/CVE-2026-62911-info">
+- [fahise/cve-2026-62911](https://github.com/fahise/cve-2026-62911)	<img alt="forks" src="https://img.shields.io/github/forks/fahise/cve-2026-62911">	<img alt="stars" src="https://img.shields.io/github/stars/fahise/cve-2026-62911">
 
 ---
 ## CVE-2026-62878 ()
