@@ -7310,6 +7310,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [12121211aaaaa/CVE_2024_30085](https://github.com/12121211aaaaa/CVE_2024_30085)	<img alt="forks" src="https://img.shields.io/github/forks/12121211aaaaa/CVE_2024_30085">	<img alt="stars" src="https://img.shields.io/github/stars/12121211aaaaa/CVE_2024_30085">
 
 ---
+## CVE-2024-30084 ()
+> 
+- [m01000xd/CVE-2024-30084](https://github.com/m01000xd/CVE-2024-30084)	<img alt="forks" src="https://img.shields.io/github/forks/m01000xd/CVE-2024-30084">	<img alt="stars" src="https://img.shields.io/github/stars/m01000xd/CVE-2024-30084">
+
+---
 ## CVE-2024-30078 (2024-06-11T17:15:00)
 > Windows Wi-Fi Driver Remote Code Execution Vulnerability
 - [alperenugurlu/CVE-2024-30078-](https://github.com/alperenugurlu/CVE-2024-30078-)	<img alt="forks" src="https://img.shields.io/github/forks/alperenugurlu/CVE-2024-30078-">	<img alt="stars" src="https://img.shields.io/github/stars/alperenugurlu/CVE-2024-30078-">

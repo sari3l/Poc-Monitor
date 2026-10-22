@@ -15,6 +15,7 @@
 > 
 - [Rajdave69/CVE-2025-9974](https://github.com/Rajdave69/CVE-2025-9974)	<img alt="forks" src="https://img.shields.io/github/forks/Rajdave69/CVE-2025-9974">	<img alt="stars" src="https://img.shields.io/github/stars/Rajdave69/CVE-2025-9974">
 - [HORKimhab/CVE-2025-9974](https://github.com/HORKimhab/CVE-2025-9974)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2025-9974">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2025-9974">
+- [Rajdave69/CVE-2025-9974](https://github.com/Rajdave69/CVE-2025-9974)	<img alt="forks" src="https://img.shields.io/github/forks/Rajdave69/CVE-2025-9974">	<img alt="stars" src="https://img.shields.io/github/stars/Rajdave69/CVE-2025-9974">
 
 ---
 ## CVE-2025-9967 ()
@@ -8729,6 +8730,8 @@
 - [Ritinify/CVE-2025-29927-PoC](https://github.com/Ritinify/CVE-2025-29927-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ritinify/CVE-2025-29927-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ritinify/CVE-2025-29927-PoC">
 - [vulnace/CVE-2025-29927](https://github.com/vulnace/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/vulnace/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/vulnace/CVE-2025-29927">
 - [sungue1/CVE-2025-29927](https://github.com/sungue1/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/sungue1/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/sungue1/CVE-2025-29927">
+- [mcpmark-eval-liuhezi/cve-2025-29927-audit](https://github.com/mcpmark-eval-liuhezi/cve-2025-29927-audit)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/cve-2025-29927-audit">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/cve-2025-29927-audit">
+- [gadaugherty/larkspur-billing](https://github.com/gadaugherty/larkspur-billing)	<img alt="forks" src="https://img.shields.io/github/forks/gadaugherty/larkspur-billing">	<img alt="stars" src="https://img.shields.io/github/stars/gadaugherty/larkspur-billing">
 
 ---
 ## CVE-2025-29891 ()
