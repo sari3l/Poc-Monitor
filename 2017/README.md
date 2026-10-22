@@ -580,6 +580,11 @@
 - [AIPEACS/SC3010-Computer-Security](https://github.com/AIPEACS/SC3010-Computer-Security)	<img alt="forks" src="https://img.shields.io/github/forks/AIPEACS/SC3010-Computer-Security">	<img alt="stars" src="https://img.shields.io/github/stars/AIPEACS/SC3010-Computer-Security">
 - [ericrlessa/java-exploitable-quiz](https://github.com/ericrlessa/java-exploitable-quiz)	<img alt="forks" src="https://img.shields.io/github/forks/ericrlessa/java-exploitable-quiz">	<img alt="stars" src="https://img.shields.io/github/stars/ericrlessa/java-exploitable-quiz">
 - [soufiane-benchahyd/vulhub-struts2](https://github.com/soufiane-benchahyd/vulhub-struts2)	<img alt="forks" src="https://img.shields.io/github/forks/soufiane-benchahyd/vulhub-struts2">	<img alt="stars" src="https://img.shields.io/github/stars/soufiane-benchahyd/vulhub-struts2">
+- [Ethel087/CVE-2017-5638-Apache-Struts-Analysis](https://github.com/Ethel087/CVE-2017-5638-Apache-Struts-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Ethel087/CVE-2017-5638-Apache-Struts-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Ethel087/CVE-2017-5638-Apache-Struts-Analysis">
+- [s1kh/Vulnerability-Analysis-and-Mitigation](https://github.com/s1kh/Vulnerability-Analysis-and-Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/s1kh/Vulnerability-Analysis-and-Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/s1kh/Vulnerability-Analysis-and-Mitigation">
+- [Piyush-Tiwatne/struts-patch-gap-auditor](https://github.com/Piyush-Tiwatne/struts-patch-gap-auditor)	<img alt="forks" src="https://img.shields.io/github/forks/Piyush-Tiwatne/struts-patch-gap-auditor">	<img alt="stars" src="https://img.shields.io/github/stars/Piyush-Tiwatne/struts-patch-gap-auditor">
+- [GU-007/struts2-tool](https://github.com/GU-007/struts2-tool)	<img alt="forks" src="https://img.shields.io/github/forks/GU-007/struts2-tool">	<img alt="stars" src="https://img.shields.io/github/stars/GU-007/struts2-tool">
+- [NAIRBS/SC3010-Grp-33](https://github.com/NAIRBS/SC3010-Grp-33)	<img alt="forks" src="https://img.shields.io/github/forks/NAIRBS/SC3010-Grp-33">	<img alt="stars" src="https://img.shields.io/github/stars/NAIRBS/SC3010-Grp-33">
 
 ---
 ## CVE-2017-5618 ()

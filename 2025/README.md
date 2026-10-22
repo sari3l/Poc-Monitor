@@ -1850,6 +1850,11 @@
 - [DylanDavis1/CVE-2025-64708](https://github.com/DylanDavis1/CVE-2025-64708)	<img alt="forks" src="https://img.shields.io/github/forks/DylanDavis1/CVE-2025-64708">	<img alt="stars" src="https://img.shields.io/github/stars/DylanDavis1/CVE-2025-64708">
 
 ---
+## CVE-2025-64702 ()
+> 
+- [HORKimhab/CVE-2025-64702-more](https://github.com/HORKimhab/CVE-2025-64702-more)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2025-64702-more">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2025-64702-more">
+
+---
 ## CVE-2025-64516 ()
 > 
 - [lem0naids/CVE-2025-64516-POC](https://github.com/lem0naids/CVE-2025-64516-POC)	<img alt="forks" src="https://img.shields.io/github/forks/lem0naids/CVE-2025-64516-POC">	<img alt="stars" src="https://img.shields.io/github/stars/lem0naids/CVE-2025-64516-POC">
