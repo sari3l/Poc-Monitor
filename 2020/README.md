@@ -4475,6 +4475,7 @@
 - [abdullah50i/internal-penetration-testing-project-using-Metasploit](https://github.com/abdullah50i/internal-penetration-testing-project-using-Metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/abdullah50i/internal-penetration-testing-project-using-Metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/abdullah50i/internal-penetration-testing-project-using-Metasploit">
 - [metehangelgi/CVE-2020-1472-LAB](https://github.com/metehangelgi/CVE-2020-1472-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/metehangelgi/CVE-2020-1472-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/metehangelgi/CVE-2020-1472-LAB">
 - [Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment](https://github.com/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment">
+- [erk3/zeroscan](https://github.com/erk3/zeroscan)	<img alt="forks" src="https://img.shields.io/github/forks/erk3/zeroscan">	<img alt="stars" src="https://img.shields.io/github/stars/erk3/zeroscan">
 
 ---
 ## CVE-2020-14664 (2020-07-15T18:15:00)
