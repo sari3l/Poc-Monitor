@@ -8994,6 +8994,11 @@ If the server is run as root (which is the default when installing the  snap pac
 - [RandomRobbieBF/CVE-2023-0630](https://github.com/RandomRobbieBF/CVE-2023-0630)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-0630">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-0630">
 
 ---
+## CVE-2023-0482 ()
+> 
+- [Bethel904/CVE-2023-0482-Analysis](https://github.com/Bethel904/CVE-2023-0482-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Bethel904/CVE-2023-0482-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Bethel904/CVE-2023-0482-Analysis">
+
+---
 ## CVE-2023-0464 (2023-03-22T17:15:00)
 > A security vulnerability has been identified in all supported versions of OpenSSL related to the verification of X.509 certificate chains that include policy constraints. Attackers may be able to exploit this vulnerability by creating a malicious certificate chain that triggers exponential use of computational resources, leading to a denial-of-service (DoS) attack on affected systems. Policy processing is disabled by default but can be enabled by passing the `-policy' argument to the command line utilities or by calling the `X509_VERIFY_PARAM_set1_policies()' function.
 - [Trinadh465/Openssl_1.1.1g_CVE-2023-0464](https://github.com/Trinadh465/Openssl_1.1.1g_CVE-2023-0464)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/Openssl_1.1.1g_CVE-2023-0464">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/Openssl_1.1.1g_CVE-2023-0464">

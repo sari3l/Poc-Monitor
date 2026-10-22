@@ -10547,6 +10547,7 @@ authentication.   
 ## CVE-2024-14027 ()
 > 
 - [lcfr-eth/CVE-2024-14027_slop](https://github.com/lcfr-eth/CVE-2024-14027_slop)	<img alt="forks" src="https://img.shields.io/github/forks/lcfr-eth/CVE-2024-14027_slop">	<img alt="stars" src="https://img.shields.io/github/stars/lcfr-eth/CVE-2024-14027_slop">
+- [lcfr-eth/CVE-2024-14027_slop](https://github.com/lcfr-eth/CVE-2024-14027_slop)	<img alt="forks" src="https://img.shields.io/github/forks/lcfr-eth/CVE-2024-14027_slop">	<img alt="stars" src="https://img.shields.io/github/stars/lcfr-eth/CVE-2024-14027_slop">
 
 ---
 ## CVE-2024-13985 ()

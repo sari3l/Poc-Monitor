@@ -1194,6 +1194,11 @@
 - [Live-Hack-CVE/CVE-2020-5135](https://github.com/Live-Hack-CVE/CVE-2020-5135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5135">
 
 ---
+## CVE-2020-4949 ()
+> 
+- [Anuhimen/CVE-2020-4949-Analysis](https://github.com/Anuhimen/CVE-2020-4949-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Anuhimen/CVE-2020-4949-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Anuhimen/CVE-2020-4949-Analysis">
+
+---
 ## CVE-2020-4464 (2020-07-17T14:15:00)
 > IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 traditional could allow a remote attacker to execute arbitrary code on a system with a specially-crafted sequence of serialized objects over the SOAP connector. IBM X-Force ID: 181489.
 - [yonggui-li/CVE-2020-4464-and-CVE-2020-4450](https://github.com/yonggui-li/CVE-2020-4464-and-CVE-2020-4450)	<img alt="forks" src="https://img.shields.io/github/forks/yonggui-li/CVE-2020-4464-and-CVE-2020-4450">	<img alt="stars" src="https://img.shields.io/github/stars/yonggui-li/CVE-2020-4464-and-CVE-2020-4450">
@@ -4469,6 +4474,7 @@
 - [ckq7703/CVE-2020-1472](https://github.com/ckq7703/CVE-2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/ckq7703/CVE-2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/ckq7703/CVE-2020-1472">
 - [abdullah50i/internal-penetration-testing-project-using-Metasploit](https://github.com/abdullah50i/internal-penetration-testing-project-using-Metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/abdullah50i/internal-penetration-testing-project-using-Metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/abdullah50i/internal-penetration-testing-project-using-Metasploit">
 - [metehangelgi/CVE-2020-1472-LAB](https://github.com/metehangelgi/CVE-2020-1472-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/metehangelgi/CVE-2020-1472-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/metehangelgi/CVE-2020-1472-LAB">
+- [Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment](https://github.com/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment">
 
 ---
 ## CVE-2020-14664 (2020-07-15T18:15:00)
