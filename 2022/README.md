@@ -30613,6 +30613,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > 
 - [thepiyushkumarshukla/CVE-2022-24707_AnukoTimeTracker_Version-1.20.0_POC](https://github.com/thepiyushkumarshukla/CVE-2022-24707_AnukoTimeTracker_Version-1.20.0_POC)	<img alt="forks" src="https://img.shields.io/github/forks/thepiyushkumarshukla/CVE-2022-24707_AnukoTimeTracker_Version-1.20.0_POC">	<img alt="stars" src="https://img.shields.io/github/stars/thepiyushkumarshukla/CVE-2022-24707_AnukoTimeTracker_Version-1.20.0_POC">
 - [Altelus1/CVE-2022-24707](https://github.com/Altelus1/CVE-2022-24707)	<img alt="forks" src="https://img.shields.io/github/forks/Altelus1/CVE-2022-24707">	<img alt="stars" src="https://img.shields.io/github/stars/Altelus1/CVE-2022-24707">
+- [c0gnit00/CVE-2022-24707](https://github.com/c0gnit00/CVE-2022-24707)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2022-24707">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2022-24707">
 
 ---
 ## CVE-2022-24706 (2022-04-26T10:15:00)
