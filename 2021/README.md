@@ -6867,13 +6867,14 @@
 - [mauricelambert/CVE-2021-31166](https://github.com/mauricelambert/CVE-2021-31166)	<img alt="forks" src="https://img.shields.io/github/forks/mauricelambert/CVE-2021-31166">	<img alt="stars" src="https://img.shields.io/github/stars/mauricelambert/CVE-2021-31166">
 - [mvlnetdev/CVE-2021-31166-detection-rules](https://github.com/mvlnetdev/CVE-2021-31166-detection-rules)	<img alt="forks" src="https://img.shields.io/github/forks/mvlnetdev/CVE-2021-31166-detection-rules">	<img alt="stars" src="https://img.shields.io/github/stars/mvlnetdev/CVE-2021-31166-detection-rules">
 - [ZZ-SOCMAP/CVE-2021-31166](https://github.com/ZZ-SOCMAP/CVE-2021-31166)	<img alt="forks" src="https://img.shields.io/github/forks/ZZ-SOCMAP/CVE-2021-31166">	<img alt="stars" src="https://img.shields.io/github/stars/ZZ-SOCMAP/CVE-2021-31166">
-- [imikoYa/CVE-2021-31166-exploit](https://github.com/imikoYa/CVE-2021-31166-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/imikoYa/CVE-2021-31166-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/imikoYa/CVE-2021-31166-exploit">
+- [iranzai/CVE-2021-31166-exploit](https://github.com/iranzai/CVE-2021-31166-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iranzai/CVE-2021-31166-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iranzai/CVE-2021-31166-exploit">
 - [phil-fly/poc](https://github.com/phil-fly/poc)	<img alt="forks" src="https://img.shields.io/github/forks/phil-fly/poc">	<img alt="stars" src="https://img.shields.io/github/stars/phil-fly/poc">
 - [y0g3sh-99/CVE-2021-31166-Exploit](https://github.com/y0g3sh-99/CVE-2021-31166-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/y0g3sh-99/CVE-2021-31166-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/y0g3sh-99/CVE-2021-31166-Exploit">
 - [0vercl0k/CVE-2021-31166](https://github.com/0vercl0k/CVE-2021-31166)	<img alt="forks" src="https://img.shields.io/github/forks/0vercl0k/CVE-2021-31166">	<img alt="stars" src="https://img.shields.io/github/stars/0vercl0k/CVE-2021-31166">
 - [bgsilvait/WIn-CVE-2021-31166](https://github.com/bgsilvait/WIn-CVE-2021-31166)	<img alt="forks" src="https://img.shields.io/github/forks/bgsilvait/WIn-CVE-2021-31166">	<img alt="stars" src="https://img.shields.io/github/stars/bgsilvait/WIn-CVE-2021-31166">
 - [zecopro/CVE-2021-31166](https://github.com/zecopro/CVE-2021-31166)	<img alt="forks" src="https://img.shields.io/github/forks/zecopro/CVE-2021-31166">	<img alt="stars" src="https://img.shields.io/github/stars/zecopro/CVE-2021-31166">
 - [zha0gongz1/CVE-2021-31166](https://github.com/zha0gongz1/CVE-2021-31166)	<img alt="forks" src="https://img.shields.io/github/forks/zha0gongz1/CVE-2021-31166">	<img alt="stars" src="https://img.shields.io/github/stars/zha0gongz1/CVE-2021-31166">
+- [testerxma/cve-2021-31166-poc](https://github.com/testerxma/cve-2021-31166-poc)	<img alt="forks" src="https://img.shields.io/github/forks/testerxma/cve-2021-31166-poc">	<img alt="stars" src="https://img.shields.io/github/stars/testerxma/cve-2021-31166-poc">
 
 ---
 ## CVE-2021-31162 (2021-04-14T07:15:00)
