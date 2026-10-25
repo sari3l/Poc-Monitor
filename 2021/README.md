@@ -8662,6 +8662,11 @@
 - [Live-Hack-CVE/CVE-2021-23437](https://github.com/Live-Hack-CVE/CVE-2021-23437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23437">
 
 ---
+## CVE-2021-23410 ()
+> 
+- [risvensehiraxt/msgpack-CVE-2021-23410-test.hpp](https://github.com/risvensehiraxt/msgpack-CVE-2021-23410-test.hpp)	<img alt="forks" src="https://img.shields.io/github/forks/risvensehiraxt/msgpack-CVE-2021-23410-test.hpp">	<img alt="stars" src="https://img.shields.io/github/stars/risvensehiraxt/msgpack-CVE-2021-23410-test.hpp">
+
+---
 ## CVE-2021-23394 (2021-06-13T11:15:00)
 > The package studio-42/elfinder before 2.1.58 are vulnerable to Remote Code Execution (RCE) via execution of PHP code in a .phar file. NOTE: This only applies if the server parses .phar files as PHP.
 - [Live-Hack-CVE/CVE-2021-23394](https://github.com/Live-Hack-CVE/CVE-2021-23394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23394">

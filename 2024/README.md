@@ -998,6 +998,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [vuducmanhno100-cloud/CVE-2024-6387](https://github.com/vuducmanhno100-cloud/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/vuducmanhno100-cloud/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/vuducmanhno100-cloud/CVE-2024-6387">
 - [hasan8babiker/CVE-2024-6387](https://github.com/hasan8babiker/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/hasan8babiker/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/hasan8babiker/CVE-2024-6387">
 - [dolapoojone/CVE-2024-6387-Vulnerability-Anaysis](https://github.com/dolapoojone/CVE-2024-6387-Vulnerability-Anaysis)	<img alt="forks" src="https://img.shields.io/github/forks/dolapoojone/CVE-2024-6387-Vulnerability-Anaysis">	<img alt="stars" src="https://img.shields.io/github/stars/dolapoojone/CVE-2024-6387-Vulnerability-Anaysis">
+- [ohackercego/CVE-2024-6387-how-to-fix](https://github.com/ohackercego/CVE-2024-6387-how-to-fix)	<img alt="forks" src="https://img.shields.io/github/forks/ohackercego/CVE-2024-6387-how-to-fix">	<img alt="stars" src="https://img.shields.io/github/stars/ohackercego/CVE-2024-6387-how-to-fix">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)

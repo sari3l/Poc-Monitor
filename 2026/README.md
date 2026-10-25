@@ -7447,6 +7447,7 @@
 - [HORKimhab/CVE-2026-39808](https://github.com/HORKimhab/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-39808">
 - [error-inside/CVE-2026-39808](https://github.com/error-inside/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/error-inside/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/error-inside/CVE-2026-39808">
 - [gotr00t0day/CVE-2026-39808](https://github.com/gotr00t0day/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2026-39808">
+- [Ghost-Bx1/Fortinet-Exploits-CVE-2026-39808-106173-107656](https://github.com/Ghost-Bx1/Fortinet-Exploits-CVE-2026-39808-106173-107656)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/Fortinet-Exploits-CVE-2026-39808-106173-107656">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/Fortinet-Exploits-CVE-2026-39808-106173-107656">
 
 ---
 ## CVE-2026-39676 ()
@@ -13102,6 +13103,11 @@
 - [dasokkk/CVE-2026-14459-14460-pardus-software](https://github.com/dasokkk/CVE-2026-14459-14460-pardus-software)	<img alt="forks" src="https://img.shields.io/github/forks/dasokkk/CVE-2026-14459-14460-pardus-software">	<img alt="stars" src="https://img.shields.io/github/stars/dasokkk/CVE-2026-14459-14460-pardus-software">
 
 ---
+## CVE-2026-14440 ()
+> 
+- [Ghost-Bx1/Cloudflare-Exploits-CVE-2026-14440-CVE-2026-3125-CVE-2025-0651](https://github.com/Ghost-Bx1/Cloudflare-Exploits-CVE-2026-14440-CVE-2026-3125-CVE-2025-0651)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/Cloudflare-Exploits-CVE-2026-14440-CVE-2026-3125-CVE-2025-0651">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/Cloudflare-Exploits-CVE-2026-14440-CVE-2026-3125-CVE-2025-0651">
+
+---
 ## CVE-2026-14431 ()
 > 
 - [jaf0rk/CVE-2026-14431](https://github.com/jaf0rk/CVE-2026-14431)	<img alt="forks" src="https://img.shields.io/github/forks/jaf0rk/CVE-2026-14431">	<img alt="stars" src="https://img.shields.io/github/stars/jaf0rk/CVE-2026-14431">
@@ -13517,6 +13523,7 @@
 - [al4n4n/CVE-2026-115560](https://github.com/al4n4n/CVE-2026-115560)	<img alt="forks" src="https://img.shields.io/github/forks/al4n4n/CVE-2026-115560">	<img alt="stars" src="https://img.shields.io/github/stars/al4n4n/CVE-2026-115560">
 - [renzi25031469/CVE-2026-115560](https://github.com/renzi25031469/CVE-2026-115560)	<img alt="forks" src="https://img.shields.io/github/forks/renzi25031469/CVE-2026-115560">	<img alt="stars" src="https://img.shields.io/github/stars/renzi25031469/CVE-2026-115560">
 - [mamarce/php-vulns-discovered-23-10-2026](https://github.com/mamarce/php-vulns-discovered-23-10-2026)	<img alt="forks" src="https://img.shields.io/github/forks/mamarce/php-vulns-discovered-23-10-2026">	<img alt="stars" src="https://img.shields.io/github/stars/mamarce/php-vulns-discovered-23-10-2026">
+- [Leviticus-Triage/php2shell-unchained](https://github.com/Leviticus-Triage/php2shell-unchained)	<img alt="forks" src="https://img.shields.io/github/forks/Leviticus-Triage/php2shell-unchained">	<img alt="stars" src="https://img.shields.io/github/stars/Leviticus-Triage/php2shell-unchained">
 
 ---
 ## CVE-2026-11551 ()
@@ -13603,6 +13610,11 @@
 - [al4n4n/CVE-2026-112403](https://github.com/al4n4n/CVE-2026-112403)	<img alt="forks" src="https://img.shields.io/github/forks/al4n4n/CVE-2026-112403">	<img alt="stars" src="https://img.shields.io/github/stars/al4n4n/CVE-2026-112403">
 
 ---
+## CVE-2026-112325 ()
+> 
+- [j0xh-sec/CVE-2026-112325](https://github.com/j0xh-sec/CVE-2026-112325)	<img alt="forks" src="https://img.shields.io/github/forks/j0xh-sec/CVE-2026-112325">	<img alt="stars" src="https://img.shields.io/github/stars/j0xh-sec/CVE-2026-112325">
+
+---
 ## CVE-2026-112071 ()
 > 
 - [yuwkaaa/CVE-2026-112071](https://github.com/yuwkaaa/CVE-2026-112071)	<img alt="forks" src="https://img.shields.io/github/forks/yuwkaaa/CVE-2026-112071">	<img alt="stars" src="https://img.shields.io/github/stars/yuwkaaa/CVE-2026-112071">
@@ -13668,6 +13680,7 @@
 - [Hika-sec/http2shell-CVE-2026-111497](https://github.com/Hika-sec/http2shell-CVE-2026-111497)	<img alt="forks" src="https://img.shields.io/github/forks/Hika-sec/http2shell-CVE-2026-111497">	<img alt="stars" src="https://img.shields.io/github/stars/Hika-sec/http2shell-CVE-2026-111497">
 - [tikarammardi/CVE-2026-111497](https://github.com/tikarammardi/CVE-2026-111497)	<img alt="forks" src="https://img.shields.io/github/forks/tikarammardi/CVE-2026-111497">	<img alt="stars" src="https://img.shields.io/github/stars/tikarammardi/CVE-2026-111497">
 - [SYM01/cve-2026-111497](https://github.com/SYM01/cve-2026-111497)	<img alt="forks" src="https://img.shields.io/github/forks/SYM01/cve-2026-111497">	<img alt="stars" src="https://img.shields.io/github/stars/SYM01/cve-2026-111497">
+- [emirwtz/CVE-2026-111497](https://github.com/emirwtz/CVE-2026-111497)	<img alt="forks" src="https://img.shields.io/github/forks/emirwtz/CVE-2026-111497">	<img alt="stars" src="https://img.shields.io/github/stars/emirwtz/CVE-2026-111497">
 
 ---
 ## CVE-2026-111444 ()
@@ -14478,6 +14491,7 @@
 - [tani2shell/php2shell-lab](https://github.com/tani2shell/php2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/tani2shell/php2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/tani2shell/php2shell-lab">
 - [0x1c1101/CVE-2026-109618-PoC](https://github.com/0x1c1101/CVE-2026-109618-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0x1c1101/CVE-2026-109618-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0x1c1101/CVE-2026-109618-PoC">
 - [nokitakaze/CVE-2026-109618-109619-checker](https://github.com/nokitakaze/CVE-2026-109618-109619-checker)	<img alt="forks" src="https://img.shields.io/github/forks/nokitakaze/CVE-2026-109618-109619-checker">	<img alt="stars" src="https://img.shields.io/github/stars/nokitakaze/CVE-2026-109618-109619-checker">
+- [jeffschafer/Bigfix-PHP-Vulnerability-Scanner-Content-CVE-2026-109618-CVE-2026-109619](https://github.com/jeffschafer/Bigfix-PHP-Vulnerability-Scanner-Content-CVE-2026-109618-CVE-2026-109619)	<img alt="forks" src="https://img.shields.io/github/forks/jeffschafer/Bigfix-PHP-Vulnerability-Scanner-Content-CVE-2026-109618-CVE-2026-109619">	<img alt="stars" src="https://img.shields.io/github/stars/jeffschafer/Bigfix-PHP-Vulnerability-Scanner-Content-CVE-2026-109618-CVE-2026-109619">
 
 ---
 ## CVE-2026-10961 ()
@@ -15575,6 +15589,9 @@
 - [ctn-Qvo/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN](https://github.com/ctn-Qvo/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN)	<img alt="forks" src="https://img.shields.io/github/forks/ctn-Qvo/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN">	<img alt="stars" src="https://img.shields.io/github/stars/ctn-Qvo/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN">
 - [aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass](https://github.com/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass">
 - [naheeju/POC-CVE-2026-0073](https://github.com/naheeju/POC-CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/naheeju/POC-CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/naheeju/POC-CVE-2026-0073">
+- [umarrehmansiddiqui/CVE-2026-0073](https://github.com/umarrehmansiddiqui/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/umarrehmansiddiqui/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/umarrehmansiddiqui/CVE-2026-0073">
+- [ko456123mo-jpg/zero-x-deploy](https://github.com/ko456123mo-jpg/zero-x-deploy)	<img alt="forks" src="https://img.shields.io/github/forks/ko456123mo-jpg/zero-x-deploy">	<img alt="stars" src="https://img.shields.io/github/stars/ko456123mo-jpg/zero-x-deploy">
+- [xqi1337/CVE-2026-0073-Android-ADBD-bypass-POC](https://github.com/xqi1337/CVE-2026-0073-Android-ADBD-bypass-POC)	<img alt="forks" src="https://img.shields.io/github/forks/xqi1337/CVE-2026-0073-Android-ADBD-bypass-POC">	<img alt="stars" src="https://img.shields.io/github/stars/xqi1337/CVE-2026-0073-Android-ADBD-bypass-POC">
 
 ---
 ## CVE-2026-0049 ()

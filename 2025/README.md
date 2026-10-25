@@ -9287,6 +9287,7 @@
 ## CVE-2025-26326 ()
 > 
 - [azurejoga/CVE-2025-26326](https://github.com/azurejoga/CVE-2025-26326)	<img alt="forks" src="https://img.shields.io/github/forks/azurejoga/CVE-2025-26326">	<img alt="stars" src="https://img.shields.io/github/stars/azurejoga/CVE-2025-26326">
+- [ohackercego/CVE-2025-26326](https://github.com/ohackercego/CVE-2025-26326)	<img alt="forks" src="https://img.shields.io/github/forks/ohackercego/CVE-2025-26326">	<img alt="stars" src="https://img.shields.io/github/stars/ohackercego/CVE-2025-26326">
 
 ---
 ## CVE-2025-26319 ()
