@@ -3472,6 +3472,7 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 ## CVE-2024-45409 (2024-09-10T19:15:00)
 > The Ruby SAML library is for implementing the client side of a SAML authorization. Ruby-SAML in <= 12.2 and 1.13.0 <= 1.16.0 does not properly verify the signature of the SAML Response. An unauthenticated attacker with access to any signed saml document (by the IdP) can thus forge a SAML Response/Assertion with arbitrary contents. This would allow the attacker to log in as arbitrary user within the vulnerable system. This vulnerability is fixed in 1.17.0 and 1.12.3.
 - [synacktiv/CVE-2024-45409](https://github.com/synacktiv/CVE-2024-45409)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2024-45409">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2024-45409">
+- [barkotenicholas/CVE-2024-45409](https://github.com/barkotenicholas/CVE-2024-45409)	<img alt="forks" src="https://img.shields.io/github/forks/barkotenicholas/CVE-2024-45409">	<img alt="stars" src="https://img.shields.io/github/stars/barkotenicholas/CVE-2024-45409">
 
 ---
 ## CVE-2024-45388 (2024-09-02T18:15:00)
