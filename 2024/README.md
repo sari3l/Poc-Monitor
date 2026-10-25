@@ -11233,6 +11233,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-10441 ()
 > 
 - [hazzzein/CVE-2024-10441](https://github.com/hazzzein/CVE-2024-10441)	<img alt="forks" src="https://img.shields.io/github/forks/hazzzein/CVE-2024-10441">	<img alt="stars" src="https://img.shields.io/github/stars/hazzzein/CVE-2024-10441">
+- [Ntn10/cve-2024-10441-synology-rce](https://github.com/Ntn10/cve-2024-10441-synology-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Ntn10/cve-2024-10441-synology-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Ntn10/cve-2024-10441-synology-rce">
 
 ---
 ## CVE-2024-10420 (2024-10-27T16:15:00)
