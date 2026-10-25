@@ -1292,9 +1292,12 @@ Users are recommended to upgrade to version 18.12.10
 > 
 - [TrixSec/CVE-2023-48795](https://github.com/TrixSec/CVE-2023-48795)	<img alt="forks" src="https://img.shields.io/github/forks/TrixSec/CVE-2023-48795">	<img alt="stars" src="https://img.shields.io/github/stars/TrixSec/CVE-2023-48795">
 - [RUB-NDS/Terrapin-Artifacts](https://github.com/RUB-NDS/Terrapin-Artifacts)	<img alt="forks" src="https://img.shields.io/github/forks/RUB-NDS/Terrapin-Artifacts">	<img alt="stars" src="https://img.shields.io/github/stars/RUB-NDS/Terrapin-Artifacts">
-- [Eros-Adrian-Figueroa-Cortes/CVE-2023-48795](https://github.com/Eros-Adrian-Figueroa-Cortes/CVE-2023-48795)	<img alt="forks" src="https://img.shields.io/github/forks/Eros-Adrian-Figueroa-Cortes/CVE-2023-48795">	<img alt="stars" src="https://img.shields.io/github/stars/Eros-Adrian-Figueroa-Cortes/CVE-2023-48795">
+- [hav0cx0/CVE-2023-48795](https://github.com/hav0cx0/CVE-2023-48795)	<img alt="forks" src="https://img.shields.io/github/forks/hav0cx0/CVE-2023-48795">	<img alt="stars" src="https://img.shields.io/github/stars/hav0cx0/CVE-2023-48795">
 - [Eros-Adrian-Figueroa-Cortes/CVE-2023-48795-](https://github.com/Eros-Adrian-Figueroa-Cortes/CVE-2023-48795-)	<img alt="forks" src="https://img.shields.io/github/forks/Eros-Adrian-Figueroa-Cortes/CVE-2023-48795-">	<img alt="stars" src="https://img.shields.io/github/stars/Eros-Adrian-Figueroa-Cortes/CVE-2023-48795-">
 - [sameeralam3127/rhel8_cve_2023_48795](https://github.com/sameeralam3127/rhel8_cve_2023_48795)	<img alt="forks" src="https://img.shields.io/github/forks/sameeralam3127/rhel8_cve_2023_48795">	<img alt="stars" src="https://img.shields.io/github/stars/sameeralam3127/rhel8_cve_2023_48795">
+- [breaksek/CVE-2023-48795](https://github.com/breaksek/CVE-2023-48795)	<img alt="forks" src="https://img.shields.io/github/forks/breaksek/CVE-2023-48795">	<img alt="stars" src="https://img.shields.io/github/stars/breaksek/CVE-2023-48795">
+- [Mr-Whiskerss/SSH-Terrapin-Prefix-Truncation-Weakness-CVE-2023-48795-Checker](https://github.com/Mr-Whiskerss/SSH-Terrapin-Prefix-Truncation-Weakness-CVE-2023-48795-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Whiskerss/SSH-Terrapin-Prefix-Truncation-Weakness-CVE-2023-48795-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Whiskerss/SSH-Terrapin-Prefix-Truncation-Weakness-CVE-2023-48795-Checker">
+- [oseasfr/Scanner_CVE_OpenSSH](https://github.com/oseasfr/Scanner_CVE_OpenSSH)	<img alt="forks" src="https://img.shields.io/github/forks/oseasfr/Scanner_CVE_OpenSSH">	<img alt="stars" src="https://img.shields.io/github/stars/oseasfr/Scanner_CVE_OpenSSH">
 
 ---
 ## CVE-2023-48788 (2024-03-12T15:15:00)
