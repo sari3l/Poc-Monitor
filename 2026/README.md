@@ -13482,9 +13482,24 @@
 - [emlinhax/CVE-2026-11645-poc](https://github.com/emlinhax/CVE-2026-11645-poc)	<img alt="forks" src="https://img.shields.io/github/forks/emlinhax/CVE-2026-11645-poc">	<img alt="stars" src="https://img.shields.io/github/stars/emlinhax/CVE-2026-11645-poc">
 
 ---
+## CVE-2026-116191 ()
+> 
+- [asvorg/CVE-2026-116191-poc](https://github.com/asvorg/CVE-2026-116191-poc)	<img alt="forks" src="https://img.shields.io/github/forks/asvorg/CVE-2026-116191-poc">	<img alt="stars" src="https://img.shields.io/github/stars/asvorg/CVE-2026-116191-poc">
+
+---
 ## CVE-2026-11613 ()
 > 
 - [Wayang1337/CVE-2026-11613](https://github.com/Wayang1337/CVE-2026-11613)	<img alt="forks" src="https://img.shields.io/github/forks/Wayang1337/CVE-2026-11613">	<img alt="stars" src="https://img.shields.io/github/stars/Wayang1337/CVE-2026-11613">
+
+---
+## CVE-2026-116106 ()
+> 
+- [ohackercego/CVE-2026-116106](https://github.com/ohackercego/CVE-2026-116106)	<img alt="forks" src="https://img.shields.io/github/forks/ohackercego/CVE-2026-116106">	<img alt="stars" src="https://img.shields.io/github/stars/ohackercego/CVE-2026-116106">
+
+---
+## CVE-2026-116105 ()
+> 
+- [ohackercego/CVE-2026-116105](https://github.com/ohackercego/CVE-2026-116105)	<img alt="forks" src="https://img.shields.io/github/forks/ohackercego/CVE-2026-116105">	<img alt="stars" src="https://img.shields.io/github/stars/ohackercego/CVE-2026-116105">
 
 ---
 ## CVE-2026-116012 ()

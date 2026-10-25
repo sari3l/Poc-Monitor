@@ -8665,6 +8665,7 @@
 ## CVE-2021-23410 ()
 > 
 - [risvensehiraxt/msgpack-CVE-2021-23410-test.hpp](https://github.com/risvensehiraxt/msgpack-CVE-2021-23410-test.hpp)	<img alt="forks" src="https://img.shields.io/github/forks/risvensehiraxt/msgpack-CVE-2021-23410-test.hpp">	<img alt="stars" src="https://img.shields.io/github/stars/risvensehiraxt/msgpack-CVE-2021-23410-test.hpp">
+- [azu/msgpack-CVE-2021-23410-test](https://github.com/azu/msgpack-CVE-2021-23410-test)	<img alt="forks" src="https://img.shields.io/github/forks/azu/msgpack-CVE-2021-23410-test">	<img alt="stars" src="https://img.shields.io/github/stars/azu/msgpack-CVE-2021-23410-test">
 
 ---
 ## CVE-2021-23394 (2021-06-13T11:15:00)
