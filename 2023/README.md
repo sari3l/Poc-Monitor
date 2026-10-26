@@ -3928,6 +3928,11 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 - [shoucheng3/apache__rocketmq_CVE-2023-37582_4-9-6](https://github.com/shoucheng3/apache__rocketmq_CVE-2023-37582_4-9-6)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__rocketmq_CVE-2023-37582_4-9-6">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__rocketmq_CVE-2023-37582_4-9-6">
 
 ---
+## CVE-2023-37569 ()
+> 
+- [piecar21/CVE-2023-37569](https://github.com/piecar21/CVE-2023-37569)	<img alt="forks" src="https://img.shields.io/github/forks/piecar21/CVE-2023-37569">	<img alt="stars" src="https://img.shields.io/github/stars/piecar21/CVE-2023-37569">
+
+---
 ## CVE-2023-37478 (2023-08-01T12:15:00)
 > pnpm is a package manager. It is possible to construct a tarball that, when installed via npm or parsed by the registry is safe, but when installed via pnpm is malicious, due to how pnpm parses tar archives. This can result in a package that appears safe on the npm registry or when installed via npm being replaced with a compromised or malicious version when installed via pnpm. This issue has been patched in version(s) 7.33.4 and 8.6.8.
 - [TrevorGKann/CVE-2023-37478_npm_vs_pnpm](https://github.com/TrevorGKann/CVE-2023-37478_npm_vs_pnpm)	<img alt="forks" src="https://img.shields.io/github/forks/TrevorGKann/CVE-2023-37478_npm_vs_pnpm">	<img alt="stars" src="https://img.shields.io/github/stars/TrevorGKann/CVE-2023-37478_npm_vs_pnpm">
@@ -6257,6 +6262,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [DLandonHSCS/Discord-RCE](https://github.com/DLandonHSCS/Discord-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/DLandonHSCS/Discord-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/DLandonHSCS/Discord-RCE">
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 - [JinParkmida/cve-2023-28771-demo](https://github.com/JinParkmida/cve-2023-28771-demo)	<img alt="forks" src="https://img.shields.io/github/forks/JinParkmida/cve-2023-28771-demo">	<img alt="stars" src="https://img.shields.io/github/stars/JinParkmida/cve-2023-28771-demo">
+- [piecar21/CVE-2023-28771](https://github.com/piecar21/CVE-2023-28771)	<img alt="forks" src="https://img.shields.io/github/forks/piecar21/CVE-2023-28771">	<img alt="stars" src="https://img.shields.io/github/stars/piecar21/CVE-2023-28771">
 
 ---
 ## CVE-2023-2877 (2023-06-27T14:15:00)

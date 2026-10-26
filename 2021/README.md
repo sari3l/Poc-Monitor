@@ -5266,6 +5266,7 @@
 - [adakoifman/CVE-2021-3560](https://github.com/adakoifman/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/adakoifman/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/adakoifman/CVE-2021-3560">
 - [Gerberayale521/pwnkit](https://github.com/Gerberayale521/pwnkit)	<img alt="forks" src="https://img.shields.io/github/forks/Gerberayale521/pwnkit">	<img alt="stars" src="https://img.shields.io/github/stars/Gerberayale521/pwnkit">
 - [Jeanback1/CVE-2021-3560-exploit](https://github.com/Jeanback1/CVE-2021-3560-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanback1/CVE-2021-3560-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanback1/CVE-2021-3560-exploit">
+- [AntorDOS/CVE-2021-3560-Polkit-Privesc-Exploit](https://github.com/AntorDOS/CVE-2021-3560-Polkit-Privesc-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AntorDOS/CVE-2021-3560-Polkit-Privesc-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AntorDOS/CVE-2021-3560-Polkit-Privesc-Exploit">
 
 ---
 ## CVE-2021-35587 (2022-01-19T12:15:00)

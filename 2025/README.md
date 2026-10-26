@@ -3863,6 +3863,7 @@
 - [jonbondani/CVE-2025-5548](https://github.com/jonbondani/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/jonbondani/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/jonbondani/CVE-2025-5548">
 - [pedrose-99/CVE-2025-5548](https://github.com/pedrose-99/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/pedrose-99/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/pedrose-99/CVE-2025-5548">
 - [FreemanHack/CVE-2025-5548](https://github.com/FreemanHack/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/FreemanHack/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/FreemanHack/CVE-2025-5548">
+- [jessoan/CVE-2025-5548](https://github.com/jessoan/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/jessoan/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/jessoan/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
