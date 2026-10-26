@@ -30490,6 +30490,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [c1ph3rbyt3/CVE-2022-24816](https://github.com/c1ph3rbyt3/CVE-2022-24816)	<img alt="forks" src="https://img.shields.io/github/forks/c1ph3rbyt3/CVE-2022-24816">	<img alt="stars" src="https://img.shields.io/github/stars/c1ph3rbyt3/CVE-2022-24816">
 
 ---
+## CVE-2022-24803 ()
+> 
+- [Udyz/CVE-2022-24803](https://github.com/Udyz/CVE-2022-24803)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2022-24803">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2022-24803">
+
+---
 ## CVE-2022-24793 (2022-04-06T14:15:00)
 > PJSIP is a free and open source multimedia communication library written in C. A buffer overflow vulnerability in versions 2.12 and prior affects applications that uses PJSIP DNS resolution. It doesn't affect PJSIP users who utilize an external resolver. A patch is available in the `master` branch of the `pjsip/pjproject` GitHub repository. A workaround is to disable DNS resolution in PJSIP config (by setting `nameserver_count` to zero) or use an external resolver instead.
 - [Live-Hack-CVE/CVE-2022-24793](https://github.com/Live-Hack-CVE/CVE-2022-24793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24793">

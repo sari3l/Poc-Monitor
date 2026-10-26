@@ -3862,6 +3862,7 @@
 - [M4Rc0s-S3c/CVE-2025-5548-FreeFloat-FTP-Lab](https://github.com/M4Rc0s-S3c/CVE-2025-5548-FreeFloat-FTP-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/M4Rc0s-S3c/CVE-2025-5548-FreeFloat-FTP-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/M4Rc0s-S3c/CVE-2025-5548-FreeFloat-FTP-Lab">
 - [jonbondani/CVE-2025-5548](https://github.com/jonbondani/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/jonbondani/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/jonbondani/CVE-2025-5548">
 - [pedrose-99/CVE-2025-5548](https://github.com/pedrose-99/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/pedrose-99/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/pedrose-99/CVE-2025-5548">
+- [FreemanHack/CVE-2025-5548](https://github.com/FreemanHack/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/FreemanHack/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/FreemanHack/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
@@ -4608,6 +4609,10 @@
 - [M4rc3l08/ReactorWriteUp-HackTheBox](https://github.com/M4rc3l08/ReactorWriteUp-HackTheBox)	<img alt="forks" src="https://img.shields.io/github/forks/M4rc3l08/ReactorWriteUp-HackTheBox">	<img alt="stars" src="https://img.shields.io/github/stars/M4rc3l08/ReactorWriteUp-HackTheBox">
 - [Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell">
 - [0xRAM-bit/CVE-2025-55182](https://github.com/0xRAM-bit/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xRAM-bit/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xRAM-bit/CVE-2025-55182">
+- [solidevil14/Suricata-Rule-for-Detecting-CVE-2025-55182](https://github.com/solidevil14/Suricata-Rule-for-Detecting-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/solidevil14/Suricata-Rule-for-Detecting-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/solidevil14/Suricata-Rule-for-Detecting-CVE-2025-55182">
+- [hadayalab-web/pandemic-fortress-advisories](https://github.com/hadayalab-web/pandemic-fortress-advisories)	<img alt="forks" src="https://img.shields.io/github/forks/hadayalab-web/pandemic-fortress-advisories">	<img alt="stars" src="https://img.shields.io/github/stars/hadayalab-web/pandemic-fortress-advisories">
+- [manshoor/php2shell-scanner](https://github.com/manshoor/php2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/manshoor/php2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/manshoor/php2shell-scanner">
+- [bytesAIren/THM_Corp_Website_CTF](https://github.com/bytesAIren/THM_Corp_Website_CTF)	<img alt="forks" src="https://img.shields.io/github/forks/bytesAIren/THM_Corp_Website_CTF">	<img alt="stars" src="https://img.shields.io/github/stars/bytesAIren/THM_Corp_Website_CTF">
 
 ---
 ## CVE-2025-55130 ()
