@@ -7588,6 +7588,11 @@
 - [katranSefa/CVE-2026-3891](https://github.com/katranSefa/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-3891">
 
 ---
+## CVE-2026-38903 ()
+> 
+- [Lenard-BIDaaS/CVE-2026-38903](https://github.com/Lenard-BIDaaS/CVE-2026-38903)	<img alt="forks" src="https://img.shields.io/github/forks/Lenard-BIDaaS/CVE-2026-38903">	<img alt="stars" src="https://img.shields.io/github/stars/Lenard-BIDaaS/CVE-2026-38903">
+
+---
 ## CVE-2026-3888 ()
 > 
 - [fevar54/CVE-2026-3888-POC-all-from-the-Qualys-platform.](https://github.com/fevar54/CVE-2026-3888-POC-all-from-the-Qualys-platform.)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-3888-POC-all-from-the-Qualys-platform.">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-3888-POC-all-from-the-Qualys-platform.">
@@ -13738,6 +13743,10 @@
 - [piecar21/CVE-2026-111497](https://github.com/piecar21/CVE-2026-111497)	<img alt="forks" src="https://img.shields.io/github/forks/piecar21/CVE-2026-111497">	<img alt="stars" src="https://img.shields.io/github/stars/piecar21/CVE-2026-111497">
 - [jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497](https://github.com/jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497)	<img alt="forks" src="https://img.shields.io/github/forks/jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497">	<img alt="stars" src="https://img.shields.io/github/stars/jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497">
 - [AdapptOnAzure/CVE-2026-111497-DotNetBrotliScan](https://github.com/AdapptOnAzure/CVE-2026-111497-DotNetBrotliScan)	<img alt="forks" src="https://img.shields.io/github/forks/AdapptOnAzure/CVE-2026-111497-DotNetBrotliScan">	<img alt="stars" src="https://img.shields.io/github/stars/AdapptOnAzure/CVE-2026-111497-DotNetBrotliScan">
+- [queso/formbricks-patched](https://github.com/queso/formbricks-patched)	<img alt="forks" src="https://img.shields.io/github/forks/queso/formbricks-patched">	<img alt="stars" src="https://img.shields.io/github/stars/queso/formbricks-patched">
+- [amier-ge/node2shell-checker](https://github.com/amier-ge/node2shell-checker)	<img alt="forks" src="https://img.shields.io/github/forks/amier-ge/node2shell-checker">	<img alt="stars" src="https://img.shields.io/github/stars/amier-ge/node2shell-checker">
+- [FranklinF25/http2shell](https://github.com/FranklinF25/http2shell)	<img alt="forks" src="https://img.shields.io/github/forks/FranklinF25/http2shell">	<img alt="stars" src="https://img.shields.io/github/stars/FranklinF25/http2shell">
+- [bastet-ai/brotli-firing-range](https://github.com/bastet-ai/brotli-firing-range)	<img alt="forks" src="https://img.shields.io/github/forks/bastet-ai/brotli-firing-range">	<img alt="stars" src="https://img.shields.io/github/stars/bastet-ai/brotli-firing-range">
 
 ---
 ## CVE-2026-111444 ()
