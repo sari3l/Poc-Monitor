@@ -9811,6 +9811,7 @@
 - [yym8538/CVE-2025-24813](https://github.com/yym8538/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/yym8538/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/yym8538/CVE-2025-24813">
 - [Affapple/CVE-2025-24813-POC](https://github.com/Affapple/CVE-2025-24813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Affapple/CVE-2025-24813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Affapple/CVE-2025-24813-POC">
 - [toyplan/cve-2025-24813](https://github.com/toyplan/cve-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/toyplan/cve-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/toyplan/cve-2025-24813">
+- [Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813](https://github.com/Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
