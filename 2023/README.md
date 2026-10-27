@@ -17,6 +17,11 @@
 - [xiahao90/CVE-2023-8888.test](https://github.com/xiahao90/CVE-2023-8888.test)	<img alt="forks" src="https://img.shields.io/github/forks/xiahao90/CVE-2023-8888.test">	<img alt="stars" src="https://img.shields.io/github/stars/xiahao90/CVE-2023-8888.test">
 
 ---
+## CVE-2023-7356 ()
+> 
+- [emirwtz/CVE-2023-7356](https://github.com/emirwtz/CVE-2023-7356)	<img alt="forks" src="https://img.shields.io/github/forks/emirwtz/CVE-2023-7356">	<img alt="stars" src="https://img.shields.io/github/stars/emirwtz/CVE-2023-7356">
+
+---
 ## CVE-2023-7261 (2024-06-07T20:15:00)
 > Inappropriate implementation in Google Updator prior to 1.3.36.351 in Google Chrome allowed a local attacker to perform privilege escalation via a malicious file. (Chromium security severity: High)
 - [zerozenxlabs/CVE-2023-7261](https://github.com/zerozenxlabs/CVE-2023-7261)	<img alt="forks" src="https://img.shields.io/github/forks/zerozenxlabs/CVE-2023-7261">	<img alt="stars" src="https://img.shields.io/github/stars/zerozenxlabs/CVE-2023-7261">
