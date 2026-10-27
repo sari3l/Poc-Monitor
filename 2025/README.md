@@ -9049,6 +9049,11 @@
 - [watchtowrlabs/watchTowr-vs-SysAid-PreAuth-RCE-Chain](https://github.com/watchtowrlabs/watchTowr-vs-SysAid-PreAuth-RCE-Chain)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-SysAid-PreAuth-RCE-Chain">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-SysAid-PreAuth-RCE-Chain">
 
 ---
+## CVE-2025-27740 ()
+> 
+- [Dannners/CVE-2025-27740_POC](https://github.com/Dannners/CVE-2025-27740_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Dannners/CVE-2025-27740_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Dannners/CVE-2025-27740_POC">
+
+---
 ## CVE-2025-27636 ()
 > 
 - [akamai/CVE-2025-27636-Apache-Camel-PoC](https://github.com/akamai/CVE-2025-27636-Apache-Camel-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/akamai/CVE-2025-27636-Apache-Camel-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/akamai/CVE-2025-27636-Apache-Camel-PoC">
