@@ -13477,6 +13477,7 @@
 ## CVE-2026-1277 ()
 > 
 - [Sadaqaty/CVE-2026-1277](https://github.com/Sadaqaty/CVE-2026-1277)	<img alt="forks" src="https://img.shields.io/github/forks/Sadaqaty/CVE-2026-1277">	<img alt="stars" src="https://img.shields.io/github/stars/Sadaqaty/CVE-2026-1277">
+- [piecar21/CVE-2026-1277](https://github.com/piecar21/CVE-2026-1277)	<img alt="forks" src="https://img.shields.io/github/forks/piecar21/CVE-2026-1277">	<img alt="stars" src="https://img.shields.io/github/stars/piecar21/CVE-2026-1277">
 
 ---
 ## CVE-2026-12720 ()
@@ -13600,6 +13601,11 @@
 ## CVE-2026-11834 ()
 > 
 - [mattgsys/CVE-2026-11834](https://github.com/mattgsys/CVE-2026-11834)	<img alt="forks" src="https://img.shields.io/github/forks/mattgsys/CVE-2026-11834">	<img alt="stars" src="https://img.shields.io/github/stars/mattgsys/CVE-2026-11834">
+
+---
+## CVE-2026-118238 ()
+> 
+- [Cushz/CVE-2026-118238](https://github.com/Cushz/CVE-2026-118238)	<img alt="forks" src="https://img.shields.io/github/forks/Cushz/CVE-2026-118238">	<img alt="stars" src="https://img.shields.io/github/stars/Cushz/CVE-2026-118238">
 
 ---
 ## CVE-2026-11784 ()
@@ -15156,6 +15162,7 @@
 > 
 - [CaterMaoZi/CVE-2026-105482-POC](https://github.com/CaterMaoZi/CVE-2026-105482-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CaterMaoZi/CVE-2026-105482-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CaterMaoZi/CVE-2026-105482-POC">
 - [CompleTetech-Security/node-cve-2026-105482-check](https://github.com/CompleTetech-Security/node-cve-2026-105482-check)	<img alt="forks" src="https://img.shields.io/github/forks/CompleTetech-Security/node-cve-2026-105482-check">	<img alt="stars" src="https://img.shields.io/github/stars/CompleTetech-Security/node-cve-2026-105482-check">
+- [EthanTech-Offical/CVE-2026-105482-Reproduce](https://github.com/EthanTech-Offical/CVE-2026-105482-Reproduce)	<img alt="forks" src="https://img.shields.io/github/forks/EthanTech-Offical/CVE-2026-105482-Reproduce">	<img alt="stars" src="https://img.shields.io/github/stars/EthanTech-Offical/CVE-2026-105482-Reproduce">
 
 ---
 ## CVE-2026-105481 ()
