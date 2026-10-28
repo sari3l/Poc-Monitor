@@ -2529,6 +2529,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 ## CVE-2023-42824 ()
 > 
 - [619555798/cve-2023-42824](https://github.com/619555798/cve-2023-42824)	<img alt="forks" src="https://img.shields.io/github/forks/619555798/cve-2023-42824">	<img alt="stars" src="https://img.shields.io/github/stars/619555798/cve-2023-42824">
+- [piecar21/CVE-2023-42824](https://github.com/piecar21/CVE-2023-42824)	<img alt="forks" src="https://img.shields.io/github/forks/piecar21/CVE-2023-42824">	<img alt="stars" src="https://img.shields.io/github/stars/piecar21/CVE-2023-42824">
 
 ---
 ## CVE-2023-42820 (2023-09-27T15:19:00)

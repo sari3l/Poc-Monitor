@@ -8422,6 +8422,7 @@
 - [Oyst3r1ng/CVE-2025-30567](https://github.com/Oyst3r1ng/CVE-2025-30567)	<img alt="forks" src="https://img.shields.io/github/forks/Oyst3r1ng/CVE-2025-30567">	<img alt="stars" src="https://img.shields.io/github/stars/Oyst3r1ng/CVE-2025-30567">
 - [realcodeb0ss/CVE-2025-30567-PoC](https://github.com/realcodeb0ss/CVE-2025-30567-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/realcodeb0ss/CVE-2025-30567-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/realcodeb0ss/CVE-2025-30567-PoC">
 - [KaxuFF/CVE-2025-30567-PoC](https://github.com/KaxuFF/CVE-2025-30567-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/KaxuFF/CVE-2025-30567-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/KaxuFF/CVE-2025-30567-PoC">
+- [piecar21/CVE-2025-30567](https://github.com/piecar21/CVE-2025-30567)	<img alt="forks" src="https://img.shields.io/github/forks/piecar21/CVE-2025-30567">	<img alt="stars" src="https://img.shields.io/github/stars/piecar21/CVE-2025-30567">
 
 ---
 ## CVE-2025-3054 ()
@@ -9053,6 +9054,7 @@
 ## CVE-2025-27740 ()
 > 
 - [Dannners/CVE-2025-27740_POC](https://github.com/Dannners/CVE-2025-27740_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Dannners/CVE-2025-27740_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Dannners/CVE-2025-27740_POC">
+- [tyie949/cve-2025-27740](https://github.com/tyie949/cve-2025-27740)	<img alt="forks" src="https://img.shields.io/github/forks/tyie949/cve-2025-27740">	<img alt="stars" src="https://img.shields.io/github/stars/tyie949/cve-2025-27740">
 
 ---
 ## CVE-2025-27636 ()
@@ -10075,6 +10077,7 @@
 ## CVE-2025-24000 ()
 > 
 - [bsdrip/CVE-2025-24000-exploit](https://github.com/bsdrip/CVE-2025-24000-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bsdrip/CVE-2025-24000-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bsdrip/CVE-2025-24000-exploit">
+- [piecar21/CVE-2025-24000](https://github.com/piecar21/CVE-2025-24000)	<img alt="forks" src="https://img.shields.io/github/forks/piecar21/CVE-2025-24000">	<img alt="stars" src="https://img.shields.io/github/stars/piecar21/CVE-2025-24000">
 
 ---
 ## CVE-2025-23970 ()

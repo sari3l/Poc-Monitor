@@ -389,6 +389,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 ## CVE-2024-8503 ()
 > 
 - [Machine-farmer/vicidial-cve-2024-8503-blind-sqli-poc](https://github.com/Machine-farmer/vicidial-cve-2024-8503-blind-sqli-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Machine-farmer/vicidial-cve-2024-8503-blind-sqli-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Machine-farmer/vicidial-cve-2024-8503-blind-sqli-poc">
+- [piecar21/CVE-2024-8503](https://github.com/piecar21/CVE-2024-8503)	<img alt="forks" src="https://img.shields.io/github/forks/piecar21/CVE-2024-8503">	<img alt="stars" src="https://img.shields.io/github/stars/piecar21/CVE-2024-8503">
 
 ---
 ## CVE-2024-8484 (2024-09-25T03:15:00)
@@ -706,6 +707,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [codeb0ss/CVE-2024-7120-PoC](https://github.com/codeb0ss/CVE-2024-7120-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7120-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7120-PoC">
 - [gh-ost00/CVE-2024-7120](https://github.com/gh-ost00/CVE-2024-7120)	<img alt="forks" src="https://img.shields.io/github/forks/gh-ost00/CVE-2024-7120">	<img alt="stars" src="https://img.shields.io/github/stars/gh-ost00/CVE-2024-7120">
 - [jokeir07x/CVE-2024-7120-Exploit-by-Dark-07x](https://github.com/jokeir07x/CVE-2024-7120-Exploit-by-Dark-07x)	<img alt="forks" src="https://img.shields.io/github/forks/jokeir07x/CVE-2024-7120-Exploit-by-Dark-07x">	<img alt="stars" src="https://img.shields.io/github/stars/jokeir07x/CVE-2024-7120-Exploit-by-Dark-07x">
+- [piecar21/CVE-2024-7120](https://github.com/piecar21/CVE-2024-7120)	<img alt="forks" src="https://img.shields.io/github/forks/piecar21/CVE-2024-7120">	<img alt="stars" src="https://img.shields.io/github/stars/piecar21/CVE-2024-7120">
 
 ---
 ## CVE-2024-7094 (2024-08-13T03:15:00)
@@ -3755,6 +3757,7 @@ Allocated by task 6166:
 ## CVE-2024-4443 (2024-05-22T06:15:00)
 > The Business Directory Plugin – Easy Listing Directories for WordPress plugin for WordPress is vulnerable to time-based SQL Injection via the ‘listingfields’ parameter in all versions up to, and including, 6.4.2 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [truonghuuphuc/CVE-2024-4443-Poc](https://github.com/truonghuuphuc/CVE-2024-4443-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4443-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4443-Poc">
+- [piecar21/CVE-2024-4443](https://github.com/piecar21/CVE-2024-4443)	<img alt="forks" src="https://img.shields.io/github/forks/piecar21/CVE-2024-4443">	<img alt="stars" src="https://img.shields.io/github/stars/piecar21/CVE-2024-4443">
 
 ---
 ## CVE-2024-4439 (2024-05-03T06:15:00)
