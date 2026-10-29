@@ -96,6 +96,7 @@
 - [b1gmang0/CVE-2026-98260-pandora-lpe](https://github.com/b1gmang0/CVE-2026-98260-pandora-lpe)	<img alt="forks" src="https://img.shields.io/github/forks/b1gmang0/CVE-2026-98260-pandora-lpe">	<img alt="stars" src="https://img.shields.io/github/stars/b1gmang0/CVE-2026-98260-pandora-lpe">
 - [zjns/CVE-2026-98260](https://github.com/zjns/CVE-2026-98260)	<img alt="forks" src="https://img.shields.io/github/forks/zjns/CVE-2026-98260">	<img alt="stars" src="https://img.shields.io/github/stars/zjns/CVE-2026-98260">
 - [4627488/cve-2026-98260-nezha](https://github.com/4627488/cve-2026-98260-nezha)	<img alt="forks" src="https://img.shields.io/github/forks/4627488/cve-2026-98260-nezha">	<img alt="stars" src="https://img.shields.io/github/stars/4627488/cve-2026-98260-nezha">
+- [Again1996-bit/CVE-2026-98260-GhostKey](https://github.com/Again1996-bit/CVE-2026-98260-GhostKey)	<img alt="forks" src="https://img.shields.io/github/forks/Again1996-bit/CVE-2026-98260-GhostKey">	<img alt="stars" src="https://img.shields.io/github/stars/Again1996-bit/CVE-2026-98260-GhostKey">
 
 ---
 ## CVE-2026-98256 ()
@@ -162,6 +163,7 @@
 - [piecar21/CVE-2026-97631](https://github.com/piecar21/CVE-2026-97631)	<img alt="forks" src="https://img.shields.io/github/forks/piecar21/CVE-2026-97631">	<img alt="stars" src="https://img.shields.io/github/stars/piecar21/CVE-2026-97631">
 - [slabbdev/uefi-pxe-cve-2026-97631](https://github.com/slabbdev/uefi-pxe-cve-2026-97631)	<img alt="forks" src="https://img.shields.io/github/forks/slabbdev/uefi-pxe-cve-2026-97631">	<img alt="stars" src="https://img.shields.io/github/stars/slabbdev/uefi-pxe-cve-2026-97631">
 - [AlliySi/cve-2026-97631-poc](https://github.com/AlliySi/cve-2026-97631-poc)	<img alt="forks" src="https://img.shields.io/github/forks/AlliySi/cve-2026-97631-poc">	<img alt="stars" src="https://img.shields.io/github/stars/AlliySi/cve-2026-97631-poc">
+- [Try2Take/CVE-2026-97631-PoC](https://github.com/Try2Take/CVE-2026-97631-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Try2Take/CVE-2026-97631-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Try2Take/CVE-2026-97631-PoC">
 
 ---
 ## CVE-2026-97629 ()
@@ -1941,6 +1943,7 @@
 ## CVE-2026-78159 ()
 > 
 - [abraxas/CVE-2026-78159](https://github.com/abraxas/CVE-2026-78159)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-78159">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-78159">
+- [antid00t/CVE-2026-78006-CVE-2026-78159](https://github.com/antid00t/CVE-2026-78006-CVE-2026-78159)	<img alt="forks" src="https://img.shields.io/github/forks/antid00t/CVE-2026-78006-CVE-2026-78159">	<img alt="stars" src="https://img.shields.io/github/stars/antid00t/CVE-2026-78006-CVE-2026-78159">
 
 ---
 ## CVE-2026-78122 ()
@@ -6633,6 +6636,8 @@
 - [Anezium/ghostlock-firetv-tank](https://github.com/Anezium/ghostlock-firetv-tank)	<img alt="forks" src="https://img.shields.io/github/forks/Anezium/ghostlock-firetv-tank">	<img alt="stars" src="https://img.shields.io/github/stars/Anezium/ghostlock-firetv-tank">
 - [quillfinch/Galaxy-Tab-S10FE-Root](https://github.com/quillfinch/Galaxy-Tab-S10FE-Root)	<img alt="forks" src="https://img.shields.io/github/forks/quillfinch/Galaxy-Tab-S10FE-Root">	<img alt="stars" src="https://img.shields.io/github/stars/quillfinch/Galaxy-Tab-S10FE-Root">
 - [poisongod/BakaSU-PostLock](https://github.com/poisongod/BakaSU-PostLock)	<img alt="forks" src="https://img.shields.io/github/forks/poisongod/BakaSU-PostLock">	<img alt="stars" src="https://img.shields.io/github/stars/poisongod/BakaSU-PostLock">
+- [MIKAZE3/ghostlock-xringo1-dijun-fix](https://github.com/MIKAZE3/ghostlock-xringo1-dijun-fix)	<img alt="forks" src="https://img.shields.io/github/forks/MIKAZE3/ghostlock-xringo1-dijun-fix">	<img alt="stars" src="https://img.shields.io/github/stars/MIKAZE3/ghostlock-xringo1-dijun-fix">
+- [li-dahua/s25u-ghostlock-kernelsu-lkm](https://github.com/li-dahua/s25u-ghostlock-kernelsu-lkm)	<img alt="forks" src="https://img.shields.io/github/forks/li-dahua/s25u-ghostlock-kernelsu-lkm">	<img alt="stars" src="https://img.shields.io/github/stars/li-dahua/s25u-ghostlock-kernelsu-lkm">
 
 ---
 ## CVE-2026-43494 ()
@@ -13663,6 +13668,11 @@
 - [asvorg/CVE-2026-117532-poc](https://github.com/asvorg/CVE-2026-117532-poc)	<img alt="forks" src="https://img.shields.io/github/forks/asvorg/CVE-2026-117532-poc">	<img alt="stars" src="https://img.shields.io/github/stars/asvorg/CVE-2026-117532-poc">
 
 ---
+## CVE-2026-117025 ()
+> 
+- [Lariinz/CVE-2026-117025](https://github.com/Lariinz/CVE-2026-117025)	<img alt="forks" src="https://img.shields.io/github/forks/Lariinz/CVE-2026-117025">	<img alt="stars" src="https://img.shields.io/github/stars/Lariinz/CVE-2026-117025">
+
+---
 ## CVE-2026-116488 ()
 > 
 - [D7EAD/CVE-2026-116488](https://github.com/D7EAD/CVE-2026-116488)	<img alt="forks" src="https://img.shields.io/github/forks/D7EAD/CVE-2026-116488">	<img alt="stars" src="https://img.shields.io/github/stars/D7EAD/CVE-2026-116488">
@@ -14153,6 +14163,11 @@
 ## CVE-2026-110025 ()
 > 
 - [capivara-research/CVE-2026-110025](https://github.com/capivara-research/CVE-2026-110025)	<img alt="forks" src="https://img.shields.io/github/forks/capivara-research/CVE-2026-110025">	<img alt="stars" src="https://img.shields.io/github/stars/capivara-research/CVE-2026-110025">
+
+---
+## CVE-2026-109722 ()
+> 
+- [Scyrix-LLC/CVE-2026-109722](https://github.com/Scyrix-LLC/CVE-2026-109722)	<img alt="forks" src="https://img.shields.io/github/forks/Scyrix-LLC/CVE-2026-109722">	<img alt="stars" src="https://img.shields.io/github/stars/Scyrix-LLC/CVE-2026-109722">
 
 ---
 ## CVE-2026-109721 ()

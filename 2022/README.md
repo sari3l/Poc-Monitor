@@ -16092,6 +16092,10 @@ A more restrictive Jolokia configuration has been defined in default ActiveMQ di
 - [Pro-me3us/CVE_2022_38181_Raven](https://github.com/Pro-me3us/CVE_2022_38181_Raven)	<img alt="forks" src="https://img.shields.io/github/forks/Pro-me3us/CVE_2022_38181_Raven">	<img alt="stars" src="https://img.shields.io/github/stars/Pro-me3us/CVE_2022_38181_Raven">
 - [R0rt1z2/CVE-2022-38181](https://github.com/R0rt1z2/CVE-2022-38181)	<img alt="forks" src="https://img.shields.io/github/forks/R0rt1z2/CVE-2022-38181">	<img alt="stars" src="https://img.shields.io/github/stars/R0rt1z2/CVE-2022-38181">
 - [Pro-me3us/CVE_2022_38181_Gazelle](https://github.com/Pro-me3us/CVE_2022_38181_Gazelle)	<img alt="forks" src="https://img.shields.io/github/forks/Pro-me3us/CVE_2022_38181_Gazelle">	<img alt="stars" src="https://img.shields.io/github/stars/Pro-me3us/CVE_2022_38181_Gazelle">
+- [s1204IT/CVE-2022-38181](https://github.com/s1204IT/CVE-2022-38181)	<img alt="forks" src="https://img.shields.io/github/forks/s1204IT/CVE-2022-38181">	<img alt="stars" src="https://img.shields.io/github/stars/s1204IT/CVE-2022-38181">
+- [hackintoanetwork/SCRoot](https://github.com/hackintoanetwork/SCRoot)	<img alt="forks" src="https://img.shields.io/github/forks/hackintoanetwork/SCRoot">	<img alt="stars" src="https://img.shields.io/github/stars/hackintoanetwork/SCRoot">
+- [artur9010/amazon-mustang-hack](https://github.com/artur9010/amazon-mustang-hack)	<img alt="forks" src="https://img.shields.io/github/forks/artur9010/amazon-mustang-hack">	<img alt="stars" src="https://img.shields.io/github/stars/artur9010/amazon-mustang-hack">
+- [ericpardee/fire-hd-ownership](https://github.com/ericpardee/fire-hd-ownership)	<img alt="forks" src="https://img.shields.io/github/forks/ericpardee/fire-hd-ownership">	<img alt="stars" src="https://img.shields.io/github/stars/ericpardee/fire-hd-ownership">
 
 ---
 ## CVE-2022-3818 (2022-11-10T00:15:00)
