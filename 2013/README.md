@@ -232,6 +232,12 @@
 - [qkrtjsrbs315/CVE-2013-1763](https://github.com/qkrtjsrbs315/CVE-2013-1763)	<img alt="forks" src="https://img.shields.io/github/forks/qkrtjsrbs315/CVE-2013-1763">	<img alt="stars" src="https://img.shields.io/github/stars/qkrtjsrbs315/CVE-2013-1763">
 
 ---
+## CVE-2013-1690 ()
+> 
+- [Diamond975-py/FBI-Tor-Exploit-CVE-2013-1690](https://github.com/Diamond975-py/FBI-Tor-Exploit-CVE-2013-1690)	<img alt="forks" src="https://img.shields.io/github/forks/Diamond975-py/FBI-Tor-Exploit-CVE-2013-1690">	<img alt="stars" src="https://img.shields.io/github/stars/Diamond975-py/FBI-Tor-Exploit-CVE-2013-1690">
+- [vlad902/annotated-fbi-tbb-exploit](https://github.com/vlad902/annotated-fbi-tbb-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/vlad902/annotated-fbi-tbb-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/vlad902/annotated-fbi-tbb-exploit">
+
+---
 ## CVE-2013-1511 (2013-04-17T12:14:00)
 > Unspecified vulnerability in Oracle MySQL 5.5.30 and earlier and 5.6.10 and earlier allows remote authenticated users to affect availability via unknown vectors related to InnoDB.
 - [Live-Hack-CVE/CVE-2013-1511](https://github.com/Live-Hack-CVE/CVE-2013-1511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-1511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-1511">
