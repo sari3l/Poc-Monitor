@@ -3867,6 +3867,7 @@
 - [libeazu/CVE-2025-5548](https://github.com/libeazu/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/libeazu/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/libeazu/CVE-2025-5548">
 - [jessoan/Cyber](https://github.com/jessoan/Cyber)	<img alt="forks" src="https://img.shields.io/github/forks/jessoan/Cyber">	<img alt="stars" src="https://img.shields.io/github/stars/jessoan/Cyber">
 - [dc04265/CVE-2025-5548-Practica-Modulo-6](https://github.com/dc04265/CVE-2025-5548-Practica-Modulo-6)	<img alt="forks" src="https://img.shields.io/github/forks/dc04265/CVE-2025-5548-Practica-Modulo-6">	<img alt="stars" src="https://img.shields.io/github/stars/dc04265/CVE-2025-5548-Practica-Modulo-6">
+- [ppolo1/CVE-2025-5548](https://github.com/ppolo1/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/ppolo1/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/ppolo1/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
@@ -5753,6 +5754,11 @@
 ## CVE-2025-49619 ()
 > 
 - [cristibtz/CVE-2025-49619](https://github.com/cristibtz/CVE-2025-49619)	<img alt="forks" src="https://img.shields.io/github/forks/cristibtz/CVE-2025-49619">	<img alt="stars" src="https://img.shields.io/github/stars/cristibtz/CVE-2025-49619">
+
+---
+## CVE-2025-4960 ()
+> 
+- [CarlosG13/CVE-2025-4960](https://github.com/CarlosG13/CVE-2025-4960)	<img alt="forks" src="https://img.shields.io/github/forks/CarlosG13/CVE-2025-4960">	<img alt="stars" src="https://img.shields.io/github/stars/CarlosG13/CVE-2025-4960">
 
 ---
 ## CVE-2025-49596 ()
