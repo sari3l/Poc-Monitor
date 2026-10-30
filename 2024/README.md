@@ -7304,6 +7304,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 ## CVE-2024-30090 (2024-06-11T17:15:00)
 > Microsoft Streaming Service Elevation of Privilege Vulnerability
 - [Dor00tkit/CVE-2024-30090](https://github.com/Dor00tkit/CVE-2024-30090)	<img alt="forks" src="https://img.shields.io/github/forks/Dor00tkit/CVE-2024-30090">	<img alt="stars" src="https://img.shields.io/github/stars/Dor00tkit/CVE-2024-30090">
+- [m01000xd/CVE-2024-30090](https://github.com/m01000xd/CVE-2024-30090)	<img alt="forks" src="https://img.shields.io/github/forks/m01000xd/CVE-2024-30090">	<img alt="stars" src="https://img.shields.io/github/stars/m01000xd/CVE-2024-30090">
 
 ---
 ## CVE-2024-30088 (2024-06-11T17:15:00)
