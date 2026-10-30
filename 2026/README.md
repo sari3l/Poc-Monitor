@@ -62,6 +62,7 @@
 - [nsrg-fmlorg/kpatch-cve-2026-98432](https://github.com/nsrg-fmlorg/kpatch-cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/nsrg-fmlorg/kpatch-cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/nsrg-fmlorg/kpatch-cve-2026-98432">
 - [H1z3-br0/CVE-2026-98432](https://github.com/H1z3-br0/CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/H1z3-br0/CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/H1z3-br0/CVE-2026-98432">
 - [mahdi-salmanzade/CVE-2026-98432](https://github.com/mahdi-salmanzade/CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/mahdi-salmanzade/CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/mahdi-salmanzade/CVE-2026-98432">
+- [fbuff-tools/cve-2026-98432-checker](https://github.com/fbuff-tools/cve-2026-98432-checker)	<img alt="forks" src="https://img.shields.io/github/forks/fbuff-tools/cve-2026-98432-checker">	<img alt="stars" src="https://img.shields.io/github/stars/fbuff-tools/cve-2026-98432-checker">
 
 ---
 ## CVE-2026-98385 ()
@@ -6461,7 +6462,7 @@
 - [tc3650/CVE-2026-43499-armv7](https://github.com/tc3650/CVE-2026-43499-armv7)	<img alt="forks" src="https://img.shields.io/github/forks/tc3650/CVE-2026-43499-armv7">	<img alt="stars" src="https://img.shields.io/github/stars/tc3650/CVE-2026-43499-armv7">
 - [0xBlackash/CVE-2026-43499](https://github.com/0xBlackash/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43499">
 - [inforcqb/CVE-2026-43499-pja110](https://github.com/inforcqb/CVE-2026-43499-pja110)	<img alt="forks" src="https://img.shields.io/github/forks/inforcqb/CVE-2026-43499-pja110">	<img alt="stars" src="https://img.shields.io/github/stars/inforcqb/CVE-2026-43499-pja110">
-- [pubglite55/oppofindN2-ghostlock](https://github.com/pubglite55/oppofindN2-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/pubglite55/oppofindN2-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/pubglite55/oppofindN2-ghostlock">
+- [pubglite55/findn2-ksu-chain](https://github.com/pubglite55/findn2-ksu-chain)	<img alt="forks" src="https://img.shields.io/github/forks/pubglite55/findn2-ksu-chain">	<img alt="stars" src="https://img.shields.io/github/stars/pubglite55/findn2-ksu-chain">
 - [caspy123/CVE-2026-43499](https://github.com/caspy123/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/caspy123/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/caspy123/CVE-2026-43499">
 - [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)	<img alt="forks" src="https://img.shields.io/github/forks/x-spy/CVE-2026-43499-popsicle">	<img alt="stars" src="https://img.shields.io/github/stars/x-spy/CVE-2026-43499-popsicle">
 - [dmcdtc/openvz-cve-patch-2026](https://github.com/dmcdtc/openvz-cve-patch-2026)	<img alt="forks" src="https://img.shields.io/github/forks/dmcdtc/openvz-cve-patch-2026">	<img alt="stars" src="https://img.shields.io/github/stars/dmcdtc/openvz-cve-patch-2026">
@@ -6680,6 +6681,7 @@
 - [poisongod/BakaSU-PostLock](https://github.com/poisongod/BakaSU-PostLock)	<img alt="forks" src="https://img.shields.io/github/forks/poisongod/BakaSU-PostLock">	<img alt="stars" src="https://img.shields.io/github/stars/poisongod/BakaSU-PostLock">
 - [MIKAZE3/ghostlock-xringo1-dijun-fix](https://github.com/MIKAZE3/ghostlock-xringo1-dijun-fix)	<img alt="forks" src="https://img.shields.io/github/forks/MIKAZE3/ghostlock-xringo1-dijun-fix">	<img alt="stars" src="https://img.shields.io/github/stars/MIKAZE3/ghostlock-xringo1-dijun-fix">
 - [li-dahua/s25u-ghostlock-kernelsu-lkm](https://github.com/li-dahua/s25u-ghostlock-kernelsu-lkm)	<img alt="forks" src="https://img.shields.io/github/forks/li-dahua/s25u-ghostlock-kernelsu-lkm">	<img alt="stars" src="https://img.shields.io/github/stars/li-dahua/s25u-ghostlock-kernelsu-lkm">
+- [yichen115/ghostlock-kirkwood](https://github.com/yichen115/ghostlock-kirkwood)	<img alt="forks" src="https://img.shields.io/github/forks/yichen115/ghostlock-kirkwood">	<img alt="stars" src="https://img.shields.io/github/stars/yichen115/ghostlock-kirkwood">
 
 ---
 ## CVE-2026-43494 ()
