@@ -6,6 +6,11 @@
 - [ForceFledgling/CVE-2014-9690](https://github.com/ForceFledgling/CVE-2014-9690)	<img alt="forks" src="https://img.shields.io/github/forks/ForceFledgling/CVE-2014-9690">	<img alt="stars" src="https://img.shields.io/github/stars/ForceFledgling/CVE-2014-9690">
 
 ---
+## CVE-2014-9583 ()
+> 
+- [krevetkqqq/CVE-2014-9583](https://github.com/krevetkqqq/CVE-2014-9583)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/CVE-2014-9583">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/CVE-2014-9583">
+
+---
 ## CVE-2014-9219 ()
 > 
 - [MohmadHafiz/CVE-2014-9219](https://github.com/MohmadHafiz/CVE-2014-9219)	<img alt="forks" src="https://img.shields.io/github/forks/MohmadHafiz/CVE-2014-9219">	<img alt="stars" src="https://img.shields.io/github/stars/MohmadHafiz/CVE-2014-9219">

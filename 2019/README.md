@@ -420,6 +420,11 @@
 - [Live-Hack-CVE/CVE-2019-7280](https://github.com/Live-Hack-CVE/CVE-2019-7280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7280">
 
 ---
+## CVE-2019-7256 ()
+> 
+- [krevetkqqq/CVE-2019-7256](https://github.com/krevetkqqq/CVE-2019-7256)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/CVE-2019-7256">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/CVE-2019-7256">
+
+---
 ## CVE-2019-7238 ()
 > 
 - [CyberCTF/vulhub-nexus-cve-2019-7238](https://github.com/CyberCTF/vulhub-nexus-cve-2019-7238)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-nexus-cve-2019-7238">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-nexus-cve-2019-7238">
