@@ -1433,6 +1433,7 @@ Users are recommended to upgrade to version 18.12.10
 > Anyscale Ray 2.6.3 and 2.8.0 allows a remote attacker to execute arbitrary code via the job submission API. NOTE: the vendor's position is that this report is irrelevant because Ray, as stated in its documentation, is not intended for use outside of a strictly controlled network environment
 - [0x656565/CVE-2023-48022](https://github.com/0x656565/CVE-2023-48022)	<img alt="forks" src="https://img.shields.io/github/forks/0x656565/CVE-2023-48022">	<img alt="stars" src="https://img.shields.io/github/stars/0x656565/CVE-2023-48022">
 - [jakabakos/ShadowRay-RCE-PoC-CVE-2023-48022](https://github.com/jakabakos/ShadowRay-RCE-PoC-CVE-2023-48022)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/ShadowRay-RCE-PoC-CVE-2023-48022">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/ShadowRay-RCE-PoC-CVE-2023-48022">
+- [krevetkqqq/CVE-2023-48022](https://github.com/krevetkqqq/CVE-2023-48022)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/CVE-2023-48022">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/CVE-2023-48022">
 
 ---
 ## CVE-2023-4800 (2023-10-16T20:15:00)
@@ -1805,6 +1806,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [basesixtythree/B63-POC-CVE-2023-46604](https://github.com/basesixtythree/B63-POC-CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/basesixtythree/B63-POC-CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/basesixtythree/B63-POC-CVE-2023-46604">
 - [Theocyg/CVE-2023-46604](https://github.com/Theocyg/CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/Theocyg/CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/Theocyg/CVE-2023-46604">
 - [CyberCTF/vulhub-activemq-cve-2023-46604](https://github.com/CyberCTF/vulhub-activemq-cve-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-activemq-cve-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-activemq-cve-2023-46604">
+- [krevetkqqq/cve-2023-46604-activemq-lab](https://github.com/krevetkqqq/cve-2023-46604-activemq-lab)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/cve-2023-46604-activemq-lab">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/cve-2023-46604-activemq-lab">
 
 ---
 ## CVE-2023-46501 (2023-11-07T18:15:00)
@@ -2596,6 +2598,11 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278)	<img alt="forks" src="https://img.shields.io/github/forks/revan-ar/CVE-2023-4278">	<img alt="stars" src="https://img.shields.io/github/stars/revan-ar/CVE-2023-4278">
 
 ---
+## CVE-2023-42495 ()
+> 
+- [krevetkqqq/CVE-2023-42495](https://github.com/krevetkqqq/CVE-2023-42495)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/CVE-2023-42495">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/CVE-2023-42495">
+
+---
 ## CVE-2023-42442 (2023-09-15T21:15:00)
 > JumpServer is an open source bastion host and a professional operation and maintenance security audit system. Starting in version 3.0.0 and prior to versions 3.5.5 and 3.6.4, session replays can download without authentication. Session replays stored in S3, OSS, or other cloud storage are not affected. The api `/api/v1/terminal/sessions/` permission control is broken and can be accessed anonymously. SessionViewSet permission classes set to `[RBACPermission | IsSessionAssignee]`, relation is or, so any permission matched will be allowed. Versions 3.5.5 and 3.6.4 have a fix. After upgrading, visit the api `$HOST/api/v1/terminal/sessions/?limit=1`. The expected http response code is 401 (`not_authenticated`).
 
@@ -2994,6 +3001,16 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [SorceryIE/CVE-2023-41362_MyBB_ACP_RCE](https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE">
 
 ---
+## CVE-2023-41348 ()
+> 
+- [krevetkqqq/CVE-2023-41348](https://github.com/krevetkqqq/CVE-2023-41348)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/CVE-2023-41348">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/CVE-2023-41348">
+
+---
+## CVE-2023-41346 ()
+> 
+- [krevetkqqq/CVE-2023-41346](https://github.com/krevetkqqq/CVE-2023-41346)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/CVE-2023-41346">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/CVE-2023-41346">
+
+---
 ## CVE-2023-4128 (2023-08-10T17:15:00)
 > A use-after-free flaw was found in net/sched/cls_fw.c in classifiers (cls_fw, cls_u32, and cls_route) in the Linux Kernel. This flaw allows a local attacker to perform a local privilege escalation due to incorrect handling of the existing filter, leading to a kernel information leak issue.
 - [Trinadh465/linux-4.1.15_CVE-2023-4128](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.1.15_CVE-2023-4128">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.1.15_CVE-2023-4128">
@@ -3037,6 +3054,11 @@ The vulnerability is limited to the ROOT (default) web application.
 ## CVE-2023-41014 (2024-03-07T09:15:00)
 > code-projects.org Online Job Portal 1.0 is vulnerable to SQL Injection via the Username parameter for "Employer."
 - [ASR511-OO7/CVE-2023-41014](https://github.com/ASR511-OO7/CVE-2023-41014)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41014">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41014">
+
+---
+## CVE-2023-41011 ()
+> 
+- [krevetkqqq/CVE-2023-41011](https://github.com/krevetkqqq/CVE-2023-41011)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/CVE-2023-41011">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/CVE-2023-41011">
 
 ---
 ## CVE-2023-40989 (2023-09-22T20:15:00)
@@ -5487,6 +5509,12 @@ Fixed in version 6.4.1.
 - [pulentoski/Explotacion-CVE-2023-32315-Openfire](https://github.com/pulentoski/Explotacion-CVE-2023-32315-Openfire)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/Explotacion-CVE-2023-32315-Openfire">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/Explotacion-CVE-2023-32315-Openfire">
 - [shiyingzhencai/CVE-2023-32315-java7-](https://github.com/shiyingzhencai/CVE-2023-32315-java7-)	<img alt="forks" src="https://img.shields.io/github/forks/shiyingzhencai/CVE-2023-32315-java7-">	<img alt="stars" src="https://img.shields.io/github/stars/shiyingzhencai/CVE-2023-32315-java7-">
 - [rag-fish/openfire-exploit-suite](https://github.com/rag-fish/openfire-exploit-suite)	<img alt="forks" src="https://img.shields.io/github/forks/rag-fish/openfire-exploit-suite">	<img alt="stars" src="https://img.shields.io/github/stars/rag-fish/openfire-exploit-suite">
+- [krevetkqqq/cve-2023-32315-openfire-lab](https://github.com/krevetkqqq/cve-2023-32315-openfire-lab)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/cve-2023-32315-openfire-lab">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/cve-2023-32315-openfire-lab">
+
+---
+## CVE-2023-32311 ()
+> 
+- [krevetkqqq/CVE-2023-32311](https://github.com/krevetkqqq/CVE-2023-32311)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/CVE-2023-32311">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/CVE-2023-32311">
 
 ---
 ## CVE-2023-32243 (2023-05-12T08:15:00)

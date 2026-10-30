@@ -190,6 +190,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [p33d/CVE-2024-9441](https://github.com/p33d/CVE-2024-9441)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-9441">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-9441">
 - [XiaomingX/cve-2024-9441-poc](https://github.com/XiaomingX/cve-2024-9441-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-9441-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-9441-poc">
 - [jk-mayne/CVE-2024-9441-Checker](https://github.com/jk-mayne/CVE-2024-9441-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/jk-mayne/CVE-2024-9441-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/jk-mayne/CVE-2024-9441-Checker">
+- [krevetkqqq/CVE-2024-9441](https://github.com/krevetkqqq/CVE-2024-9441)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/CVE-2024-9441">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/CVE-2024-9441">
 
 ---
 ## CVE-2024-9380 (2024-10-08T17:15:00)
@@ -4413,6 +4414,12 @@ Affected users are recommended to disable the SAML authentication plugin by sett
 - [anilpatel199n/CVE-2024-40898](https://github.com/anilpatel199n/CVE-2024-40898)	<img alt="forks" src="https://img.shields.io/github/forks/anilpatel199n/CVE-2024-40898">	<img alt="stars" src="https://img.shields.io/github/stars/anilpatel199n/CVE-2024-40898">
 - [TAM-K592/CVE-2024-40725-CVE-2024-40898](https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-40725-CVE-2024-40898">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-40725-CVE-2024-40898">
 - [ForceEA001/CVE-2024-40898-SSL-Bypass-Detection](https://github.com/ForceEA001/CVE-2024-40898-SSL-Bypass-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/ForceEA001/CVE-2024-40898-SSL-Bypass-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/ForceEA001/CVE-2024-40898-SSL-Bypass-Detection">
+
+---
+## CVE-2024-40891 ()
+> 
+- [krevetkqqq/CVE-2024-40891](https://github.com/krevetkqqq/CVE-2024-40891)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/CVE-2024-40891">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/CVE-2024-40891">
+- [Danyw24/zyxel-p870hn-hardware-hacking](https://github.com/Danyw24/zyxel-p870hn-hardware-hacking)	<img alt="forks" src="https://img.shields.io/github/forks/Danyw24/zyxel-p870hn-hardware-hacking">	<img alt="stars" src="https://img.shields.io/github/stars/Danyw24/zyxel-p870hn-hardware-hacking">
 
 ---
 ## CVE-2024-40842 ()

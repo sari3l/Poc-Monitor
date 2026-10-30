@@ -10980,9 +10980,12 @@
 - [InfoSecAntara/CVE-2025-14847-MongoDB](https://github.com/InfoSecAntara/CVE-2025-14847-MongoDB)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSecAntara/CVE-2025-14847-MongoDB">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSecAntara/CVE-2025-14847-MongoDB">
 - [im-hanzou/mongobleed](https://github.com/im-hanzou/mongobleed)	<img alt="forks" src="https://img.shields.io/github/forks/im-hanzou/mongobleed">	<img alt="stars" src="https://img.shields.io/github/stars/im-hanzou/mongobleed">
 - [sho-luv/MongoBleed](https://github.com/sho-luv/MongoBleed)	<img alt="forks" src="https://img.shields.io/github/forks/sho-luv/MongoBleed">	<img alt="stars" src="https://img.shields.io/github/stars/sho-luv/MongoBleed">
-- [0xBlackash/CVE-2025-14847](https://github.com/0xBlackash/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-14847">
+- [0xredash/CVE-2025-14847](https://github.com/0xredash/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/0xredash/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/0xredash/CVE-2025-14847">
 - [dawnsmithcyber/azure-vulnerability-remediation-project](https://github.com/dawnsmithcyber/azure-vulnerability-remediation-project)	<img alt="forks" src="https://img.shields.io/github/forks/dawnsmithcyber/azure-vulnerability-remediation-project">	<img alt="stars" src="https://img.shields.io/github/stars/dawnsmithcyber/azure-vulnerability-remediation-project">
 - [shokribardiya/CVE-2025-14847-mongobleed](https://github.com/shokribardiya/CVE-2025-14847-mongobleed)	<img alt="forks" src="https://img.shields.io/github/forks/shokribardiya/CVE-2025-14847-mongobleed">	<img alt="stars" src="https://img.shields.io/github/stars/shokribardiya/CVE-2025-14847-mongobleed">
+- [t3chn0t3s-org/cve-2025-14847-scanner](https://github.com/t3chn0t3s-org/cve-2025-14847-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/t3chn0t3s-org/cve-2025-14847-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/t3chn0t3s-org/cve-2025-14847-scanner">
+- [SAIM28826/CVE-2025-14847-poc](https://github.com/SAIM28826/CVE-2025-14847-poc)	<img alt="forks" src="https://img.shields.io/github/forks/SAIM28826/CVE-2025-14847-poc">	<img alt="stars" src="https://img.shields.io/github/stars/SAIM28826/CVE-2025-14847-poc">
+- [SAIM28826/TEST](https://github.com/SAIM28826/TEST)	<img alt="forks" src="https://img.shields.io/github/forks/SAIM28826/TEST">	<img alt="stars" src="https://img.shields.io/github/stars/SAIM28826/TEST">
 
 ---
 ## CVE-2025-14783 ()
@@ -11861,6 +11864,12 @@
 ## CVE-2025-0924 ()
 > 
 - [skrkcb2/CVE-2025-0924-different](https://github.com/skrkcb2/CVE-2025-0924-different)	<img alt="forks" src="https://img.shields.io/github/forks/skrkcb2/CVE-2025-0924-different">	<img alt="stars" src="https://img.shields.io/github/stars/skrkcb2/CVE-2025-0924-different">
+
+---
+## CVE-2025-0890 ()
+> 
+- [krevetkqqq/CVE-2025-0890](https://github.com/krevetkqqq/CVE-2025-0890)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/CVE-2025-0890">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/CVE-2025-0890">
+- [Danyw24/zyxel-p870hn-hardware-hacking](https://github.com/Danyw24/zyxel-p870hn-hardware-hacking)	<img alt="forks" src="https://img.shields.io/github/forks/Danyw24/zyxel-p870hn-hardware-hacking">	<img alt="stars" src="https://img.shields.io/github/stars/Danyw24/zyxel-p870hn-hardware-hacking">
 
 ---
 ## CVE-2025-0868 ()
