@@ -76,6 +76,7 @@
 - [ZombiePm/cve-2026-98432-mitigation](https://github.com/ZombiePm/cve-2026-98432-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/ZombiePm/cve-2026-98432-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/ZombiePm/cve-2026-98432-mitigation">
 - [davetha/cve-2026-98432](https://github.com/davetha/cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/davetha/cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/davetha/cve-2026-98432">
 - [akamai/cve-2026-98432-validation-mitigation](https://github.com/akamai/cve-2026-98432-validation-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/akamai/cve-2026-98432-validation-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/akamai/cve-2026-98432-validation-mitigation">
+- [brett6320/fix_CVE-2026-98432](https://github.com/brett6320/fix_CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/brett6320/fix_CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/brett6320/fix_CVE-2026-98432">
 
 ---
 ## CVE-2026-98385 ()
