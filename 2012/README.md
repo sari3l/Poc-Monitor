@@ -251,3 +251,9 @@
 > Unspecified vulnerability in winmm.dll in Windows Multimedia Library in Windows Media Player (WMP) in Microsoft Windows XP SP2 and SP3, Server 2003 SP2, Vista SP2, and Server 2008 SP2 allows remote attackers to execute arbitrary code via a crafted MIDI file, aka "MIDI Remote Code Execution Vulnerability."
 - [Sunqiz/CVE-2012-0003-reproduction](https://github.com/Sunqiz/CVE-2012-0003-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2012-0003-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2012-0003-reproduction">
 - [k0keoyo/CVE-2012-0003_eXP](https://github.com/k0keoyo/CVE-2012-0003_eXP)	<img alt="forks" src="https://img.shields.io/github/forks/k0keoyo/CVE-2012-0003_eXP">	<img alt="stars" src="https://img.shields.io/github/stars/k0keoyo/CVE-2012-0003_eXP">
+
+---
+## CVE-2012-0002 ()
+> 
+- [engineer-lucasmcmelo/CVE-2012-0002](https://github.com/engineer-lucasmcmelo/CVE-2012-0002)	<img alt="forks" src="https://img.shields.io/github/forks/engineer-lucasmcmelo/CVE-2012-0002">	<img alt="stars" src="https://img.shields.io/github/stars/engineer-lucasmcmelo/CVE-2012-0002">
+- [zhangkaibin0921/MS12-020-CVE-2012-0002](https://github.com/zhangkaibin0921/MS12-020-CVE-2012-0002)	<img alt="forks" src="https://img.shields.io/github/forks/zhangkaibin0921/MS12-020-CVE-2012-0002">	<img alt="stars" src="https://img.shields.io/github/stars/zhangkaibin0921/MS12-020-CVE-2012-0002">
