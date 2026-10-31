@@ -84,6 +84,13 @@
 - [sevaepsteyn/cve-2026-98432-ebpf](https://github.com/sevaepsteyn/cve-2026-98432-ebpf)	<img alt="forks" src="https://img.shields.io/github/forks/sevaepsteyn/cve-2026-98432-ebpf">	<img alt="stars" src="https://img.shields.io/github/stars/sevaepsteyn/cve-2026-98432-ebpf">
 - [nfodor/cve-2026-98432-nft-mitigation](https://github.com/nfodor/cve-2026-98432-nft-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/nfodor/cve-2026-98432-nft-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/nfodor/cve-2026-98432-nft-mitigation">
 - [soroushneshati/cve-2026-98432-ubuntu-mitigation](https://github.com/soroushneshati/cve-2026-98432-ubuntu-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/soroushneshati/cve-2026-98432-ubuntu-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/soroushneshati/cve-2026-98432-ubuntu-mitigation">
+- [AronWang001/debian-cve-2026-98432-fix](https://github.com/AronWang001/debian-cve-2026-98432-fix)	<img alt="forks" src="https://img.shields.io/github/forks/AronWang001/debian-cve-2026-98432-fix">	<img alt="stars" src="https://img.shields.io/github/stars/AronWang001/debian-cve-2026-98432-fix">
+- [googlesky/CVE-2026-98432](https://github.com/googlesky/CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-98432">
+- [raahilmw/synipopt](https://github.com/raahilmw/synipopt)	<img alt="forks" src="https://img.shields.io/github/forks/raahilmw/synipopt">	<img alt="stars" src="https://img.shields.io/github/stars/raahilmw/synipopt">
+- [offline-ant/tcp2kaslr](https://github.com/offline-ant/tcp2kaslr)	<img alt="forks" src="https://img.shields.io/github/forks/offline-ant/tcp2kaslr">	<img alt="stars" src="https://img.shields.io/github/stars/offline-ant/tcp2kaslr">
+- [Alucard0x1/cve-2026-98432](https://github.com/Alucard0x1/cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/Alucard0x1/cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/Alucard0x1/cve-2026-98432">
+- [xen0bit/netprobe-cve-2026-98432](https://github.com/xen0bit/netprobe-cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/xen0bit/netprobe-cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/xen0bit/netprobe-cve-2026-98432">
+- [pob220/ubuntu-noble-tcp-rcu-backport](https://github.com/pob220/ubuntu-noble-tcp-rcu-backport)	<img alt="forks" src="https://img.shields.io/github/forks/pob220/ubuntu-noble-tcp-rcu-backport">	<img alt="stars" src="https://img.shields.io/github/stars/pob220/ubuntu-noble-tcp-rcu-backport">
 
 ---
 ## CVE-2026-98385 ()
@@ -839,6 +846,11 @@
 ## CVE-2026-89754 ()
 > 
 - [ylh440104/InfinityCore-Android-CVE-2026-89754](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-89754)	<img alt="forks" src="https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-89754">	<img alt="stars" src="https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-89754">
+
+---
+## CVE-2026-89633 ()
+> 
+- [woshigenm/CVE-2026-89633](https://github.com/woshigenm/CVE-2026-89633)	<img alt="forks" src="https://img.shields.io/github/forks/woshigenm/CVE-2026-89633">	<img alt="stars" src="https://img.shields.io/github/stars/woshigenm/CVE-2026-89633">
 
 ---
 ## CVE-2026-8933 ()
@@ -2103,6 +2115,11 @@
 ## CVE-2026-77521 ()
 > 
 - [InertFluid/cve-2026-77521-lab](https://github.com/InertFluid/cve-2026-77521-lab)	<img alt="forks" src="https://img.shields.io/github/forks/InertFluid/cve-2026-77521-lab">	<img alt="stars" src="https://img.shields.io/github/stars/InertFluid/cve-2026-77521-lab">
+
+---
+## CVE-2026-77396 ()
+> 
+- [saretawa/CVE-2026-77396](https://github.com/saretawa/CVE-2026-77396)	<img alt="forks" src="https://img.shields.io/github/forks/saretawa/CVE-2026-77396">	<img alt="stars" src="https://img.shields.io/github/stars/saretawa/CVE-2026-77396">
 
 ---
 ## CVE-2026-7731 ()
@@ -13741,6 +13758,11 @@
 - [SnailSploit/CVE-2026-1208](https://github.com/SnailSploit/CVE-2026-1208)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-1208">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-1208">
 
 ---
+## CVE-2026-120218 ()
+> 
+- [capivara-research/CVE-2026-120218](https://github.com/capivara-research/CVE-2026-120218)	<img alt="forks" src="https://img.shields.io/github/forks/capivara-research/CVE-2026-120218">	<img alt="stars" src="https://img.shields.io/github/stars/capivara-research/CVE-2026-120218">
+
+---
 ## CVE-2026-11991 ()
 > 
 - [0x00phantom-hat/CVE-2026-11991-Exploit](https://github.com/0x00phantom-hat/CVE-2026-11991-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0x00phantom-hat/CVE-2026-11991-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0x00phantom-hat/CVE-2026-11991-Exploit">
@@ -14036,6 +14058,12 @@
 - [Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc](https://github.com/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc">
 
 ---
+## CVE-2026-112816 ()
+> 
+- [dehasoft-tr/cve-2026-112816](https://github.com/dehasoft-tr/cve-2026-112816)	<img alt="forks" src="https://img.shields.io/github/forks/dehasoft-tr/cve-2026-112816">	<img alt="stars" src="https://img.shields.io/github/stars/dehasoft-tr/cve-2026-112816">
+- [Sotrano-dev/cve-2026-112816](https://github.com/Sotrano-dev/cve-2026-112816)	<img alt="forks" src="https://img.shields.io/github/forks/Sotrano-dev/cve-2026-112816">	<img alt="stars" src="https://img.shields.io/github/stars/Sotrano-dev/cve-2026-112816">
+
+---
 ## CVE-2026-112706 ()
 > 
 - [MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak](https://github.com/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak)	<img alt="forks" src="https://img.shields.io/github/forks/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak">	<img alt="stars" src="https://img.shields.io/github/stars/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak">
@@ -14088,6 +14116,11 @@
 ## CVE-2026-111823 ()
 > 
 - [murrez/CVE-2026-111823](https://github.com/murrez/CVE-2026-111823)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-111823">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-111823">
+
+---
+## CVE-2026-111585 ()
+> 
+- [googlesky/CVE-2026-111585](https://github.com/googlesky/CVE-2026-111585)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-111585">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-111585">
 
 ---
 ## CVE-2026-111497 ()
@@ -15147,6 +15180,7 @@
 - [shellharbor/php-8.1-cve-2026-docker](https://github.com/shellharbor/php-8.1-cve-2026-docker)	<img alt="forks" src="https://img.shields.io/github/forks/shellharbor/php-8.1-cve-2026-docker">	<img alt="stars" src="https://img.shields.io/github/stars/shellharbor/php-8.1-cve-2026-docker">
 - [esskslifetech/php-secure-patch](https://github.com/esskslifetech/php-secure-patch)	<img alt="forks" src="https://img.shields.io/github/forks/esskslifetech/php-secure-patch">	<img alt="stars" src="https://img.shields.io/github/stars/esskslifetech/php-secure-patch">
 - [sunnyvale-it/PHP2Shell-PoC](https://github.com/sunnyvale-it/PHP2Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sunnyvale-it/PHP2Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sunnyvale-it/PHP2Shell-PoC">
+- [marceloaugu/php2shell-ubuntu](https://github.com/marceloaugu/php2shell-ubuntu)	<img alt="forks" src="https://img.shields.io/github/forks/marceloaugu/php2shell-ubuntu">	<img alt="stars" src="https://img.shields.io/github/stars/marceloaugu/php2shell-ubuntu">
 
 ---
 ## CVE-2026-10961 ()
@@ -15828,6 +15862,11 @@
 ## CVE-2026-103355 ()
 > 
 - [Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc](https://github.com/Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc">
+
+---
+## CVE-2026-103039 ()
+> 
+- [noxcrypt-x/CVE-2026-103039](https://github.com/noxcrypt-x/CVE-2026-103039)	<img alt="forks" src="https://img.shields.io/github/forks/noxcrypt-x/CVE-2026-103039">	<img alt="stars" src="https://img.shields.io/github/stars/noxcrypt-x/CVE-2026-103039">
 
 ---
 ## CVE-2026-102975 ()

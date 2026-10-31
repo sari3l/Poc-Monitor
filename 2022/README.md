@@ -4767,6 +4767,7 @@ Here we only need to move the of_node_put() before the check.
 ## CVE-2022-44384 (2022-11-17T17:15:00)
 > An arbitrary file upload vulnerability in rconfig v3.9.6 allows attackers to execute arbitrary code via a crafted PHP file.
 - [Live-Hack-CVE/CVE-2022-44384](https://github.com/Live-Hack-CVE/CVE-2022-44384)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44384">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44384">
+- [d4ytox/CVE-2022-44384](https://github.com/d4ytox/CVE-2022-44384)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2022-44384">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2022-44384">
 
 ---
 ## CVE-2022-4438 (2022-12-14T06:15:00)
