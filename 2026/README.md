@@ -100,6 +100,8 @@
 - [Mervent/cve-2026-98432](https://github.com/Mervent/cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/Mervent/cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/Mervent/cve-2026-98432">
 - [uvian/xboard-core](https://github.com/uvian/xboard-core)	<img alt="forks" src="https://img.shields.io/github/forks/uvian/xboard-core">	<img alt="stars" src="https://img.shields.io/github/stars/uvian/xboard-core">
 - [fetus-hina/cve-2026-98432-mitigation-rpm](https://github.com/fetus-hina/cve-2026-98432-mitigation-rpm)	<img alt="forks" src="https://img.shields.io/github/forks/fetus-hina/cve-2026-98432-mitigation-rpm">	<img alt="stars" src="https://img.shields.io/github/stars/fetus-hina/cve-2026-98432-mitigation-rpm">
+- [al4n4n/CVE-2026-98432](https://github.com/al4n4n/CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/al4n4n/CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/al4n4n/CVE-2026-98432">
+- [jamilbk/drop-ipv4-opt](https://github.com/jamilbk/drop-ipv4-opt)	<img alt="forks" src="https://img.shields.io/github/forks/jamilbk/drop-ipv4-opt">	<img alt="stars" src="https://img.shields.io/github/stars/jamilbk/drop-ipv4-opt">
 
 ---
 ## CVE-2026-98385 ()

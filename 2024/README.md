@@ -2785,6 +2785,7 @@ length to be included in the checksum calculation is fully consumed.
 - [BLUEBERRYP1LL/CVE-2024-48990-needrestart-Local-Privilege-Escalation](https://github.com/BLUEBERRYP1LL/CVE-2024-48990-needrestart-Local-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/BLUEBERRYP1LL/CVE-2024-48990-needrestart-Local-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/BLUEBERRYP1LL/CVE-2024-48990-needrestart-Local-Privilege-Escalation">
 - [BLUEBERRYP1LL/CVE-2024-48990](https://github.com/BLUEBERRYP1LL/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/BLUEBERRYP1LL/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/BLUEBERRYP1LL/CVE-2024-48990">
 - [nekr0ff/needrestart-sudo-escalate-cve-2024-48990](https://github.com/nekr0ff/needrestart-sudo-escalate-cve-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/nekr0ff/needrestart-sudo-escalate-cve-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/nekr0ff/needrestart-sudo-escalate-cve-2024-48990">
+- [endermixxer/CVE-2024-48990_needrestart](https://github.com/endermixxer/CVE-2024-48990_needrestart)	<img alt="forks" src="https://img.shields.io/github/forks/endermixxer/CVE-2024-48990_needrestart">	<img alt="stars" src="https://img.shields.io/github/stars/endermixxer/CVE-2024-48990_needrestart">
 
 ---
 ## CVE-2024-4898 (2024-06-12T11:15:00)
