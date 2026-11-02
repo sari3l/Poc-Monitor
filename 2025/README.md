@@ -335,6 +335,8 @@
 - [Makis6/CVE-2025-8110](https://github.com/Makis6/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/Makis6/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/Makis6/CVE-2025-8110">
 - [eds1268/cve-2025-8110-ctf](https://github.com/eds1268/cve-2025-8110-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/eds1268/cve-2025-8110-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/eds1268/cve-2025-8110-ctf">
 - [kur0bai/CVE-2025-8110](https://github.com/kur0bai/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/kur0bai/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/kur0bai/CVE-2025-8110">
+- [godylockz/CVE-2025-8110](https://github.com/godylockz/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/godylockz/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/godylockz/CVE-2025-8110">
+- [ferralon-demo/gogs-symlink-chain](https://github.com/ferralon-demo/gogs-symlink-chain)	<img alt="forks" src="https://img.shields.io/github/forks/ferralon-demo/gogs-symlink-chain">	<img alt="stars" src="https://img.shields.io/github/stars/ferralon-demo/gogs-symlink-chain">
 
 ---
 ## CVE-2025-8088 ()
