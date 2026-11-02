@@ -16,6 +16,7 @@
 - [Rajdave69/CVE-2025-9974](https://github.com/Rajdave69/CVE-2025-9974)	<img alt="forks" src="https://img.shields.io/github/forks/Rajdave69/CVE-2025-9974">	<img alt="stars" src="https://img.shields.io/github/stars/Rajdave69/CVE-2025-9974">
 - [HORKimhab/CVE-2025-9974](https://github.com/HORKimhab/CVE-2025-9974)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2025-9974">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2025-9974">
 - [Rajdave69/CVE-2025-9974](https://github.com/Rajdave69/CVE-2025-9974)	<img alt="forks" src="https://img.shields.io/github/forks/Rajdave69/CVE-2025-9974">	<img alt="stars" src="https://img.shields.io/github/stars/Rajdave69/CVE-2025-9974">
+- [xxs-2/Beacon10-Getshell](https://github.com/xxs-2/Beacon10-Getshell)	<img alt="forks" src="https://img.shields.io/github/forks/xxs-2/Beacon10-Getshell">	<img alt="stars" src="https://img.shields.io/github/stars/xxs-2/Beacon10-Getshell">
 
 ---
 ## CVE-2025-9967 ()
