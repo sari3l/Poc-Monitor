@@ -7078,6 +7078,7 @@
 > 
 - [Nero22k/CVE-2025-41450_poc](https://github.com/Nero22k/CVE-2025-41450_poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nero22k/CVE-2025-41450_poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nero22k/CVE-2025-41450_poc">
 - [msuiche/fromagegate](https://github.com/msuiche/fromagegate)	<img alt="forks" src="https://img.shields.io/github/forks/msuiche/fromagegate">	<img alt="stars" src="https://img.shields.io/github/stars/msuiche/fromagegate">
+- [GabrieleDattile/CVE-2025-41450-Fromagegate](https://github.com/GabrieleDattile/CVE-2025-41450-Fromagegate)	<img alt="forks" src="https://img.shields.io/github/forks/GabrieleDattile/CVE-2025-41450-Fromagegate">	<img alt="stars" src="https://img.shields.io/github/stars/GabrieleDattile/CVE-2025-41450-Fromagegate">
 
 ---
 ## CVE-2025-4138 ()
@@ -8041,6 +8042,8 @@
 - [Liam-Worsley/CVE-2025-32433-PoC-Analysis](https://github.com/Liam-Worsley/CVE-2025-32433-PoC-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Liam-Worsley/CVE-2025-32433-PoC-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Liam-Worsley/CVE-2025-32433-PoC-Analysis">
 - [damnkrishna/CVE-2025-32433-LAB](https://github.com/damnkrishna/CVE-2025-32433-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/damnkrishna/CVE-2025-32433-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/damnkrishna/CVE-2025-32433-LAB">
 - [X-Bulow/Reproduce-CVE-2025-32433](https://github.com/X-Bulow/Reproduce-CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/X-Bulow/Reproduce-CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/X-Bulow/Reproduce-CVE-2025-32433">
+- [Avinash37402/CVE-2025-32433-Erlang-OTP-SSH](https://github.com/Avinash37402/CVE-2025-32433-Erlang-OTP-SSH)	<img alt="forks" src="https://img.shields.io/github/forks/Avinash37402/CVE-2025-32433-Erlang-OTP-SSH">	<img alt="stars" src="https://img.shields.io/github/stars/Avinash37402/CVE-2025-32433-Erlang-OTP-SSH">
+- [Avinash37402/CVE-2025-32433](https://github.com/Avinash37402/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/Avinash37402/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/Avinash37402/CVE-2025-32433">
 
 ---
 ## CVE-2025-32432 ()
