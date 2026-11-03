@@ -8478,6 +8478,8 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [CerberusMrXi/WP-Bricks-Exploit-CVE-2024-25600](https://github.com/CerberusMrXi/WP-Bricks-Exploit-CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/WP-Bricks-Exploit-CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/WP-Bricks-Exploit-CVE-2024-25600">
 - [Anjai7/TryHack3M-Bricks-Heist](https://github.com/Anjai7/TryHack3M-Bricks-Heist)	<img alt="forks" src="https://img.shields.io/github/forks/Anjai7/TryHack3M-Bricks-Heist">	<img alt="stars" src="https://img.shields.io/github/stars/Anjai7/TryHack3M-Bricks-Heist">
 - [K52-ai/CVE-2024-25600](https://github.com/K52-ai/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/K52-ai/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/K52-ai/CVE-2024-25600">
+- [eunbyulaakash/CVE-2024-25600-FOR-PYTHON-3.8](https://github.com/eunbyulaakash/CVE-2024-25600-FOR-PYTHON-3.8)	<img alt="forks" src="https://img.shields.io/github/forks/eunbyulaakash/CVE-2024-25600-FOR-PYTHON-3.8">	<img alt="stars" src="https://img.shields.io/github/stars/eunbyulaakash/CVE-2024-25600-FOR-PYTHON-3.8">
+- [zxc2009/TryHack3M-Bricks-Heist](https://github.com/zxc2009/TryHack3M-Bricks-Heist)	<img alt="forks" src="https://img.shields.io/github/forks/zxc2009/TryHack3M-Bricks-Heist">	<img alt="stars" src="https://img.shields.io/github/stars/zxc2009/TryHack3M-Bricks-Heist">
 
 ---
 ## CVE-2024-25503 (2024-04-04T08:15:00)

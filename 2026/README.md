@@ -123,6 +123,9 @@
 - [0xBlackash/CVE-2026-98432](https://github.com/0xBlackash/CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-98432">
 - [schnied/cve-2026-98432-mitigation-iptables](https://github.com/schnied/cve-2026-98432-mitigation-iptables)	<img alt="forks" src="https://img.shields.io/github/forks/schnied/cve-2026-98432-mitigation-iptables">	<img alt="stars" src="https://img.shields.io/github/stars/schnied/cve-2026-98432-mitigation-iptables">
 - [lowerpower/cve-2026-98432-mitigation](https://github.com/lowerpower/cve-2026-98432-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/lowerpower/cve-2026-98432-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/lowerpower/cve-2026-98432-mitigation">
+- [luxagen/tester-linux-cve-2026-98432](https://github.com/luxagen/tester-linux-cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/luxagen/tester-linux-cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/luxagen/tester-linux-cve-2026-98432">
+- [muhammedemintombak/pardus21-cve-2026-98432](https://github.com/muhammedemintombak/pardus21-cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/muhammedemintombak/pardus21-cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/muhammedemintombak/pardus21-cve-2026-98432">
+- [braginvalentin/cve_2026_98432](https://github.com/braginvalentin/cve_2026_98432)	<img alt="forks" src="https://img.shields.io/github/forks/braginvalentin/cve_2026_98432">	<img alt="stars" src="https://img.shields.io/github/stars/braginvalentin/cve_2026_98432">
 
 ---
 ## CVE-2026-98385 ()
@@ -188,6 +191,7 @@
 - [yoro1836/SamTimer](https://github.com/yoro1836/SamTimer)	<img alt="forks" src="https://img.shields.io/github/forks/yoro1836/SamTimer">	<img alt="stars" src="https://img.shields.io/github/stars/yoro1836/SamTimer">
 - [super2tt/CVE-2026-98260-vivo-x-fold6-poc](https://github.com/super2tt/CVE-2026-98260-vivo-x-fold6-poc)	<img alt="forks" src="https://img.shields.io/github/forks/super2tt/CVE-2026-98260-vivo-x-fold6-poc">	<img alt="stars" src="https://img.shields.io/github/stars/super2tt/CVE-2026-98260-vivo-x-fold6-poc">
 - [YodonTan/cve-2026-98260-harmonyos-applicability](https://github.com/YodonTan/cve-2026-98260-harmonyos-applicability)	<img alt="forks" src="https://img.shields.io/github/forks/YodonTan/cve-2026-98260-harmonyos-applicability">	<img alt="stars" src="https://img.shields.io/github/stars/YodonTan/cve-2026-98260-harmonyos-applicability">
+- [RMDycz/K80Pro-miro-CVE-2026-98260](https://github.com/RMDycz/K80Pro-miro-CVE-2026-98260)	<img alt="forks" src="https://img.shields.io/github/forks/RMDycz/K80Pro-miro-CVE-2026-98260">	<img alt="stars" src="https://img.shields.io/github/stars/RMDycz/K80Pro-miro-CVE-2026-98260">
 
 ---
 ## CVE-2026-98258 ()
@@ -13966,6 +13970,7 @@
 ## CVE-2026-116512 ()
 > 
 - [BabyMushr00w/CVE-2026-116512](https://github.com/BabyMushr00w/CVE-2026-116512)	<img alt="forks" src="https://img.shields.io/github/forks/BabyMushr00w/CVE-2026-116512">	<img alt="stars" src="https://img.shields.io/github/stars/BabyMushr00w/CVE-2026-116512">
+- [0xCyp1337/CVE-2026-116512](https://github.com/0xCyp1337/CVE-2026-116512)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-116512">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-116512">
 
 ---
 ## CVE-2026-116488 ()
@@ -14030,6 +14035,11 @@
 ## CVE-2026-116105 ()
 > 
 - [ohackercego/CVE-2026-116105](https://github.com/ohackercego/CVE-2026-116105)	<img alt="forks" src="https://img.shields.io/github/forks/ohackercego/CVE-2026-116105">	<img alt="stars" src="https://img.shields.io/github/stars/ohackercego/CVE-2026-116105">
+
+---
+## CVE-2026-116063 ()
+> 
+- [SDshadow/CVE-2026-116063](https://github.com/SDshadow/CVE-2026-116063)	<img alt="forks" src="https://img.shields.io/github/forks/SDshadow/CVE-2026-116063">	<img alt="stars" src="https://img.shields.io/github/stars/SDshadow/CVE-2026-116063">
 
 ---
 ## CVE-2026-116012 ()
@@ -15625,6 +15635,7 @@
 > 
 - [SeanDishman/telegram-cve-2026-107181](https://github.com/SeanDishman/telegram-cve-2026-107181)	<img alt="forks" src="https://img.shields.io/github/forks/SeanDishman/telegram-cve-2026-107181">	<img alt="stars" src="https://img.shields.io/github/stars/SeanDishman/telegram-cve-2026-107181">
 - [abdugafforov-bobur/cve-2026-107181-poc](https://github.com/abdugafforov-bobur/cve-2026-107181-poc)	<img alt="forks" src="https://img.shields.io/github/forks/abdugafforov-bobur/cve-2026-107181-poc">	<img alt="stars" src="https://img.shields.io/github/stars/abdugafforov-bobur/cve-2026-107181-poc">
+- [00nx/telegram-account-takeover-poc](https://github.com/00nx/telegram-account-takeover-poc)	<img alt="forks" src="https://img.shields.io/github/forks/00nx/telegram-account-takeover-poc">	<img alt="stars" src="https://img.shields.io/github/stars/00nx/telegram-account-takeover-poc">
 
 ---
 ## CVE-2026-107092 ()
