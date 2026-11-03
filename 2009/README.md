@@ -10,7 +10,7 @@
 ---
 ## CVE-2009-4496 ()
 > 
-- [enriquenegri-cyberlaw/boa-cve-2009-4496-analysis](https://github.com/enriquenegri-cyberlaw/boa-cve-2009-4496-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/enriquenegri-cyberlaw/boa-cve-2009-4496-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/enriquenegri-cyberlaw/boa-cve-2009-4496-analysis">
+- [enriquenegri-cyberlaw/boa-webserver-log-escape-injection-cve-2009-4496](https://github.com/enriquenegri-cyberlaw/boa-webserver-log-escape-injection-cve-2009-4496)	<img alt="forks" src="https://img.shields.io/github/forks/enriquenegri-cyberlaw/boa-webserver-log-escape-injection-cve-2009-4496">	<img alt="stars" src="https://img.shields.io/github/stars/enriquenegri-cyberlaw/boa-webserver-log-escape-injection-cve-2009-4496">
 
 ---
 ## CVE-2009-4049 (2009-11-23T17:30:00)
