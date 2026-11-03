@@ -121,6 +121,8 @@
 - [IgrekLg/cve-2026-98432-mitigation](https://github.com/IgrekLg/cve-2026-98432-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/IgrekLg/cve-2026-98432-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/IgrekLg/cve-2026-98432-mitigation">
 - [valkenindustries/cve-2026-98432-mitigation](https://github.com/valkenindustries/cve-2026-98432-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/valkenindustries/cve-2026-98432-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/valkenindustries/cve-2026-98432-mitigation">
 - [0xBlackash/CVE-2026-98432](https://github.com/0xBlackash/CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-98432">
+- [schnied/cve-2026-98432-mitigation-iptables](https://github.com/schnied/cve-2026-98432-mitigation-iptables)	<img alt="forks" src="https://img.shields.io/github/forks/schnied/cve-2026-98432-mitigation-iptables">	<img alt="stars" src="https://img.shields.io/github/stars/schnied/cve-2026-98432-mitigation-iptables">
+- [lowerpower/cve-2026-98432-mitigation](https://github.com/lowerpower/cve-2026-98432-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/lowerpower/cve-2026-98432-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/lowerpower/cve-2026-98432-mitigation">
 
 ---
 ## CVE-2026-98385 ()
@@ -15375,6 +15377,7 @@
 - [andrysunjaya/php2shell-scanner](https://github.com/andrysunjaya/php2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/andrysunjaya/php2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/andrysunjaya/php2shell-scanner">
 - [secopsxsaiyan/php2shell-wazuh-detections](https://github.com/secopsxsaiyan/php2shell-wazuh-detections)	<img alt="forks" src="https://img.shields.io/github/forks/secopsxsaiyan/php2shell-wazuh-detections">	<img alt="stars" src="https://img.shields.io/github/stars/secopsxsaiyan/php2shell-wazuh-detections">
 - [drekbad/php-search](https://github.com/drekbad/php-search)	<img alt="forks" src="https://img.shields.io/github/forks/drekbad/php-search">	<img alt="stars" src="https://img.shields.io/github/stars/drekbad/php-search">
+- [Shadow-Pixxxel/php-advanced-hunting](https://github.com/Shadow-Pixxxel/php-advanced-hunting)	<img alt="forks" src="https://img.shields.io/github/forks/Shadow-Pixxxel/php-advanced-hunting">	<img alt="stars" src="https://img.shields.io/github/stars/Shadow-Pixxxel/php-advanced-hunting">
 
 ---
 ## CVE-2026-10961 ()

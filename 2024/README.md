@@ -3927,6 +3927,8 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [weae26/cve-2024-4367-poc](https://github.com/weae26/cve-2024-4367-poc)	<img alt="forks" src="https://img.shields.io/github/forks/weae26/cve-2024-4367-poc">	<img alt="stars" src="https://img.shields.io/github/stars/weae26/cve-2024-4367-poc">
 - [stuara1/cpc-pdfjs-poc](https://github.com/stuara1/cpc-pdfjs-poc)	<img alt="forks" src="https://img.shields.io/github/forks/stuara1/cpc-pdfjs-poc">	<img alt="stars" src="https://img.shields.io/github/stars/stuara1/cpc-pdfjs-poc">
 - [lewiskb/Docker-Lab-CVE-2024-4367](https://github.com/lewiskb/Docker-Lab-CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/lewiskb/Docker-Lab-CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/lewiskb/Docker-Lab-CVE-2024-4367">
+- [minhi1/CVE-2024-4367](https://github.com/minhi1/CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/minhi1/CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/minhi1/CVE-2024-4367">
+- [weae26/aia-pdfjs-poc](https://github.com/weae26/aia-pdfjs-poc)	<img alt="forks" src="https://img.shields.io/github/forks/weae26/aia-pdfjs-poc">	<img alt="stars" src="https://img.shields.io/github/stars/weae26/aia-pdfjs-poc">
 
 ---
 ## CVE-2024-43639 ()
@@ -6956,6 +6958,8 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [axisops/CVE-2024-3094](https://github.com/axisops/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/axisops/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/axisops/CVE-2024-3094">
 - [Michel-DV/xz-utils-backdoor-case-study](https://github.com/Michel-DV/xz-utils-backdoor-case-study)	<img alt="forks" src="https://img.shields.io/github/forks/Michel-DV/xz-utils-backdoor-case-study">	<img alt="stars" src="https://img.shields.io/github/stars/Michel-DV/xz-utils-backdoor-case-study">
 - [mhicairo-hue/cs50-cybersecurity-final-project](https://github.com/mhicairo-hue/cs50-cybersecurity-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/mhicairo-hue/cs50-cybersecurity-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/mhicairo-hue/cs50-cybersecurity-final-project">
+- [mcpmark-eval-liuhezi/log4j-xz-lessons](https://github.com/mcpmark-eval-liuhezi/log4j-xz-lessons)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4j-xz-lessons">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4j-xz-lessons">
+- [mcpmark-eval-liuhezi/security-digest-modern-classics](https://github.com/mcpmark-eval-liuhezi/security-digest-modern-classics)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/security-digest-modern-classics">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/security-digest-modern-classics">
 
 ---
 ## CVE-2024-30937 ()
