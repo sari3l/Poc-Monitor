@@ -31017,6 +31017,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23943 (2022-03-14T11:15:00)
 > Out-of-bounds Write vulnerability in mod_sed of Apache HTTP Server allows an attacker to overwrite heap memory with possibly attacker provided data. This issue affects Apache HTTP Server 2.4 version 2.4.52 and prior versions.
 - [Live-Hack-CVE/CVE-2022-23943](https://github.com/Live-Hack-CVE/CVE-2022-23943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23943">
+- [rwmicro/CVE-2022-23943](https://github.com/rwmicro/CVE-2022-23943)	<img alt="forks" src="https://img.shields.io/github/forks/rwmicro/CVE-2022-23943">	<img alt="stars" src="https://img.shields.io/github/stars/rwmicro/CVE-2022-23943">
 
 ---
 ## CVE-2022-23940 ()
@@ -33108,6 +33109,11 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 ## CVE-2022-21680 (2022-01-14T17:15:00)
 > Marked is a markdown parser and compiler. Prior to version 4.0.10, the regular expression `block.def` may cause catastrophic backtracking against some strings and lead to a regular expression denial of service (ReDoS). Anyone who runs untrusted markdown through a vulnerable version of marked and does not use a worker with a time limit may be affected. This issue is patched in version 4.0.10. As a workaround, avoid running untrusted markdown through marked or run marked on a worker thread and set a reasonable time limit to prevent draining resources.
 - [Live-Hack-CVE/CVE-2022-21680](https://github.com/Live-Hack-CVE/CVE-2022-21680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21680">
+
+---
+## CVE-2022-21675 ()
+> 
+- [themd-me/CVE-2022-21675](https://github.com/themd-me/CVE-2022-21675)	<img alt="forks" src="https://img.shields.io/github/forks/themd-me/CVE-2022-21675">	<img alt="stars" src="https://img.shields.io/github/stars/themd-me/CVE-2022-21675">
 
 ---
 ## CVE-2022-2167 (2022-10-31T16:15:00)

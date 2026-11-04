@@ -7946,6 +7946,7 @@
 - [0xdak/CVE-2025-32463_exploit](https://github.com/0xdak/CVE-2025-32463_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2025-32463_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2025-32463_exploit">
 - [EthanEvans92/CVE-2025-32463](https://github.com/EthanEvans92/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/EthanEvans92/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/EthanEvans92/CVE-2025-32463">
 - [klvlo/CVE-2025-32463](https://github.com/klvlo/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/klvlo/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/klvlo/CVE-2025-32463">
+- [roock3t/CVE-2025-32463](https://github.com/roock3t/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/roock3t/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/roock3t/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()

@@ -6102,6 +6102,11 @@
 - [Live-Hack-CVE/CVE-2021-33655](https://github.com/Live-Hack-CVE/CVE-2021-33655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33655">
 
 ---
+## CVE-2021-33644 ()
+> 
+- [nicklondal/libtar-CVE-2021-33644-followup](https://github.com/nicklondal/libtar-CVE-2021-33644-followup)	<img alt="forks" src="https://img.shields.io/github/forks/nicklondal/libtar-CVE-2021-33644-followup">	<img alt="stars" src="https://img.shields.io/github/stars/nicklondal/libtar-CVE-2021-33644-followup">
+
+---
 ## CVE-2021-33640 (2022-12-19T16:15:00)
 > After tar_close(), libtar.c releases the memory pointed to by pointer t. After tar_close() is called in the list() function, it continues to use pointer t: free_longlink_longname(t->th_buf) . As a result, the released memory is used (use-after-free).
 - [Live-Hack-CVE/CVE-2021-33640](https://github.com/Live-Hack-CVE/CVE-2021-33640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33640">
