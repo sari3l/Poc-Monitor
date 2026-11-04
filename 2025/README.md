@@ -4621,6 +4621,8 @@
 - [hadayalab-web/pandemic-fortress-advisories](https://github.com/hadayalab-web/pandemic-fortress-advisories)	<img alt="forks" src="https://img.shields.io/github/forks/hadayalab-web/pandemic-fortress-advisories">	<img alt="stars" src="https://img.shields.io/github/stars/hadayalab-web/pandemic-fortress-advisories">
 - [manshoor/php2shell-scanner](https://github.com/manshoor/php2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/manshoor/php2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/manshoor/php2shell-scanner">
 - [bytesAIren/THM_Corp_Website_CTF](https://github.com/bytesAIren/THM_Corp_Website_CTF)	<img alt="forks" src="https://img.shields.io/github/forks/bytesAIren/THM_Corp_Website_CTF">	<img alt="stars" src="https://img.shields.io/github/stars/bytesAIren/THM_Corp_Website_CTF">
+- [Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-](https://github.com/Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-">
+- [simonangel-fong/react2shell-eks](https://github.com/simonangel-fong/react2shell-eks)	<img alt="forks" src="https://img.shields.io/github/forks/simonangel-fong/react2shell-eks">	<img alt="stars" src="https://img.shields.io/github/stars/simonangel-fong/react2shell-eks">
 
 ---
 ## CVE-2025-55130 ()
