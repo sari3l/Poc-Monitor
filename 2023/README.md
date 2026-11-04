@@ -6957,6 +6957,8 @@ and the severity is therefore considered low.
 - [CuriousLearnerDev/ColdFusion_EXp](https://github.com/CuriousLearnerDev/ColdFusion_EXp)	<img alt="forks" src="https://img.shields.io/github/forks/CuriousLearnerDev/ColdFusion_EXp">	<img alt="stars" src="https://img.shields.io/github/stars/CuriousLearnerDev/ColdFusion_EXp">
 - [H3rm1tR3b0rn/CVE-2023-26360-RCE](https://github.com/H3rm1tR3b0rn/CVE-2023-26360-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/H3rm1tR3b0rn/CVE-2023-26360-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/H3rm1tR3b0rn/CVE-2023-26360-RCE">
 - [RyanRodrigues880/CVE-2023-26360](https://github.com/RyanRodrigues880/CVE-2023-26360)	<img alt="forks" src="https://img.shields.io/github/forks/RyanRodrigues880/CVE-2023-26360">	<img alt="stars" src="https://img.shields.io/github/stars/RyanRodrigues880/CVE-2023-26360">
+- [DefaultCh40s/CVE-2023-26360](https://github.com/DefaultCh40s/CVE-2023-26360)	<img alt="forks" src="https://img.shields.io/github/forks/DefaultCh40s/CVE-2023-26360">	<img alt="stars" src="https://img.shields.io/github/stars/DefaultCh40s/CVE-2023-26360">
+- [joaoaugustom/Adobe_ColdFusion_RCE_Unauthenticated](https://github.com/joaoaugustom/Adobe_ColdFusion_RCE_Unauthenticated)	<img alt="forks" src="https://img.shields.io/github/forks/joaoaugustom/Adobe_ColdFusion_RCE_Unauthenticated">	<img alt="stars" src="https://img.shields.io/github/stars/joaoaugustom/Adobe_ColdFusion_RCE_Unauthenticated">
 
 ---
 ## CVE-2023-2636 (2023-07-17T14:15:00)

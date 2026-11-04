@@ -131,6 +131,9 @@
 - [t0ge-kun/CVE-2026-98432-check](https://github.com/t0ge-kun/CVE-2026-98432-check)	<img alt="forks" src="https://img.shields.io/github/forks/t0ge-kun/CVE-2026-98432-check">	<img alt="stars" src="https://img.shields.io/github/stars/t0ge-kun/CVE-2026-98432-check">
 - [hdp1972be-svg/cve_2026_98432_guard](https://github.com/hdp1972be-svg/cve_2026_98432_guard)	<img alt="forks" src="https://img.shields.io/github/forks/hdp1972be-svg/cve_2026_98432_guard">	<img alt="stars" src="https://img.shields.io/github/stars/hdp1972be-svg/cve_2026_98432_guard">
 - [mrjoshuap/ansible-ezcve](https://github.com/mrjoshuap/ansible-ezcve)	<img alt="forks" src="https://img.shields.io/github/forks/mrjoshuap/ansible-ezcve">	<img alt="stars" src="https://img.shields.io/github/stars/mrjoshuap/ansible-ezcve">
+- [moatome/CVE-2026-98432-pen-test](https://github.com/moatome/CVE-2026-98432-pen-test)	<img alt="forks" src="https://img.shields.io/github/forks/moatome/CVE-2026-98432-pen-test">	<img alt="stars" src="https://img.shields.io/github/stars/moatome/CVE-2026-98432-pen-test">
+- [cybervenom01/Mitigation_CVE-2026-98432](https://github.com/cybervenom01/Mitigation_CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/cybervenom01/Mitigation_CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/cybervenom01/Mitigation_CVE-2026-98432">
+- [ScudraServicos/cve-2026-98432-mitigation](https://github.com/ScudraServicos/cve-2026-98432-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/ScudraServicos/cve-2026-98432-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/ScudraServicos/cve-2026-98432-mitigation">
 
 ---
 ## CVE-2026-98385 ()
@@ -197,6 +200,8 @@
 - [super2tt/CVE-2026-98260-vivo-x-fold6-poc](https://github.com/super2tt/CVE-2026-98260-vivo-x-fold6-poc)	<img alt="forks" src="https://img.shields.io/github/forks/super2tt/CVE-2026-98260-vivo-x-fold6-poc">	<img alt="stars" src="https://img.shields.io/github/stars/super2tt/CVE-2026-98260-vivo-x-fold6-poc">
 - [YodonTan/cve-2026-98260-harmonyos-applicability](https://github.com/YodonTan/cve-2026-98260-harmonyos-applicability)	<img alt="forks" src="https://img.shields.io/github/forks/YodonTan/cve-2026-98260-harmonyos-applicability">	<img alt="stars" src="https://img.shields.io/github/stars/YodonTan/cve-2026-98260-harmonyos-applicability">
 - [RMDycz/K80Pro-miro-CVE-2026-98260](https://github.com/RMDycz/K80Pro-miro-CVE-2026-98260)	<img alt="forks" src="https://img.shields.io/github/forks/RMDycz/K80Pro-miro-CVE-2026-98260">	<img alt="stars" src="https://img.shields.io/github/stars/RMDycz/K80Pro-miro-CVE-2026-98260">
+- [Haor/CVE-2026-98260-OPD2513](https://github.com/Haor/CVE-2026-98260-OPD2513)	<img alt="forks" src="https://img.shields.io/github/forks/Haor/CVE-2026-98260-OPD2513">	<img alt="stars" src="https://img.shields.io/github/stars/Haor/CVE-2026-98260-OPD2513">
+- [WantenMN/cve-2026-98260-adb](https://github.com/WantenMN/cve-2026-98260-adb)	<img alt="forks" src="https://img.shields.io/github/forks/WantenMN/cve-2026-98260-adb">	<img alt="stars" src="https://img.shields.io/github/stars/WantenMN/cve-2026-98260-adb">
 
 ---
 ## CVE-2026-98258 ()
@@ -1264,6 +1269,11 @@
 ## CVE-2026-86595 ()
 > 
 - [Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti](https://github.com/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti)	<img alt="forks" src="https://img.shields.io/github/forks/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti">	<img alt="stars" src="https://img.shields.io/github/stars/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti">
+
+---
+## CVE-2026-86583 ()
+> 
+- [saretawa/CVE-2026-86583](https://github.com/saretawa/CVE-2026-86583)	<img alt="forks" src="https://img.shields.io/github/forks/saretawa/CVE-2026-86583">	<img alt="stars" src="https://img.shields.io/github/stars/saretawa/CVE-2026-86583">
 
 ---
 ## CVE-2026-86547 ()
@@ -6493,6 +6503,11 @@
 ## CVE-2026-44277 ()
 > 
 - [0xBlackash/CVE-2026-44277](https://github.com/0xBlackash/CVE-2026-44277)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-44277">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-44277">
+
+---
+## CVE-2026-44267 ()
+> 
+- [umair-aziz025/CVE-2026-44267](https://github.com/umair-aziz025/CVE-2026-44267)	<img alt="forks" src="https://img.shields.io/github/forks/umair-aziz025/CVE-2026-44267">	<img alt="stars" src="https://img.shields.io/github/stars/umair-aziz025/CVE-2026-44267">
 
 ---
 ## CVE-2026-44262 ()
@@ -13938,6 +13953,7 @@
 ## CVE-2026-119977 ()
 > 
 - [lysophavin18/CVE-2026-119977](https://github.com/lysophavin18/CVE-2026-119977)	<img alt="forks" src="https://img.shields.io/github/forks/lysophavin18/CVE-2026-119977">	<img alt="stars" src="https://img.shields.io/github/stars/lysophavin18/CVE-2026-119977">
+- [Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4](https://github.com/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4)	<img alt="forks" src="https://img.shields.io/github/forks/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4">	<img alt="stars" src="https://img.shields.io/github/stars/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4">
 
 ---
 ## CVE-2026-11991 ()
@@ -13973,6 +13989,12 @@
 ## CVE-2026-11834 ()
 > 
 - [mattgsys/CVE-2026-11834](https://github.com/mattgsys/CVE-2026-11834)	<img alt="forks" src="https://img.shields.io/github/forks/mattgsys/CVE-2026-11834">	<img alt="stars" src="https://img.shields.io/github/stars/mattgsys/CVE-2026-11834">
+
+---
+## CVE-2026-118306 ()
+> 
+- [al4n4n/CVE-2026-118306](https://github.com/al4n4n/CVE-2026-118306)	<img alt="forks" src="https://img.shields.io/github/forks/al4n4n/CVE-2026-118306">	<img alt="stars" src="https://img.shields.io/github/stars/al4n4n/CVE-2026-118306">
+- [Toddoward/chromium-audit](https://github.com/Toddoward/chromium-audit)	<img alt="forks" src="https://img.shields.io/github/forks/Toddoward/chromium-audit">	<img alt="stars" src="https://img.shields.io/github/stars/Toddoward/chromium-audit">
 
 ---
 ## CVE-2026-118238 ()
@@ -15468,6 +15490,8 @@
 - [MuhammadUwais/php2shell-php-fpm-rce](https://github.com/MuhammadUwais/php2shell-php-fpm-rce)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadUwais/php2shell-php-fpm-rce">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadUwais/php2shell-php-fpm-rce">
 - [muhammadsohaimmuqtada/php2shell-version-frontier](https://github.com/muhammadsohaimmuqtada/php2shell-version-frontier)	<img alt="forks" src="https://img.shields.io/github/forks/muhammadsohaimmuqtada/php2shell-version-frontier">	<img alt="stars" src="https://img.shields.io/github/stars/muhammadsohaimmuqtada/php2shell-version-frontier">
 - [0-draft/php2shell-anatomy](https://github.com/0-draft/php2shell-anatomy)	<img alt="forks" src="https://img.shields.io/github/forks/0-draft/php2shell-anatomy">	<img alt="stars" src="https://img.shields.io/github/stars/0-draft/php2shell-anatomy">
+- [ncpz/cloudflare-php-ctf-research](https://github.com/ncpz/cloudflare-php-ctf-research)	<img alt="forks" src="https://img.shields.io/github/forks/ncpz/cloudflare-php-ctf-research">	<img alt="stars" src="https://img.shields.io/github/stars/ncpz/cloudflare-php-ctf-research">
+- [somany-flower4u/php2shell-analysis](https://github.com/somany-flower4u/php2shell-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/somany-flower4u/php2shell-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/somany-flower4u/php2shell-analysis">
 
 ---
 ## CVE-2026-10961 ()
@@ -15600,6 +15624,12 @@
 ## CVE-2026-109519 ()
 > 
 - [0xgh0stri13y/CVE-2026-109519](https://github.com/0xgh0stri13y/CVE-2026-109519)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh0stri13y/CVE-2026-109519">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh0stri13y/CVE-2026-109519">
+
+---
+## CVE-2026-109518 ()
+> 
+- [Quaerendir/cve-2026-109518-audit](https://github.com/Quaerendir/cve-2026-109518-audit)	<img alt="forks" src="https://img.shields.io/github/forks/Quaerendir/cve-2026-109518-audit">	<img alt="stars" src="https://img.shields.io/github/stars/Quaerendir/cve-2026-109518-audit">
+- [NeoArtemis37/PHP2shell](https://github.com/NeoArtemis37/PHP2shell)	<img alt="forks" src="https://img.shields.io/github/forks/NeoArtemis37/PHP2shell">	<img alt="stars" src="https://img.shields.io/github/stars/NeoArtemis37/PHP2shell">
 
 ---
 ## CVE-2026-109506 ()

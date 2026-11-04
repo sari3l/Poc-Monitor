@@ -263,6 +263,7 @@
 - [Th3Purge/CVE-2017-7921-Exploit](https://github.com/Th3Purge/CVE-2017-7921-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Th3Purge/CVE-2017-7921-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Th3Purge/CVE-2017-7921-Exploit">
 - [m7arm4n/CVE-2017-7921](https://github.com/m7arm4n/CVE-2017-7921)	<img alt="forks" src="https://img.shields.io/github/forks/m7arm4n/CVE-2017-7921">	<img alt="stars" src="https://img.shields.io/github/stars/m7arm4n/CVE-2017-7921">
 - [MK-ULTRA-MK-ULTRA/CVE-2017-7921-2026-writeup](https://github.com/MK-ULTRA-MK-ULTRA/CVE-2017-7921-2026-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/MK-ULTRA-MK-ULTRA/CVE-2017-7921-2026-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/MK-ULTRA-MK-ULTRA/CVE-2017-7921-2026-writeup">
+- [intcost/cve-2017-7921-hikvision-poc](https://github.com/intcost/cve-2017-7921-hikvision-poc)	<img alt="forks" src="https://img.shields.io/github/forks/intcost/cve-2017-7921-hikvision-poc">	<img alt="stars" src="https://img.shields.io/github/stars/intcost/cve-2017-7921-hikvision-poc">
 
 ---
 ## CVE-2017-7888 (2017-05-10T14:29:00)
