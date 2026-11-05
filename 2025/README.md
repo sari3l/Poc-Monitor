@@ -5544,6 +5544,11 @@
 - [1515601525/CVE-2025-50592](https://github.com/1515601525/CVE-2025-50592)	<img alt="forks" src="https://img.shields.io/github/forks/1515601525/CVE-2025-50592">	<img alt="stars" src="https://img.shields.io/github/stars/1515601525/CVE-2025-50592">
 
 ---
+## CVE-2025-50579 ()
+> 
+- [davidoberst/CVE-2025-50579-CORS-Misconfiguration-Exploit](https://github.com/davidoberst/CVE-2025-50579-CORS-Misconfiguration-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/davidoberst/CVE-2025-50579-CORS-Misconfiguration-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/davidoberst/CVE-2025-50579-CORS-Misconfiguration-Exploit">
+
+---
 ## CVE-2025-50565 ()
 > 
 - [OoO7ce/CVE-2025-50565](https://github.com/OoO7ce/CVE-2025-50565)	<img alt="forks" src="https://img.shields.io/github/forks/OoO7ce/CVE-2025-50565">	<img alt="stars" src="https://img.shields.io/github/stars/OoO7ce/CVE-2025-50565">
