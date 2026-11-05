@@ -5502,7 +5502,7 @@ Fixed in version 6.4.1.
 - [tangxiaofeng7/CVE-2023-32315-Openfire-Bypass](https://github.com/tangxiaofeng7/CVE-2023-32315-Openfire-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/tangxiaofeng7/CVE-2023-32315-Openfire-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/tangxiaofeng7/CVE-2023-32315-Openfire-Bypass">
 - [5rGJ5aCh5oCq5YW9/CVE-2023-32315exp](https://github.com/5rGJ5aCh5oCq5YW9/CVE-2023-32315exp)	<img alt="forks" src="https://img.shields.io/github/forks/5rGJ5aCh5oCq5YW9/CVE-2023-32315exp">	<img alt="stars" src="https://img.shields.io/github/stars/5rGJ5aCh5oCq5YW9/CVE-2023-32315exp">
 - [miko550/CVE-2023-32315](https://github.com/miko550/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2023-32315">
-- [ThatNotEasy/CVE-2023-32315](https://github.com/ThatNotEasy/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2023-32315">
+- [Ap0dexMe0/CVE-2023-32315](https://github.com/Ap0dexMe0/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/Ap0dexMe0/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/Ap0dexMe0/CVE-2023-32315">
 - [izzz0/CVE-2023-32315-POC](https://github.com/izzz0/CVE-2023-32315-POC)	<img alt="forks" src="https://img.shields.io/github/forks/izzz0/CVE-2023-32315-POC">	<img alt="stars" src="https://img.shields.io/github/stars/izzz0/CVE-2023-32315-POC">
 - [gibran-abdillah/CVE-2023-32315](https://github.com/gibran-abdillah/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/gibran-abdillah/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/gibran-abdillah/CVE-2023-32315">
 - [bingtangbanli/VulnerabilityTools](https://github.com/bingtangbanli/VulnerabilityTools)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/VulnerabilityTools">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/VulnerabilityTools">
@@ -5514,6 +5514,7 @@ Fixed in version 6.4.1.
 - [shiyingzhencai/CVE-2023-32315-java7-](https://github.com/shiyingzhencai/CVE-2023-32315-java7-)	<img alt="forks" src="https://img.shields.io/github/forks/shiyingzhencai/CVE-2023-32315-java7-">	<img alt="stars" src="https://img.shields.io/github/stars/shiyingzhencai/CVE-2023-32315-java7-">
 - [rag-fish/openfire-exploit-suite](https://github.com/rag-fish/openfire-exploit-suite)	<img alt="forks" src="https://img.shields.io/github/forks/rag-fish/openfire-exploit-suite">	<img alt="stars" src="https://img.shields.io/github/stars/rag-fish/openfire-exploit-suite">
 - [krevetkqqq/cve-2023-32315-openfire-lab](https://github.com/krevetkqqq/cve-2023-32315-openfire-lab)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/cve-2023-32315-openfire-lab">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/cve-2023-32315-openfire-lab">
+- [CyberCTF/vulhub-openfire-cve-2023-32315](https://github.com/CyberCTF/vulhub-openfire-cve-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-openfire-cve-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-openfire-cve-2023-32315">
 
 ---
 ## CVE-2023-32311 ()
@@ -7528,6 +7529,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [s4m98/CVE-2023-23752](https://github.com/s4m98/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/s4m98/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/s4m98/CVE-2023-23752">
 - [rvzsec/joombrute](https://github.com/rvzsec/joombrute)	<img alt="forks" src="https://img.shields.io/github/forks/rvzsec/joombrute">	<img alt="stars" src="https://img.shields.io/github/stars/rvzsec/joombrute">
 - [CyberCTF/vulhub-joomla-cve-2023-23752](https://github.com/CyberCTF/vulhub-joomla-cve-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-joomla-cve-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-joomla-cve-2023-23752">
+- [Charly-bite/SITEUR](https://github.com/Charly-bite/SITEUR)	<img alt="forks" src="https://img.shields.io/github/forks/Charly-bite/SITEUR">	<img alt="stars" src="https://img.shields.io/github/stars/Charly-bite/SITEUR">
 
 ---
 ## CVE-2023-2375 (2023-04-28T15:15:00)
