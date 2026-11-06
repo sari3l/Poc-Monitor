@@ -331,6 +331,7 @@
 - [foxcornlab/gitlab-onigmo-scanner](https://github.com/foxcornlab/gitlab-onigmo-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/foxcornlab/gitlab-onigmo-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/foxcornlab/gitlab-onigmo-scanner">
 - [murat-levi/gitlab-rce-toolkit](https://github.com/murat-levi/gitlab-rce-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/murat-levi/gitlab-rce-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/murat-levi/gitlab-rce-toolkit">
 - [Certbn/CVE-2026-97229-GitLab-CI-CD](https://github.com/Certbn/CVE-2026-97229-GitLab-CI-CD)	<img alt="forks" src="https://img.shields.io/github/forks/Certbn/CVE-2026-97229-GitLab-CI-CD">	<img alt="stars" src="https://img.shields.io/github/stars/Certbn/CVE-2026-97229-GitLab-CI-CD">
+- [Ghost-Bx1/cve-2026-97229-gitlab-ci-rce](https://github.com/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce">
 
 ---
 ## CVE-2026-97206 ()
@@ -1685,6 +1686,7 @@
 - [LilPoule/CVE-2026-83844](https://github.com/LilPoule/CVE-2026-83844)	<img alt="forks" src="https://img.shields.io/github/forks/LilPoule/CVE-2026-83844">	<img alt="stars" src="https://img.shields.io/github/stars/LilPoule/CVE-2026-83844">
 - [mokshshah18/CVE-2026-83844-PoC-MS-paint-v-11.2609.401.0](https://github.com/mokshshah18/CVE-2026-83844-PoC-MS-paint-v-11.2609.401.0)	<img alt="forks" src="https://img.shields.io/github/forks/mokshshah18/CVE-2026-83844-PoC-MS-paint-v-11.2609.401.0">	<img alt="stars" src="https://img.shields.io/github/stars/mokshshah18/CVE-2026-83844-PoC-MS-paint-v-11.2609.401.0">
 - [0xBlackash/CVE-2026-83844](https://github.com/0xBlackash/CVE-2026-83844)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-83844">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-83844">
+- [Cobrastrike62/CVE-2026-83844-Detection](https://github.com/Cobrastrike62/CVE-2026-83844-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Cobrastrike62/CVE-2026-83844-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Cobrastrike62/CVE-2026-83844-Detection">
 
 ---
 ## CVE-2026-83834 ()
@@ -4029,9 +4031,24 @@
 - [Godliveanton/CVE-2026-61241](https://github.com/Godliveanton/CVE-2026-61241)	<img alt="forks" src="https://img.shields.io/github/forks/Godliveanton/CVE-2026-61241">	<img alt="stars" src="https://img.shields.io/github/stars/Godliveanton/CVE-2026-61241">
 
 ---
+## CVE-2026-61082 ()
+> 
+- [ryanmurf/mysql-connector-j-cve-2026-61082-repro](https://github.com/ryanmurf/mysql-connector-j-cve-2026-61082-repro)	<img alt="forks" src="https://img.shields.io/github/forks/ryanmurf/mysql-connector-j-cve-2026-61082-repro">	<img alt="stars" src="https://img.shields.io/github/stars/ryanmurf/mysql-connector-j-cve-2026-61082-repro">
+
+---
+## CVE-2026-60623 ()
+> 
+- [ryanmurf/mysql-connector-j-cve-2026-60623-repro](https://github.com/ryanmurf/mysql-connector-j-cve-2026-60623-repro)	<img alt="forks" src="https://img.shields.io/github/forks/ryanmurf/mysql-connector-j-cve-2026-60623-repro">	<img alt="stars" src="https://img.shields.io/github/stars/ryanmurf/mysql-connector-j-cve-2026-60623-repro">
+
+---
 ## CVE-2026-6060 ()
 > 
 - [George0Papasotiriou/CVE-2026-6060-QUIC-Handshake-Amplification-via-Address-Validation-Bypass](https://github.com/George0Papasotiriou/CVE-2026-6060-QUIC-Handshake-Amplification-via-Address-Validation-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-6060-QUIC-Handshake-Amplification-via-Address-Validation-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-6060-QUIC-Handshake-Amplification-via-Address-Validation-Bypass">
+
+---
+## CVE-2026-60586 ()
+> 
+- [ryanmurf/mysql-connector-j-cve-2026-60586-repro](https://github.com/ryanmurf/mysql-connector-j-cve-2026-60586-repro)	<img alt="forks" src="https://img.shields.io/github/forks/ryanmurf/mysql-connector-j-cve-2026-60586-repro">	<img alt="stars" src="https://img.shields.io/github/stars/ryanmurf/mysql-connector-j-cve-2026-60586-repro">
 
 ---
 ## CVE-2026-6042 ()
@@ -5845,6 +5862,7 @@
 > 
 - [abraxas/CVE-2026-48356](https://github.com/abraxas/CVE-2026-48356)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-48356">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-48356">
 - [piecar21/CVE-2026-48356](https://github.com/piecar21/CVE-2026-48356)	<img alt="forks" src="https://img.shields.io/github/forks/piecar21/CVE-2026-48356">	<img alt="stars" src="https://img.shields.io/github/stars/piecar21/CVE-2026-48356">
+- [Ghost-Bx1/cve-2026-48356-magento-file-upload-rce](https://github.com/Ghost-Bx1/cve-2026-48356-magento-file-upload-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-48356-magento-file-upload-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-48356-magento-file-upload-rce">
 
 ---
 ## CVE-2026-48282 ()
@@ -13946,6 +13964,11 @@
 - [mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-](https://github.com/mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-">
 
 ---
+## CVE-2026-123488 ()
+> 
+- [fixedbyreboot/CVE-2026-123488-POC](https://github.com/fixedbyreboot/CVE-2026-123488-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-123488-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-123488-POC">
+
+---
 ## CVE-2026-12345 ()
 > 
 - [zahidec0de/CVE-2026-12345-poc](https://github.com/zahidec0de/CVE-2026-12345-poc)	<img alt="forks" src="https://img.shields.io/github/forks/zahidec0de/CVE-2026-12345-poc">	<img alt="stars" src="https://img.shields.io/github/stars/zahidec0de/CVE-2026-12345-poc">
@@ -13969,6 +13992,16 @@
 - [Maalfer/CVE-2026-123158](https://github.com/Maalfer/CVE-2026-123158)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2026-123158">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2026-123158">
 - [mc493/openssh-musl-enterprise--hardening-cve-2026-123158](https://github.com/mc493/openssh-musl-enterprise--hardening-cve-2026-123158)	<img alt="forks" src="https://img.shields.io/github/forks/mc493/openssh-musl-enterprise--hardening-cve-2026-123158">	<img alt="stars" src="https://img.shields.io/github/stars/mc493/openssh-musl-enterprise--hardening-cve-2026-123158">
 - [CriticalWombat/sshole_scanner-CVE-2026-123158](https://github.com/CriticalWombat/sshole_scanner-CVE-2026-123158)	<img alt="forks" src="https://img.shields.io/github/forks/CriticalWombat/sshole_scanner-CVE-2026-123158">	<img alt="stars" src="https://img.shields.io/github/stars/CriticalWombat/sshole_scanner-CVE-2026-123158">
+- [lpizziniacofortinet/cve-2026-123158-openssh-musl-lab](https://github.com/lpizziniacofortinet/cve-2026-123158-openssh-musl-lab)	<img alt="forks" src="https://img.shields.io/github/forks/lpizziniacofortinet/cve-2026-123158-openssh-musl-lab">	<img alt="stars" src="https://img.shields.io/github/stars/lpizziniacofortinet/cve-2026-123158-openssh-musl-lab">
+- [halilkirazkaya/CVE-2026-123158](https://github.com/halilkirazkaya/CVE-2026-123158)	<img alt="forks" src="https://img.shields.io/github/forks/halilkirazkaya/CVE-2026-123158">	<img alt="stars" src="https://img.shields.io/github/stars/halilkirazkaya/CVE-2026-123158">
+- [crash00xd/CVE-2026-123158_SSHRole_PoC](https://github.com/crash00xd/CVE-2026-123158_SSHRole_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/crash00xd/CVE-2026-123158_SSHRole_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/crash00xd/CVE-2026-123158_SSHRole_PoC">
+- [shenxianpeng/check-sshole](https://github.com/shenxianpeng/check-sshole)	<img alt="forks" src="https://img.shields.io/github/forks/shenxianpeng/check-sshole">	<img alt="stars" src="https://img.shields.io/github/stars/shenxianpeng/check-sshole">
+- [mlazzarotto/ansible-sshole-remediate](https://github.com/mlazzarotto/ansible-sshole-remediate)	<img alt="forks" src="https://img.shields.io/github/forks/mlazzarotto/ansible-sshole-remediate">	<img alt="stars" src="https://img.shields.io/github/stars/mlazzarotto/ansible-sshole-remediate">
+- [techdevfun/alpinegate](https://github.com/techdevfun/alpinegate)	<img alt="forks" src="https://img.shields.io/github/forks/techdevfun/alpinegate">	<img alt="stars" src="https://img.shields.io/github/stars/techdevfun/alpinegate">
+- [Hel1um17/sshole-bypass-openssh-password](https://github.com/Hel1um17/sshole-bypass-openssh-password)	<img alt="forks" src="https://img.shields.io/github/forks/Hel1um17/sshole-bypass-openssh-password">	<img alt="stars" src="https://img.shields.io/github/stars/Hel1um17/sshole-bypass-openssh-password">
+- [HackSpeak/CVE-2026-123158](https://github.com/HackSpeak/CVE-2026-123158)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-123158">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-123158">
+- [techtaek77/sshole-guide](https://github.com/techtaek77/sshole-guide)	<img alt="forks" src="https://img.shields.io/github/forks/techtaek77/sshole-guide">	<img alt="stars" src="https://img.shields.io/github/stars/techtaek77/sshole-guide">
+- [akarkode/alpine-openssh-sshole-auth-bypass](https://github.com/akarkode/alpine-openssh-sshole-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/akarkode/alpine-openssh-sshole-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/akarkode/alpine-openssh-sshole-auth-bypass">
 
 ---
 ## CVE-2026-123025 ()
@@ -14118,6 +14151,7 @@
 > 
 - [im0xfay/CVE-2026-118423](https://github.com/im0xfay/CVE-2026-118423)	<img alt="forks" src="https://img.shields.io/github/forks/im0xfay/CVE-2026-118423">	<img alt="stars" src="https://img.shields.io/github/stars/im0xfay/CVE-2026-118423">
 - [thiscitze/cve-2026-118423-poc](https://github.com/thiscitze/cve-2026-118423-poc)	<img alt="forks" src="https://img.shields.io/github/forks/thiscitze/cve-2026-118423-poc">	<img alt="stars" src="https://img.shields.io/github/stars/thiscitze/cve-2026-118423-poc">
+- [Sable-Research/CVE-2026-118423-WP-Libre-Form](https://github.com/Sable-Research/CVE-2026-118423-WP-Libre-Form)	<img alt="forks" src="https://img.shields.io/github/forks/Sable-Research/CVE-2026-118423-WP-Libre-Form">	<img alt="stars" src="https://img.shields.io/github/stars/Sable-Research/CVE-2026-118423-WP-Libre-Form">
 
 ---
 ## CVE-2026-11837 ()
@@ -16578,6 +16612,11 @@
 - [Sable-Research/CVE-2026-101767-research](https://github.com/Sable-Research/CVE-2026-101767-research)	<img alt="forks" src="https://img.shields.io/github/forks/Sable-Research/CVE-2026-101767-research">	<img alt="stars" src="https://img.shields.io/github/stars/Sable-Research/CVE-2026-101767-research">
 - [aduli198/CVE-2026-101767](https://github.com/aduli198/CVE-2026-101767)	<img alt="forks" src="https://img.shields.io/github/forks/aduli198/CVE-2026-101767">	<img alt="stars" src="https://img.shields.io/github/stars/aduli198/CVE-2026-101767">
 - [shivrajem/ebs-cve-2026-101767-check](https://github.com/shivrajem/ebs-cve-2026-101767-check)	<img alt="forks" src="https://img.shields.io/github/forks/shivrajem/ebs-cve-2026-101767-check">	<img alt="stars" src="https://img.shields.io/github/stars/shivrajem/ebs-cve-2026-101767-check">
+
+---
+## CVE-2026-101678 ()
+> 
+- [ryanmurf/mysql-connector-j-cve-2026-101678-repro](https://github.com/ryanmurf/mysql-connector-j-cve-2026-101678-repro)	<img alt="forks" src="https://img.shields.io/github/forks/ryanmurf/mysql-connector-j-cve-2026-101678-repro">	<img alt="stars" src="https://img.shields.io/github/stars/ryanmurf/mysql-connector-j-cve-2026-101678-repro">
 
 ---
 ## CVE-2026-10134 ()

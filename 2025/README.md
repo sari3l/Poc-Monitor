@@ -8052,6 +8052,7 @@
 - [X-Bulow/Reproduce-CVE-2025-32433](https://github.com/X-Bulow/Reproduce-CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/X-Bulow/Reproduce-CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/X-Bulow/Reproduce-CVE-2025-32433">
 - [Avinash37402/CVE-2025-32433-Erlang-OTP-SSH](https://github.com/Avinash37402/CVE-2025-32433-Erlang-OTP-SSH)	<img alt="forks" src="https://img.shields.io/github/forks/Avinash37402/CVE-2025-32433-Erlang-OTP-SSH">	<img alt="stars" src="https://img.shields.io/github/stars/Avinash37402/CVE-2025-32433-Erlang-OTP-SSH">
 - [Avinash37402/CVE-2025-32433](https://github.com/Avinash37402/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/Avinash37402/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/Avinash37402/CVE-2025-32433">
+- [Ghost-Bx1/cve-2025-32433-erlang-ssh-preauth-rce](https://github.com/Ghost-Bx1/cve-2025-32433-erlang-ssh-preauth-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/cve-2025-32433-erlang-ssh-preauth-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/cve-2025-32433-erlang-ssh-preauth-rce">
 
 ---
 ## CVE-2025-32432 ()
