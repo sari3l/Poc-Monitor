@@ -14009,6 +14009,11 @@
 - [cppghoul/CVE-2026-123025](https://github.com/cppghoul/CVE-2026-123025)	<img alt="forks" src="https://img.shields.io/github/forks/cppghoul/CVE-2026-123025">	<img alt="stars" src="https://img.shields.io/github/stars/cppghoul/CVE-2026-123025">
 
 ---
+## CVE-2026-123014 ()
+> 
+- [giki-shergill/CVE-2026-123014---iTerm2-Terminal](https://github.com/giki-shergill/CVE-2026-123014---iTerm2-Terminal)	<img alt="forks" src="https://img.shields.io/github/forks/giki-shergill/CVE-2026-123014---iTerm2-Terminal">	<img alt="stars" src="https://img.shields.io/github/stars/giki-shergill/CVE-2026-123014---iTerm2-Terminal">
+
+---
 ## CVE-2026-12295 ()
 > 
 - [SneakyNachos/CVE-2026-12295-UXXS-in-my-wasm](https://github.com/SneakyNachos/CVE-2026-12295-UXXS-in-my-wasm)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-12295-UXXS-in-my-wasm">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-12295-UXXS-in-my-wasm">
