@@ -150,6 +150,7 @@
 - [carlosbustillordguez/cve-2026-98432-mitigation](https://github.com/carlosbustillordguez/cve-2026-98432-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/carlosbustillordguez/cve-2026-98432-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/carlosbustillordguez/cve-2026-98432-mitigation">
 - [mafudge/cve-2026-98432](https://github.com/mafudge/cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/mafudge/cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/mafudge/cve-2026-98432">
 - [s97472091-pixel/verification-gap-cve-2026-98432](https://github.com/s97472091-pixel/verification-gap-cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/s97472091-pixel/verification-gap-cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/s97472091-pixel/verification-gap-cve-2026-98432">
+- [makslanies/cve-2026-98432-mitigation](https://github.com/makslanies/cve-2026-98432-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/makslanies/cve-2026-98432-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/makslanies/cve-2026-98432-mitigation">
 
 ---
 ## CVE-2026-98385 ()
@@ -1727,8 +1728,9 @@
 > 
 - [LilPoule/CVE-2026-83844](https://github.com/LilPoule/CVE-2026-83844)	<img alt="forks" src="https://img.shields.io/github/forks/LilPoule/CVE-2026-83844">	<img alt="stars" src="https://img.shields.io/github/stars/LilPoule/CVE-2026-83844">
 - [mokshshah18/CVE-2026-83844-PoC-MS-paint-v-11.2609.401.0](https://github.com/mokshshah18/CVE-2026-83844-PoC-MS-paint-v-11.2609.401.0)	<img alt="forks" src="https://img.shields.io/github/forks/mokshshah18/CVE-2026-83844-PoC-MS-paint-v-11.2609.401.0">	<img alt="stars" src="https://img.shields.io/github/stars/mokshshah18/CVE-2026-83844-PoC-MS-paint-v-11.2609.401.0">
-- [0xBlackash/CVE-2026-83844](https://github.com/0xBlackash/CVE-2026-83844)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-83844">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-83844">
+- [ashrafzaryouh/CVE-2026-83844](https://github.com/ashrafzaryouh/CVE-2026-83844)	<img alt="forks" src="https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-83844">	<img alt="stars" src="https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-83844">
 - [Cobrastrike62/CVE-2026-83844-Detection](https://github.com/Cobrastrike62/CVE-2026-83844-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Cobrastrike62/CVE-2026-83844-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Cobrastrike62/CVE-2026-83844-Detection">
+- [LACHHAB-Anas/CVE-2026-83844](https://github.com/LACHHAB-Anas/CVE-2026-83844)	<img alt="forks" src="https://img.shields.io/github/forks/LACHHAB-Anas/CVE-2026-83844">	<img alt="stars" src="https://img.shields.io/github/stars/LACHHAB-Anas/CVE-2026-83844">
 
 ---
 ## CVE-2026-83834 ()
@@ -12564,6 +12566,11 @@
 - [kaleth4/CVE-2026-21250](https://github.com/kaleth4/CVE-2026-21250)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-21250">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-21250">
 
 ---
+## CVE-2026-21155 ()
+> 
+- [UnsignedChad/CVE-2026-21155-SVE-2026-3546](https://github.com/UnsignedChad/CVE-2026-21155-SVE-2026-3546)	<img alt="forks" src="https://img.shields.io/github/forks/UnsignedChad/CVE-2026-21155-SVE-2026-3546">	<img alt="stars" src="https://img.shields.io/github/stars/UnsignedChad/CVE-2026-21155-SVE-2026-3546">
+
+---
 ## CVE-2026-2113 ()
 > 
 - [MaxMnMl/tpadmin-CVE-2026-2113-poc](https://github.com/MaxMnMl/tpadmin-CVE-2026-2113-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/tpadmin-CVE-2026-2113-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/tpadmin-CVE-2026-2113-poc">
@@ -14195,6 +14202,9 @@
 - [Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4](https://github.com/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4)	<img alt="forks" src="https://img.shields.io/github/forks/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4">	<img alt="stars" src="https://img.shields.io/github/stars/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4">
 - [foxcornlab/wordpress-core-scanner](https://github.com/foxcornlab/wordpress-core-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/foxcornlab/wordpress-core-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/foxcornlab/wordpress-core-scanner">
 - [tc4dy/CVE-2026-119977-Toolkit](https://github.com/tc4dy/CVE-2026-119977-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-119977-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-119977-Toolkit">
+- [paulmann/Bash_WP-CLI_Update](https://github.com/paulmann/Bash_WP-CLI_Update)	<img alt="forks" src="https://img.shields.io/github/forks/paulmann/Bash_WP-CLI_Update">	<img alt="stars" src="https://img.shields.io/github/stars/paulmann/Bash_WP-CLI_Update">
+- [hacermuden/CVE-2026-119977](https://github.com/hacermuden/CVE-2026-119977)	<img alt="forks" src="https://img.shields.io/github/forks/hacermuden/CVE-2026-119977">	<img alt="stars" src="https://img.shields.io/github/stars/hacermuden/CVE-2026-119977">
+- [riabinov/CVE-2026-119977](https://github.com/riabinov/CVE-2026-119977)	<img alt="forks" src="https://img.shields.io/github/forks/riabinov/CVE-2026-119977">	<img alt="stars" src="https://img.shields.io/github/stars/riabinov/CVE-2026-119977">
 
 ---
 ## CVE-2026-11991 ()

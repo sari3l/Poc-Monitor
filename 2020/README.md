@@ -5292,6 +5292,7 @@
 - [limon768/CVE-2020-11652-POC](https://github.com/limon768/CVE-2020-11652-POC)	<img alt="forks" src="https://img.shields.io/github/forks/limon768/CVE-2020-11652-POC">	<img alt="stars" src="https://img.shields.io/github/stars/limon768/CVE-2020-11652-POC">
 - [s1lentf00thold/CVE-2020-11651-Poc](https://github.com/s1lentf00thold/CVE-2020-11651-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/s1lentf00thold/CVE-2020-11651-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/s1lentf00thold/CVE-2020-11651-Poc">
 - [CyberCTF/vulhub-saltstack-cve-2020-11651](https://github.com/CyberCTF/vulhub-saltstack-cve-2020-11651)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-saltstack-cve-2020-11651">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-saltstack-cve-2020-11651">
+- [codenamepetrel/salt-cve-2020-11651-poc](https://github.com/codenamepetrel/salt-cve-2020-11651-poc)	<img alt="forks" src="https://img.shields.io/github/forks/codenamepetrel/salt-cve-2020-11651-poc">	<img alt="stars" src="https://img.shields.io/github/stars/codenamepetrel/salt-cve-2020-11651-poc">
 
 ---
 ## CVE-2020-11620 ()
