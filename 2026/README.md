@@ -225,6 +225,10 @@
 - [VinSon326/CVE-2026-98260-iQOO12](https://github.com/VinSon326/CVE-2026-98260-iQOO12)	<img alt="forks" src="https://img.shields.io/github/forks/VinSon326/CVE-2026-98260-iQOO12">	<img alt="stars" src="https://img.shields.io/github/stars/VinSon326/CVE-2026-98260-iQOO12">
 - [Dream-Rainy/CVE-2026-98260](https://github.com/Dream-Rainy/CVE-2026-98260)	<img alt="forks" src="https://img.shields.io/github/forks/Dream-Rainy/CVE-2026-98260">	<img alt="stars" src="https://img.shields.io/github/stars/Dream-Rainy/CVE-2026-98260">
 - [nemoiwkryang/CVE-2026-98260-pkt110-kernelsu](https://github.com/nemoiwkryang/CVE-2026-98260-pkt110-kernelsu)	<img alt="forks" src="https://img.shields.io/github/forks/nemoiwkryang/CVE-2026-98260-pkt110-kernelsu">	<img alt="stars" src="https://img.shields.io/github/stars/nemoiwkryang/CVE-2026-98260-pkt110-kernelsu">
+- [countryside99/GhostKey](https://github.com/countryside99/GhostKey)	<img alt="forks" src="https://img.shields.io/github/forks/countryside99/GhostKey">	<img alt="stars" src="https://img.shields.io/github/stars/countryside99/GhostKey">
+- [kzktor/ic-timer-lpe](https://github.com/kzktor/ic-timer-lpe)	<img alt="forks" src="https://img.shields.io/github/forks/kzktor/ic-timer-lpe">	<img alt="stars" src="https://img.shields.io/github/stars/kzktor/ic-timer-lpe">
+- [buihien224/VSOCB-OSS](https://github.com/buihien224/VSOCB-OSS)	<img alt="forks" src="https://img.shields.io/github/forks/buihien224/VSOCB-OSS">	<img alt="stars" src="https://img.shields.io/github/stars/buihien224/VSOCB-OSS">
+- [ANYAEGW/CVE-2026-98260-amg-an00](https://github.com/ANYAEGW/CVE-2026-98260-amg-an00)	<img alt="forks" src="https://img.shields.io/github/forks/ANYAEGW/CVE-2026-98260-amg-an00">	<img alt="stars" src="https://img.shields.io/github/stars/ANYAEGW/CVE-2026-98260-amg-an00">
 
 ---
 ## CVE-2026-98258 ()
@@ -3699,6 +3703,7 @@
 - [exumeOAO/plr110-6.12.38-cve-2026-64560-ksu](https://github.com/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu)	<img alt="forks" src="https://img.shields.io/github/forks/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu">	<img alt="stars" src="https://img.shields.io/github/stars/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu">
 - [wanwuzhishi/ksu-root](https://github.com/wanwuzhishi/ksu-root)	<img alt="forks" src="https://img.shields.io/github/forks/wanwuzhishi/ksu-root">	<img alt="stars" src="https://img.shields.io/github/stars/wanwuzhishi/ksu-root">
 - [No-World/rootkit](https://github.com/No-World/rootkit)	<img alt="forks" src="https://img.shields.io/github/forks/No-World/rootkit">	<img alt="stars" src="https://img.shields.io/github/stars/No-World/rootkit">
+- [000999888111/op13-cve-2026-64560](https://github.com/000999888111/op13-cve-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/000999888111/op13-cve-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/000999888111/op13-cve-2026-64560">
 
 ---
 ## CVE-2026-64531 ()
