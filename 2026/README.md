@@ -230,6 +230,7 @@
 - [kzktor/ic-timer-lpe](https://github.com/kzktor/ic-timer-lpe)	<img alt="forks" src="https://img.shields.io/github/forks/kzktor/ic-timer-lpe">	<img alt="stars" src="https://img.shields.io/github/stars/kzktor/ic-timer-lpe">
 - [buihien224/VSOCB-OSS](https://github.com/buihien224/VSOCB-OSS)	<img alt="forks" src="https://img.shields.io/github/forks/buihien224/VSOCB-OSS">	<img alt="stars" src="https://img.shields.io/github/stars/buihien224/VSOCB-OSS">
 - [ANYAEGW/CVE-2026-98260-amg-an00](https://github.com/ANYAEGW/CVE-2026-98260-amg-an00)	<img alt="forks" src="https://img.shields.io/github/forks/ANYAEGW/CVE-2026-98260-amg-an00">	<img alt="stars" src="https://img.shields.io/github/stars/ANYAEGW/CVE-2026-98260-amg-an00">
+- [NanoTurtle1145/root-my-s24](https://github.com/NanoTurtle1145/root-my-s24)	<img alt="forks" src="https://img.shields.io/github/forks/NanoTurtle1145/root-my-s24">	<img alt="stars" src="https://img.shields.io/github/stars/NanoTurtle1145/root-my-s24">
 
 ---
 ## CVE-2026-98258 ()
@@ -14051,6 +14052,11 @@
 - [mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-](https://github.com/mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-">
 
 ---
+## CVE-2026-123753 ()
+> 
+- [googlesky/CVE-2026-123753](https://github.com/googlesky/CVE-2026-123753)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-123753">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-123753">
+
+---
 ## CVE-2026-123488 ()
 > 
 - [fixedbyreboot/CVE-2026-123488-POC](https://github.com/fixedbyreboot/CVE-2026-123488-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-123488-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-123488-POC">
@@ -14090,6 +14096,7 @@
 - [techtaek77/sshole-guide](https://github.com/techtaek77/sshole-guide)	<img alt="forks" src="https://img.shields.io/github/forks/techtaek77/sshole-guide">	<img alt="stars" src="https://img.shields.io/github/stars/techtaek77/sshole-guide">
 - [akarkode/alpine-openssh-sshole-auth-bypass](https://github.com/akarkode/alpine-openssh-sshole-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/akarkode/alpine-openssh-sshole-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/akarkode/alpine-openssh-sshole-auth-bypass">
 - [Funcan/sshole](https://github.com/Funcan/sshole)	<img alt="forks" src="https://img.shields.io/github/forks/Funcan/sshole">	<img alt="stars" src="https://img.shields.io/github/stars/Funcan/sshole">
+- [Galaxy-sc/CVE-2026-123158](https://github.com/Galaxy-sc/CVE-2026-123158)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-sc/CVE-2026-123158">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-sc/CVE-2026-123158">
 
 ---
 ## CVE-2026-123025 ()
@@ -14158,6 +14165,11 @@
 ## CVE-2026-12166 ()
 > 
 - [FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168](https://github.com/FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168)	<img alt="forks" src="https://img.shields.io/github/forks/FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168">	<img alt="stars" src="https://img.shields.io/github/stars/FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168">
+
+---
+## CVE-2026-121265 ()
+> 
+- [googlesky/CVE-2026-121265](https://github.com/googlesky/CVE-2026-121265)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-121265">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-121265">
 
 ---
 ## CVE-2026-12118 ()
@@ -14643,6 +14655,7 @@
 ## CVE-2026-112611 ()
 > 
 - [Ping-2o/CVE-2026-112611-cg-shading](https://github.com/Ping-2o/CVE-2026-112611-cg-shading)	<img alt="forks" src="https://img.shields.io/github/forks/Ping-2o/CVE-2026-112611-cg-shading">	<img alt="stars" src="https://img.shields.io/github/stars/Ping-2o/CVE-2026-112611-cg-shading">
+- [Rust505/CVE-2026-112611](https://github.com/Rust505/CVE-2026-112611)	<img alt="forks" src="https://img.shields.io/github/forks/Rust505/CVE-2026-112611">	<img alt="stars" src="https://img.shields.io/github/stars/Rust505/CVE-2026-112611">
 
 ---
 ## CVE-2026-112487 ()
