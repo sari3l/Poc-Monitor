@@ -4943,6 +4943,7 @@
 > userfiles/modules/users/controller/controller.php in Microweber before 1.1.20 allows an unauthenticated user to disclose the users database via a /modules/ POST request.
 - [mrnazu/CVE-2020-13405](https://github.com/mrnazu/CVE-2020-13405)	<img alt="forks" src="https://img.shields.io/github/forks/mrnazu/CVE-2020-13405">	<img alt="stars" src="https://img.shields.io/github/stars/mrnazu/CVE-2020-13405">
 - [Moniruzzaman995/CVE-2020-13405](https://github.com/Moniruzzaman995/CVE-2020-13405)	<img alt="forks" src="https://img.shields.io/github/forks/Moniruzzaman995/CVE-2020-13405">	<img alt="stars" src="https://img.shields.io/github/stars/Moniruzzaman995/CVE-2020-13405">
+- [nobleordu/CVE-2020-13405-MicroWeber-PoC](https://github.com/nobleordu/CVE-2020-13405-MicroWeber-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/nobleordu/CVE-2020-13405-MicroWeber-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/nobleordu/CVE-2020-13405-MicroWeber-PoC">
 
 ---
 ## CVE-2020-13398 ()
