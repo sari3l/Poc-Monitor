@@ -681,6 +681,7 @@
 - [synacktiv/CVE-2020-9289](https://github.com/synacktiv/CVE-2020-9289)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2020-9289">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2020-9289">
 - [gquere/CVE-2019-6693](https://github.com/gquere/CVE-2019-6693)	<img alt="forks" src="https://img.shields.io/github/forks/gquere/CVE-2019-6693">	<img alt="stars" src="https://img.shields.io/github/stars/gquere/CVE-2019-6693">
 - [Real4XoR/CVE-2019-6693](https://github.com/Real4XoR/CVE-2019-6693)	<img alt="forks" src="https://img.shields.io/github/forks/Real4XoR/CVE-2019-6693">	<img alt="stars" src="https://img.shields.io/github/stars/Real4XoR/CVE-2019-6693">
+- [lureprey/fortidecrypter-CVE-2019-6693](https://github.com/lureprey/fortidecrypter-CVE-2019-6693)	<img alt="forks" src="https://img.shields.io/github/forks/lureprey/fortidecrypter-CVE-2019-6693">	<img alt="stars" src="https://img.shields.io/github/stars/lureprey/fortidecrypter-CVE-2019-6693">
 
 ---
 ## CVE-2019-6575 (2019-04-17T14:29:00)
