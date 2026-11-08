@@ -2864,6 +2864,11 @@
 - [mdunfjeld/cve-2025-59886](https://github.com/mdunfjeld/cve-2025-59886)	<img alt="forks" src="https://img.shields.io/github/forks/mdunfjeld/cve-2025-59886">	<img alt="stars" src="https://img.shields.io/github/stars/mdunfjeld/cve-2025-59886">
 
 ---
+## CVE-2025-59845 ()
+> 
+- [C3viche/cve-2025-59845](https://github.com/C3viche/cve-2025-59845)	<img alt="forks" src="https://img.shields.io/github/forks/C3viche/cve-2025-59845">	<img alt="stars" src="https://img.shields.io/github/stars/C3viche/cve-2025-59845">
+
+---
 ## CVE-2025-59843 ()
 > 
 - [At0mXploit/CVE-2025-59843-CVE-2025-59932](https://github.com/At0mXploit/CVE-2025-59843-CVE-2025-59932)	<img alt="forks" src="https://img.shields.io/github/forks/At0mXploit/CVE-2025-59843-CVE-2025-59932">	<img alt="stars" src="https://img.shields.io/github/stars/At0mXploit/CVE-2025-59843-CVE-2025-59932">

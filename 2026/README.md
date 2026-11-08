@@ -3005,6 +3005,11 @@
 - [xxconi/CVE-2026-6960](https://github.com/xxconi/CVE-2026-6960)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-6960">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-6960">
 
 ---
+## CVE-2026-6952 ()
+> 
+- [stevejiang0509/zyxel-cve-2026-6952-model-scope](https://github.com/stevejiang0509/zyxel-cve-2026-6952-model-scope)	<img alt="forks" src="https://img.shields.io/github/forks/stevejiang0509/zyxel-cve-2026-6952-model-scope">	<img alt="stars" src="https://img.shields.io/github/stars/stevejiang0509/zyxel-cve-2026-6952-model-scope">
+
+---
 ## CVE-2026-6951 ()
 > 
 - [EQSTLab/CVE-2026-6951](https://github.com/EQSTLab/CVE-2026-6951)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-6951">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-6951">
