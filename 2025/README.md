@@ -6076,6 +6076,11 @@
 - [zhuowei/blueshrimp](https://github.com/zhuowei/blueshrimp)	<img alt="forks" src="https://img.shields.io/github/forks/zhuowei/blueshrimp">	<img alt="stars" src="https://img.shields.io/github/stars/zhuowei/blueshrimp">
 
 ---
+## CVE-2025-48583 ()
+> 
+- [helloguy1234/CVE-2025-48583-PoC](https://github.com/helloguy1234/CVE-2025-48583-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/helloguy1234/CVE-2025-48583-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/helloguy1234/CVE-2025-48583-PoC">
+
+---
 ## CVE-2025-48561 ()
 > 
 - [Ife-cyb/CYB-401-Pixnapping-CVE-2025-48561](https://github.com/Ife-cyb/CYB-401-Pixnapping-CVE-2025-48561)	<img alt="forks" src="https://img.shields.io/github/forks/Ife-cyb/CYB-401-Pixnapping-CVE-2025-48561">	<img alt="stars" src="https://img.shields.io/github/stars/Ife-cyb/CYB-401-Pixnapping-CVE-2025-48561">
