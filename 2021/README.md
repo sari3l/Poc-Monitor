@@ -9168,12 +9168,13 @@
 - [won6c/CVE-2021-22205](https://github.com/won6c/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/won6c/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/won6c/CVE-2021-22205">
 - [osungjinwoo/CVE-2021-22205-gitlab](https://github.com/osungjinwoo/CVE-2021-22205-gitlab)	<img alt="forks" src="https://img.shields.io/github/forks/osungjinwoo/CVE-2021-22205-gitlab">	<img alt="stars" src="https://img.shields.io/github/stars/osungjinwoo/CVE-2021-22205-gitlab">
 - [NukingDragons/gitlab-cve-2021-22205](https://github.com/NukingDragons/gitlab-cve-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/NukingDragons/gitlab-cve-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/NukingDragons/gitlab-cve-2021-22205">
-- [0xn0ne/simple-scanner](https://github.com/0xn0ne/simple-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/0xn0ne/simple-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/0xn0ne/simple-scanner">
+- [daybreak-kits/simple-scanner](https://github.com/daybreak-kits/simple-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/daybreak-kits/simple-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/daybreak-kits/simple-scanner">
 - [cc3305/CVE-2021-22205](https://github.com/cc3305/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2021-22205">
 - [ccordeiro/CVE-2021-22205](https://github.com/ccordeiro/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/ccordeiro/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/ccordeiro/CVE-2021-22205">
 - [Jeromeyoung/CVE-2021-22210](https://github.com/Jeromeyoung/CVE-2021-22210)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/CVE-2021-22210">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/CVE-2021-22210">
 - [K3ysTr0K3R/CVE-2021-22205](https://github.com/K3ysTr0K3R/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-22205">
 - [CyberCTF/vulhub-gitlab-cve-2021-22205](https://github.com/CyberCTF/vulhub-gitlab-cve-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-gitlab-cve-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-gitlab-cve-2021-22205">
+- [d4ytox/CVE-2021-22205](https://github.com/d4ytox/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2021-22205">
 
 ---
 ## CVE-2021-22204 (2021-04-23T18:15:00)

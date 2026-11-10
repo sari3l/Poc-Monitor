@@ -2774,6 +2774,11 @@
 - [djackreuter/CVE-2025-60349](https://github.com/djackreuter/CVE-2025-60349)	<img alt="forks" src="https://img.shields.io/github/forks/djackreuter/CVE-2025-60349">	<img alt="stars" src="https://img.shields.io/github/stars/djackreuter/CVE-2025-60349">
 
 ---
+## CVE-2025-6020 ()
+> 
+- [knoxoxen/CVE-2025-6020-upstream-fix](https://github.com/knoxoxen/CVE-2025-6020-upstream-fix)	<img alt="forks" src="https://img.shields.io/github/forks/knoxoxen/CVE-2025-6020-upstream-fix">	<img alt="stars" src="https://img.shields.io/github/stars/knoxoxen/CVE-2025-6020-upstream-fix">
+
+---
 ## CVE-2025-6019 ()
 > 
 - [guinea-offensive-security/CVE-2025-6019](https://github.com/guinea-offensive-security/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/guinea-offensive-security/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/guinea-offensive-security/CVE-2025-6019">
