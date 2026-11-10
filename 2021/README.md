@@ -2737,6 +2737,10 @@
 - [LordX404/CVE_2021-41773](https://github.com/LordX404/CVE_2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/LordX404/CVE_2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/LordX404/CVE_2021-41773">
 - [Joapath/CVE-2021-41773](https://github.com/Joapath/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Joapath/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Joapath/CVE-2021-41773">
 - [R3leant/CVE-2021-41773](https://github.com/R3leant/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/R3leant/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/R3leant/CVE-2021-41773">
+- [sheema-ruzaik/CVE_2021-41773_ApachePathTraversal_RCE](https://github.com/sheema-ruzaik/CVE_2021-41773_ApachePathTraversal_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/sheema-ruzaik/CVE_2021-41773_ApachePathTraversal_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/sheema-ruzaik/CVE_2021-41773_ApachePathTraversal_RCE">
+- [TheoCerveraLede/practica-integradora-ciberseguridad](https://github.com/TheoCerveraLede/practica-integradora-ciberseguridad)	<img alt="forks" src="https://img.shields.io/github/forks/TheoCerveraLede/practica-integradora-ciberseguridad">	<img alt="stars" src="https://img.shields.io/github/stars/TheoCerveraLede/practica-integradora-ciberseguridad">
+- [foreverlanterns/secure-demo-api](https://github.com/foreverlanterns/secure-demo-api)	<img alt="forks" src="https://img.shields.io/github/forks/foreverlanterns/secure-demo-api">	<img alt="stars" src="https://img.shields.io/github/stars/foreverlanterns/secure-demo-api">
+- [twq0316/work1-secure-rest-api](https://github.com/twq0316/work1-secure-rest-api)	<img alt="forks" src="https://img.shields.io/github/forks/twq0316/work1-secure-rest-api">	<img alt="stars" src="https://img.shields.io/github/stars/twq0316/work1-secure-rest-api">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)

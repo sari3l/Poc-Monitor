@@ -6582,6 +6582,11 @@
 - [x6vrn/CVE-2025-4611-PoC](https://github.com/x6vrn/CVE-2025-4611-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/x6vrn/CVE-2025-4611-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/x6vrn/CVE-2025-4611-PoC">
 
 ---
+## CVE-2025-4609 ()
+> 
+- [nek-3231/cve-2025-4609-mojo-poc](https://github.com/nek-3231/cve-2025-4609-mojo-poc)	<img alt="forks" src="https://img.shields.io/github/forks/nek-3231/cve-2025-4609-mojo-poc">	<img alt="stars" src="https://img.shields.io/github/stars/nek-3231/cve-2025-4609-mojo-poc">
+
+---
 ## CVE-2025-46080 ()
 > 
 - [yggcwhat/CVE-2025-46080](https://github.com/yggcwhat/CVE-2025-46080)	<img alt="forks" src="https://img.shields.io/github/forks/yggcwhat/CVE-2025-46080">	<img alt="stars" src="https://img.shields.io/github/stars/yggcwhat/CVE-2025-46080">
