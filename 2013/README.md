@@ -243,6 +243,11 @@
 - [Live-Hack-CVE/CVE-2013-1511](https://github.com/Live-Hack-CVE/CVE-2013-1511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-1511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-1511">
 
 ---
+## CVE-2013-1453 ()
+> 
+- [stupazz/joomla-cve-2013-1453](https://github.com/stupazz/joomla-cve-2013-1453)	<img alt="forks" src="https://img.shields.io/github/forks/stupazz/joomla-cve-2013-1453">	<img alt="stars" src="https://img.shields.io/github/stars/stupazz/joomla-cve-2013-1453">
+
+---
 ## CVE-2013-10012 (2023-01-16T11:15:00)
 > A vulnerability, which was classified as critical, was found in antonbolling clan7ups. Affected is an unknown function of the component Login/Session. The manipulation leads to sql injection. The name of the patch is 25afad571c488291033958d845830ba0a1710764. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-218388.
 - [Live-Hack-CVE/CVE-2013-10012](https://github.com/Live-Hack-CVE/CVE-2013-10012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-10012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-10012">

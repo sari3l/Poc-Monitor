@@ -8096,6 +8096,7 @@
 - [e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-32432](https://github.com/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-32432">
 - [P34NUT2/CVE-2025-32432-exploit-by-P34NUT](https://github.com/P34NUT2/CVE-2025-32432-exploit-by-P34NUT)	<img alt="forks" src="https://img.shields.io/github/forks/P34NUT2/CVE-2025-32432-exploit-by-P34NUT">	<img alt="stars" src="https://img.shields.io/github/stars/P34NUT2/CVE-2025-32432-exploit-by-P34NUT">
 - [l0lsuit/CVE-2025-32432-craftcms-rce](https://github.com/l0lsuit/CVE-2025-32432-craftcms-rce)	<img alt="forks" src="https://img.shields.io/github/forks/l0lsuit/CVE-2025-32432-craftcms-rce">	<img alt="stars" src="https://img.shields.io/github/stars/l0lsuit/CVE-2025-32432-craftcms-rce">
+- [godylockz/CVE-2025-32432](https://github.com/godylockz/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/godylockz/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/godylockz/CVE-2025-32432">
 
 ---
 ## CVE-2025-3243 ()
