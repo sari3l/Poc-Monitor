@@ -19100,6 +19100,7 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 - [agnihackers/CVE-2022-36537-EXPLOIT](https://github.com/agnihackers/CVE-2022-36537-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/agnihackers/CVE-2022-36537-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/agnihackers/CVE-2022-36537-EXPLOIT">
 - [Fopje/CVE-2022-36539](https://github.com/Fopje/CVE-2022-36539)	<img alt="forks" src="https://img.shields.io/github/forks/Fopje/CVE-2022-36539">	<img alt="stars" src="https://img.shields.io/github/stars/Fopje/CVE-2022-36539">
 - [lutrasecurity/CVE-2022-36532](https://github.com/lutrasecurity/CVE-2022-36532)	<img alt="forks" src="https://img.shields.io/github/forks/lutrasecurity/CVE-2022-36532">	<img alt="stars" src="https://img.shields.io/github/stars/lutrasecurity/CVE-2022-36532">
+- [SpiralBL0CK/VULKAN-RCE-cve-2022-3653](https://github.com/SpiralBL0CK/VULKAN-RCE-cve-2022-3653)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/VULKAN-RCE-cve-2022-3653">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/VULKAN-RCE-cve-2022-3653">
 
 ---
 ## CVE-2022-36529 (2022-08-26T19:15:00)
