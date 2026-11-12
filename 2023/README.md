@@ -1880,6 +1880,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 ## CVE-2023-46229 ()
 > 
 - [JarvisDing-sdu/Yasa-CVE-2023-46229](https://github.com/JarvisDing-sdu/Yasa-CVE-2023-46229)	<img alt="forks" src="https://img.shields.io/github/forks/JarvisDing-sdu/Yasa-CVE-2023-46229">	<img alt="stars" src="https://img.shields.io/github/stars/JarvisDing-sdu/Yasa-CVE-2023-46229">
+- [dexteon/langchain-sitemap-ssrf-cve-2023-46229](https://github.com/dexteon/langchain-sitemap-ssrf-cve-2023-46229)	<img alt="forks" src="https://img.shields.io/github/forks/dexteon/langchain-sitemap-ssrf-cve-2023-46229">	<img alt="stars" src="https://img.shields.io/github/stars/dexteon/langchain-sitemap-ssrf-cve-2023-46229">
 
 ---
 ## CVE-2023-4622 (2023-09-06T14:15:00)
