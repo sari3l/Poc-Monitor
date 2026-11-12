@@ -6594,6 +6594,9 @@
 ## CVE-2025-4609 ()
 > 
 - [nek-3231/cve-2025-4609-mojo-poc](https://github.com/nek-3231/cve-2025-4609-mojo-poc)	<img alt="forks" src="https://img.shields.io/github/forks/nek-3231/cve-2025-4609-mojo-poc">	<img alt="stars" src="https://img.shields.io/github/stars/nek-3231/cve-2025-4609-mojo-poc">
+- [vobando007/cve-2025-4609-mojo-poc](https://github.com/vobando007/cve-2025-4609-mojo-poc)	<img alt="forks" src="https://img.shields.io/github/forks/vobando007/cve-2025-4609-mojo-poc">	<img alt="stars" src="https://img.shields.io/github/stars/vobando007/cve-2025-4609-mojo-poc">
+- [vobando0077/cve-2025-4609-mojo-poc](https://github.com/vobando0077/cve-2025-4609-mojo-poc)	<img alt="forks" src="https://img.shields.io/github/forks/vobando0077/cve-2025-4609-mojo-poc">	<img alt="stars" src="https://img.shields.io/github/stars/vobando0077/cve-2025-4609-mojo-poc">
+- [santiagovillalobos6900-commits/cve-2025-4609-mojo-poc](https://github.com/santiagovillalobos6900-commits/cve-2025-4609-mojo-poc)	<img alt="forks" src="https://img.shields.io/github/forks/santiagovillalobos6900-commits/cve-2025-4609-mojo-poc">	<img alt="stars" src="https://img.shields.io/github/stars/santiagovillalobos6900-commits/cve-2025-4609-mojo-poc">
 
 ---
 ## CVE-2025-46080 ()
