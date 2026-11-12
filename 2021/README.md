@@ -7488,6 +7488,11 @@
 - [Live-Hack-CVE/CVE-2021-28566](https://github.com/Live-Hack-CVE/CVE-2021-28566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28566">
 
 ---
+## CVE-2021-28550 ()
+> 
+- [dexteon/cve-2021-28550-poc](https://github.com/dexteon/cve-2021-28550-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexteon/cve-2021-28550-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexteon/cve-2021-28550-poc">
+
+---
 ## CVE-2021-28500 (2022-01-14T20:15:00)
 > An issue has recently been discovered in Arista EOS where the incorrect use of EOS's AAA API’s by the OpenConfig and TerminAttr agents could result in unrestricted access to the device for local users with nopassword configuration.
 - [Live-Hack-CVE/CVE-2021-28500](https://github.com/Live-Hack-CVE/CVE-2021-28500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28500">
@@ -9923,6 +9928,11 @@
 ## CVE-2021-21022 (2021-02-11T20:15:00)
 > Magento versions 2.4.1 (and earlier), 2.4.0-p1 (and earlier) and 2.3.6 (and earlier) are vulnerable to an insecure direct object reference (IDOR) in the product module. Successful exploitation could lead to unauthorized access to restricted resources.
 - [Live-Hack-CVE/CVE-2021-21022](https://github.com/Live-Hack-CVE/CVE-2021-21022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21022">
+
+---
+## CVE-2021-21017 ()
+> 
+- [dexteon/cve-2021-21017-poc](https://github.com/dexteon/cve-2021-21017-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexteon/cve-2021-21017-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexteon/cve-2021-21017-poc">
 
 ---
 ## CVE-2021-21012 (2021-01-13T23:15:00)

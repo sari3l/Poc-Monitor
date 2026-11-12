@@ -9143,6 +9143,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [ydkdk12345-bot/CVE-2024-23897-CTF](https://github.com/ydkdk12345-bot/CVE-2024-23897-CTF)	<img alt="forks" src="https://img.shields.io/github/forks/ydkdk12345-bot/CVE-2024-23897-CTF">	<img alt="stars" src="https://img.shields.io/github/stars/ydkdk12345-bot/CVE-2024-23897-CTF">
 - [foreverlanterns/secure-api-cve-2024-23897](https://github.com/foreverlanterns/secure-api-cve-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/foreverlanterns/secure-api-cve-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/foreverlanterns/secure-api-cve-2024-23897">
 - [itnsapurbalingga/POC-CVE-2024-23897](https://github.com/itnsapurbalingga/POC-CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/itnsapurbalingga/POC-CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/itnsapurbalingga/POC-CVE-2024-23897">
+- [d4ytox/CVE-2024-23897](https://github.com/d4ytox/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2024-23897">
 
 ---
 ## CVE-2024-2389 (2024-04-02T13:15:00)

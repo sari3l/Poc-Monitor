@@ -6958,6 +6958,11 @@ and the severity is therefore considered low.
 - [WhatsWrongAndWhy/CVE-2023-2640-CVE-2023-32629](https://github.com/WhatsWrongAndWhy/CVE-2023-2640-CVE-2023-32629)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2023-2640-CVE-2023-32629">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2023-2640-CVE-2023-32629">
 
 ---
+## CVE-2023-26369 ()
+> 
+- [dexteon/cve-2023-26369-poc](https://github.com/dexteon/cve-2023-26369-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexteon/cve-2023-26369-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexteon/cve-2023-26369-poc">
+
+---
 ## CVE-2023-26360 (2023-03-23T20:15:00)
 > Adobe ColdFusion versions 2018 Update 15 (and earlier) and 2021 Update 5 (and earlier) are affected by an Improper Access Control vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue does not require user interaction.
 - [yosef0x01/CVE-2023-26360](https://github.com/yosef0x01/CVE-2023-26360)	<img alt="forks" src="https://img.shields.io/github/forks/yosef0x01/CVE-2023-26360">	<img alt="stars" src="https://img.shields.io/github/stars/yosef0x01/CVE-2023-26360">
@@ -8221,6 +8226,7 @@ kernel memory, lateral privilege escalation, and container escape.
 - [PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT](https://github.com/PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT">
 - [Malwareman007/CVE-2023-21608](https://github.com/Malwareman007/CVE-2023-21608)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-21608">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-21608">
 - [bigozzzz/popular-cves-scanner](https://github.com/bigozzzz/popular-cves-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/bigozzzz/popular-cves-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/bigozzzz/popular-cves-scanner">
+- [dexteon/cve-2023-21608-poc](https://github.com/dexteon/cve-2023-21608-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexteon/cve-2023-21608-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexteon/cve-2023-21608-poc">
 
 ---
 ## CVE-2023-21554 (2023-04-11T21:15:00)
