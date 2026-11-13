@@ -3786,6 +3786,7 @@
 - [cyberguardsec101-sketch/ghostcat](https://github.com/cyberguardsec101-sketch/ghostcat)	<img alt="forks" src="https://img.shields.io/github/forks/cyberguardsec101-sketch/ghostcat">	<img alt="stars" src="https://img.shields.io/github/stars/cyberguardsec101-sketch/ghostcat">
 - [si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3](https://github.com/si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3)	<img alt="forks" src="https://img.shields.io/github/forks/si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3">	<img alt="stars" src="https://img.shields.io/github/stars/si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3">
 - [aidilzlkfli/Scanning](https://github.com/aidilzlkfli/Scanning)	<img alt="forks" src="https://img.shields.io/github/forks/aidilzlkfli/Scanning">	<img alt="stars" src="https://img.shields.io/github/stars/aidilzlkfli/Scanning">
+- [Mohammad-Anon/CVE-2020-1938](https://github.com/Mohammad-Anon/CVE-2020-1938)	<img alt="forks" src="https://img.shields.io/github/forks/Mohammad-Anon/CVE-2020-1938">	<img alt="stars" src="https://img.shields.io/github/stars/Mohammad-Anon/CVE-2020-1938">
 
 ---
 ## CVE-2020-19360 (2021-01-20T01:15:00)
