@@ -254,6 +254,12 @@
 - [cuteaplane/opd2051example](https://github.com/cuteaplane/opd2051example)	<img alt="forks" src="https://img.shields.io/github/forks/cuteaplane/opd2051example">	<img alt="stars" src="https://img.shields.io/github/stars/cuteaplane/opd2051example">
 - [MocLG/Time-My-Galaxy](https://github.com/MocLG/Time-My-Galaxy)	<img alt="forks" src="https://img.shields.io/github/forks/MocLG/Time-My-Galaxy">	<img alt="stars" src="https://img.shields.io/github/stars/MocLG/Time-My-Galaxy">
 - [skyrocketingHong/CVE-2026-98260_nezha](https://github.com/skyrocketingHong/CVE-2026-98260_nezha)	<img alt="forks" src="https://img.shields.io/github/forks/skyrocketingHong/CVE-2026-98260_nezha">	<img alt="stars" src="https://img.shields.io/github/stars/skyrocketingHong/CVE-2026-98260_nezha">
+- [Reallyliked21/galaxy-s24u-dzj3-temp-root](https://github.com/Reallyliked21/galaxy-s24u-dzj3-temp-root)	<img alt="forks" src="https://img.shields.io/github/forks/Reallyliked21/galaxy-s24u-dzj3-temp-root">	<img alt="stars" src="https://img.shields.io/github/stars/Reallyliked21/galaxy-s24u-dzj3-temp-root">
+- [jonrazta89/SamGhostKey](https://github.com/jonrazta89/SamGhostKey)	<img alt="forks" src="https://img.shields.io/github/forks/jonrazta89/SamGhostKey">	<img alt="stars" src="https://img.shields.io/github/stars/jonrazta89/SamGhostKey">
+- [qq2770355800/ExtractKit](https://github.com/qq2770355800/ExtractKit)	<img alt="forks" src="https://img.shields.io/github/forks/qq2770355800/ExtractKit">	<img alt="stars" src="https://img.shields.io/github/stars/qq2770355800/ExtractKit">
+- [jonrazta89/timertest](https://github.com/jonrazta89/timertest)	<img alt="forks" src="https://img.shields.io/github/forks/jonrazta89/timertest">	<img alt="stars" src="https://img.shields.io/github/stars/jonrazta89/timertest">
+- [orumanayurpanjayat-ux/SamTimer](https://github.com/orumanayurpanjayat-ux/SamTimer)	<img alt="forks" src="https://img.shields.io/github/forks/orumanayurpanjayat-ux/SamTimer">	<img alt="stars" src="https://img.shields.io/github/stars/orumanayurpanjayat-ux/SamTimer">
+- [AwesomeHyper/HyperBreak](https://github.com/AwesomeHyper/HyperBreak)	<img alt="forks" src="https://img.shields.io/github/forks/AwesomeHyper/HyperBreak">	<img alt="stars" src="https://img.shields.io/github/stars/AwesomeHyper/HyperBreak">
 
 ---
 ## CVE-2026-98258 ()
@@ -3810,6 +3816,7 @@
 ## CVE-2026-6460 ()
 > 
 - [slabbdev/postgresql-type-confusion-cve-2026-6460](https://github.com/slabbdev/postgresql-type-confusion-cve-2026-6460)	<img alt="forks" src="https://img.shields.io/github/forks/slabbdev/postgresql-type-confusion-cve-2026-6460">	<img alt="stars" src="https://img.shields.io/github/stars/slabbdev/postgresql-type-confusion-cve-2026-6460">
+- [chor4o/CVE-2026-6460-POC](https://github.com/chor4o/CVE-2026-6460-POC)	<img alt="forks" src="https://img.shields.io/github/forks/chor4o/CVE-2026-6460-POC">	<img alt="stars" src="https://img.shields.io/github/stars/chor4o/CVE-2026-6460-POC">
 
 ---
 ## CVE-2026-64564 ()
@@ -5184,6 +5191,7 @@
 - [ChrisSEC2014/amasty-chekout-POC-rce](https://github.com/ChrisSEC2014/amasty-chekout-POC-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisSEC2014/amasty-chekout-POC-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisSEC2014/amasty-chekout-POC-rce">
 - [MRdark-ops/CVE-2026-53787-poc](https://github.com/MRdark-ops/CVE-2026-53787-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MRdark-ops/CVE-2026-53787-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MRdark-ops/CVE-2026-53787-poc">
 - [elitexspam/Def4cer](https://github.com/elitexspam/Def4cer)	<img alt="forks" src="https://img.shields.io/github/forks/elitexspam/Def4cer">	<img alt="stars" src="https://img.shields.io/github/stars/elitexspam/Def4cer">
+- [karthi-the-hacker/CVE-2026-53787](https://github.com/karthi-the-hacker/CVE-2026-53787)	<img alt="forks" src="https://img.shields.io/github/forks/karthi-the-hacker/CVE-2026-53787">	<img alt="stars" src="https://img.shields.io/github/stars/karthi-the-hacker/CVE-2026-53787">
 
 ---
 ## CVE-2026-53753 ()
@@ -14209,6 +14217,11 @@
 ## CVE-2026-12940 ()
 > 
 - [BiiTts/CVE-2026-12940-Langflow-Unauth-RCE](https://github.com/BiiTts/CVE-2026-12940-Langflow-Unauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-12940-Langflow-Unauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-12940-Langflow-Unauth-RCE">
+
+---
+## CVE-2026-129110 ()
+> 
+- [psylinux/CVE-2026-129110-sysPass](https://github.com/psylinux/CVE-2026-129110-sysPass)	<img alt="forks" src="https://img.shields.io/github/forks/psylinux/CVE-2026-129110-sysPass">	<img alt="stars" src="https://img.shields.io/github/stars/psylinux/CVE-2026-129110-sysPass">
 
 ---
 ## CVE-2026-1281 ()
