@@ -3120,6 +3120,9 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [deancooreman/CVE-2024-47176](https://github.com/deancooreman/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/deancooreman/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/deancooreman/CVE-2024-47176">
 - [jimi2x/dirtycups](https://github.com/jimi2x/dirtycups)	<img alt="forks" src="https://img.shields.io/github/forks/jimi2x/dirtycups">	<img alt="stars" src="https://img.shields.io/github/stars/jimi2x/dirtycups">
 - [Rhyru9/CUPS-CVE-2024-47176](https://github.com/Rhyru9/CUPS-CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/Rhyru9/CUPS-CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/Rhyru9/CUPS-CVE-2024-47176">
+- [Kokila-Chandramohan/cups-cve-2024-47176](https://github.com/Kokila-Chandramohan/cups-cve-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/Kokila-Chandramohan/cups-cve-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/Kokila-Chandramohan/cups-cve-2024-47176">
+- [Md-Nafiul-Hamim/cups-browse-exploit-detection](https://github.com/Md-Nafiul-Hamim/cups-browse-exploit-detection)	<img alt="forks" src="https://img.shields.io/github/forks/Md-Nafiul-Hamim/cups-browse-exploit-detection">	<img alt="stars" src="https://img.shields.io/github/stars/Md-Nafiul-Hamim/cups-browse-exploit-detection">
+- [Stickxx00/Cups-RCE-Exploit](https://github.com/Stickxx00/Cups-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Stickxx00/Cups-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Stickxx00/Cups-RCE-Exploit">
 
 ---
 ## CVE-2024-47167 ()
@@ -3935,6 +3938,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [minhi1/CVE-2024-4367](https://github.com/minhi1/CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/minhi1/CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/minhi1/CVE-2024-4367">
 - [weae26/aia-pdfjs-poc](https://github.com/weae26/aia-pdfjs-poc)	<img alt="forks" src="https://img.shields.io/github/forks/weae26/aia-pdfjs-poc">	<img alt="stars" src="https://img.shields.io/github/stars/weae26/aia-pdfjs-poc">
 - [remiBoudreau/CVE-2024-4367](https://github.com/remiBoudreau/CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/remiBoudreau/CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/remiBoudreau/CVE-2024-4367">
+- [SeVen-777777/cve-2024-4367-poc](https://github.com/SeVen-777777/cve-2024-4367-poc)	<img alt="forks" src="https://img.shields.io/github/forks/SeVen-777777/cve-2024-4367-poc">	<img alt="stars" src="https://img.shields.io/github/stars/SeVen-777777/cve-2024-4367-poc">
 
 ---
 ## CVE-2024-43639 ()
