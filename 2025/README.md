@@ -10173,6 +10173,7 @@
 > 
 - [harley-ghostie/safe-check-CVE-2025-23419](https://github.com/harley-ghostie/safe-check-CVE-2025-23419)	<img alt="forks" src="https://img.shields.io/github/forks/harley-ghostie/safe-check-CVE-2025-23419">	<img alt="stars" src="https://img.shields.io/github/stars/harley-ghostie/safe-check-CVE-2025-23419">
 - [xitexploiter96-dot/CVE-2025-23419](https://github.com/xitexploiter96-dot/CVE-2025-23419)	<img alt="forks" src="https://img.shields.io/github/forks/xitexploiter96-dot/CVE-2025-23419">	<img alt="stars" src="https://img.shields.io/github/stars/xitexploiter96-dot/CVE-2025-23419">
+- [przemyslawbryzek/CVE-2025-23419](https://github.com/przemyslawbryzek/CVE-2025-23419)	<img alt="forks" src="https://img.shields.io/github/forks/przemyslawbryzek/CVE-2025-23419">	<img alt="stars" src="https://img.shields.io/github/stars/przemyslawbryzek/CVE-2025-23419">
 
 ---
 ## CVE-2025-23369 ()
