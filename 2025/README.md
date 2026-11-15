@@ -10502,6 +10502,7 @@
 - [longg66/cve-2025-21479_iqooneo7speed](https://github.com/longg66/cve-2025-21479_iqooneo7speed)	<img alt="forks" src="https://img.shields.io/github/forks/longg66/cve-2025-21479_iqooneo7speed">	<img alt="stars" src="https://img.shields.io/github/stars/longg66/cve-2025-21479_iqooneo7speed">
 - [Shiho-Patch/linux-tools-vivo_iqoo_neo_9_root_research_on_CVE-2025-21479](https://github.com/Shiho-Patch/linux-tools-vivo_iqoo_neo_9_root_research_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/Shiho-Patch/linux-tools-vivo_iqoo_neo_9_root_research_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/Shiho-Patch/linux-tools-vivo_iqoo_neo_9_root_research_on_CVE-2025-21479">
 - [linux-tools/VIVO-IQOO-Neo9-Root-Tools](https://github.com/linux-tools/VIVO-IQOO-Neo9-Root-Tools)	<img alt="forks" src="https://img.shields.io/github/forks/linux-tools/VIVO-IQOO-Neo9-Root-Tools">	<img alt="stars" src="https://img.shields.io/github/stars/linux-tools/VIVO-IQOO-Neo9-Root-Tools">
+- [CatXiaoShi/CVE-2025-21479](https://github.com/CatXiaoShi/CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/CatXiaoShi/CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/CatXiaoShi/CVE-2025-21479">
 
 ---
 ## CVE-2025-21420 ()
