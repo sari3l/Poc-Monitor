@@ -10,6 +10,9 @@
 > 
 - [RhzVenom/CVE-2007-6750](https://github.com/RhzVenom/CVE-2007-6750)	<img alt="forks" src="https://img.shields.io/github/forks/RhzVenom/CVE-2007-6750">	<img alt="stars" src="https://img.shields.io/github/stars/RhzVenom/CVE-2007-6750">
 - [mr-zonev4/vuln-report-slowloris-CVE-2007-6750](https://github.com/mr-zonev4/vuln-report-slowloris-CVE-2007-6750)	<img alt="forks" src="https://img.shields.io/github/forks/mr-zonev4/vuln-report-slowloris-CVE-2007-6750">	<img alt="stars" src="https://img.shields.io/github/stars/mr-zonev4/vuln-report-slowloris-CVE-2007-6750">
+- [michou79/noc21220-cybersecurity-assessment](https://github.com/michou79/noc21220-cybersecurity-assessment)	<img alt="forks" src="https://img.shields.io/github/forks/michou79/noc21220-cybersecurity-assessment">	<img alt="stars" src="https://img.shields.io/github/stars/michou79/noc21220-cybersecurity-assessment">
+- [RoflSecurity/nodeloris](https://github.com/RoflSecurity/nodeloris)	<img alt="forks" src="https://img.shields.io/github/forks/RoflSecurity/nodeloris">	<img alt="stars" src="https://img.shields.io/github/stars/RoflSecurity/nodeloris">
+- [sarjanpatel22/siem-threat-detection-lab](https://github.com/sarjanpatel22/siem-threat-detection-lab)	<img alt="forks" src="https://img.shields.io/github/forks/sarjanpatel22/siem-threat-detection-lab">	<img alt="stars" src="https://img.shields.io/github/stars/sarjanpatel22/siem-threat-detection-lab">
 
 ---
 ## CVE-2007-5962 (2008-05-22T13:09:00)
