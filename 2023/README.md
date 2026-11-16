@@ -7994,6 +7994,7 @@ For more details, please review the linked advisory on this CVE.
 - [tranphuc2005/CVE-2023-22515](https://github.com/tranphuc2005/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/tranphuc2005/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/tranphuc2005/CVE-2023-22515">
 - [dkq-k/cve-2023-22515-1](https://github.com/dkq-k/cve-2023-22515-1)	<img alt="forks" src="https://img.shields.io/github/forks/dkq-k/cve-2023-22515-1">	<img alt="stars" src="https://img.shields.io/github/stars/dkq-k/cve-2023-22515-1">
 - [dkq-k/CVE-2023-22515](https://github.com/dkq-k/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/dkq-k/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/dkq-k/CVE-2023-22515">
+- [oshaie2/CVE-2023-22515-Incident-Response](https://github.com/oshaie2/CVE-2023-22515-Incident-Response)	<img alt="forks" src="https://img.shields.io/github/forks/oshaie2/CVE-2023-22515-Incident-Response">	<img alt="stars" src="https://img.shields.io/github/stars/oshaie2/CVE-2023-22515-Incident-Response">
 
 ---
 ## CVE-2023-22497 ()

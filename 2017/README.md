@@ -474,6 +474,9 @@
 - [rodolfomarianocy/nodeserial](https://github.com/rodolfomarianocy/nodeserial)	<img alt="forks" src="https://img.shields.io/github/forks/rodolfomarianocy/nodeserial">	<img alt="stars" src="https://img.shields.io/github/stars/rodolfomarianocy/nodeserial">
 - [uartu0/nodejshell](https://github.com/uartu0/nodejshell)	<img alt="forks" src="https://img.shields.io/github/forks/uartu0/nodejshell">	<img alt="stars" src="https://img.shields.io/github/stars/uartu0/nodejshell">
 - [turnernator1/Node.js-CVE-2017-5941](https://github.com/turnernator1/Node.js-CVE-2017-5941)	<img alt="forks" src="https://img.shields.io/github/forks/turnernator1/Node.js-CVE-2017-5941">	<img alt="stars" src="https://img.shields.io/github/stars/turnernator1/Node.js-CVE-2017-5941">
+- [DLL00P/CVE-2017-5941](https://github.com/DLL00P/CVE-2017-5941)	<img alt="forks" src="https://img.shields.io/github/forks/DLL00P/CVE-2017-5941">	<img alt="stars" src="https://img.shields.io/github/stars/DLL00P/CVE-2017-5941">
+- [jimahub/scenario-c-block](https://github.com/jimahub/scenario-c-block)	<img alt="forks" src="https://img.shields.io/github/forks/jimahub/scenario-c-block">	<img alt="stars" src="https://img.shields.io/github/stars/jimahub/scenario-c-block">
+- [f41k0n/RCE-NodeJs](https://github.com/f41k0n/RCE-NodeJs)	<img alt="forks" src="https://img.shields.io/github/forks/f41k0n/RCE-NodeJs">	<img alt="stars" src="https://img.shields.io/github/stars/f41k0n/RCE-NodeJs">
 
 ---
 ## CVE-2017-5929 ()
