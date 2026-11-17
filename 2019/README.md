@@ -178,6 +178,7 @@
 - [Cheryanika/CVE-2019-9193---Postgresql---RCE](https://github.com/Cheryanika/CVE-2019-9193---Postgresql---RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Cheryanika/CVE-2019-9193---Postgresql---RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Cheryanika/CVE-2019-9193---Postgresql---RCE">
 - [CyberCTF/vulhub-postgres-cve-2019-9193](https://github.com/CyberCTF/vulhub-postgres-cve-2019-9193)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-postgres-cve-2019-9193">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-postgres-cve-2019-9193">
 - [CybersRMUTL/CVE-2019-9193-Postgresql-RCE](https://github.com/CybersRMUTL/CVE-2019-9193-Postgresql-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CybersRMUTL/CVE-2019-9193-Postgresql-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CybersRMUTL/CVE-2019-9193-Postgresql-RCE">
+- [Exript/CVE-2019-9193-exploit](https://github.com/Exript/CVE-2019-9193-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Exript/CVE-2019-9193-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Exript/CVE-2019-9193-exploit">
 
 ---
 ## CVE-2019-9139 (2019-04-25T18:29:00)

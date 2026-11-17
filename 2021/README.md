@@ -2764,6 +2764,7 @@
 - [TheoCerveraLede/practica-integradora-ciberseguridad](https://github.com/TheoCerveraLede/practica-integradora-ciberseguridad)	<img alt="forks" src="https://img.shields.io/github/forks/TheoCerveraLede/practica-integradora-ciberseguridad">	<img alt="stars" src="https://img.shields.io/github/stars/TheoCerveraLede/practica-integradora-ciberseguridad">
 - [foreverlanterns/secure-demo-api](https://github.com/foreverlanterns/secure-demo-api)	<img alt="forks" src="https://img.shields.io/github/forks/foreverlanterns/secure-demo-api">	<img alt="stars" src="https://img.shields.io/github/stars/foreverlanterns/secure-demo-api">
 - [twq0316/work1-secure-rest-api](https://github.com/twq0316/work1-secure-rest-api)	<img alt="forks" src="https://img.shields.io/github/forks/twq0316/work1-secure-rest-api">	<img alt="stars" src="https://img.shields.io/github/stars/twq0316/work1-secure-rest-api">
+- [itsDav804/CVE-2021-41773](https://github.com/itsDav804/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/itsDav804/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/itsDav804/CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
