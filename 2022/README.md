@@ -19319,6 +19319,11 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 - [Live-Hack-CVE/CVE-2022-36451](https://github.com/Live-Hack-CVE/CVE-2022-36451)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36451">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36451">
 
 ---
+## CVE-2022-36449 ()
+> 
+- [MootComb/cve-2022-36449-mali](https://github.com/MootComb/cve-2022-36449-mali)	<img alt="forks" src="https://img.shields.io/github/forks/MootComb/cve-2022-36449-mali">	<img alt="stars" src="https://img.shields.io/github/stars/MootComb/cve-2022-36449-mali">
+
+---
 ## CVE-2022-36446 (2022-07-25T06:15:00)
 > software/apt-lib.pl in Webmin before 1.997 lacks HTML escaping for a UI command.
 - [p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE](https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">
