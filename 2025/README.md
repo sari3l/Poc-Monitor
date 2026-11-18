@@ -1704,6 +1704,11 @@
 - [praksokchea/CVE-2025-6563](https://github.com/praksokchea/CVE-2025-6563)	<img alt="forks" src="https://img.shields.io/github/forks/praksokchea/CVE-2025-6563">	<img alt="stars" src="https://img.shields.io/github/stars/praksokchea/CVE-2025-6563">
 
 ---
+## CVE-2025-65616 ()
+> 
+- [redline1736/CVE-2025-65616](https://github.com/redline1736/CVE-2025-65616)	<img alt="forks" src="https://img.shields.io/github/forks/redline1736/CVE-2025-65616">	<img alt="stars" src="https://img.shields.io/github/stars/redline1736/CVE-2025-65616">
+
+---
 ## CVE-2025-6558 ()
 > 
 - [karenucqki/CVE-2025-6558](https://github.com/karenucqki/CVE-2025-6558)	<img alt="forks" src="https://img.shields.io/github/forks/karenucqki/CVE-2025-6558">	<img alt="stars" src="https://img.shields.io/github/stars/karenucqki/CVE-2025-6558">
@@ -3300,7 +3305,7 @@
 - [jf-gondim/freepbx-endpoint-sqli-rce](https://github.com/jf-gondim/freepbx-endpoint-sqli-rce)	<img alt="forks" src="https://img.shields.io/github/forks/jf-gondim/freepbx-endpoint-sqli-rce">	<img alt="stars" src="https://img.shields.io/github/stars/jf-gondim/freepbx-endpoint-sqli-rce">
 - [TYehan/CVE-2025-57819-FreePBX-RCE-Exploit](https://github.com/TYehan/CVE-2025-57819-FreePBX-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TYehan/CVE-2025-57819-FreePBX-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TYehan/CVE-2025-57819-FreePBX-RCE-Exploit">
 - [Its1Zero/cve-2025-57819-poc](https://github.com/Its1Zero/cve-2025-57819-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Its1Zero/cve-2025-57819-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Its1Zero/cve-2025-57819-poc">
-- [JazzTheRabbit/FreePBX-SQLi-RCE](https://github.com/JazzTheRabbit/FreePBX-SQLi-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/JazzTheRabbit/FreePBX-SQLi-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/JazzTheRabbit/FreePBX-SQLi-RCE">
+- [HexBytee/FreePBX-SQLi-RCE](https://github.com/HexBytee/FreePBX-SQLi-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HexBytee/FreePBX-SQLi-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HexBytee/FreePBX-SQLi-RCE">
 - [Its1Zero/cve-2025-57819-exploit](https://github.com/Its1Zero/cve-2025-57819-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Its1Zero/cve-2025-57819-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Its1Zero/cve-2025-57819-exploit">
 - [K3ysTr0K3R/CVE-2025-57819](https://github.com/K3ysTr0K3R/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2025-57819">
 - [Neobee714/CVE-2025-57819-POC](https://github.com/Neobee714/CVE-2025-57819-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Neobee714/CVE-2025-57819-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Neobee714/CVE-2025-57819-POC">
@@ -3311,8 +3316,11 @@
 - [DiegoRivas1/htb-labs-connected](https://github.com/DiegoRivas1/htb-labs-connected)	<img alt="forks" src="https://img.shields.io/github/forks/DiegoRivas1/htb-labs-connected">	<img alt="stars" src="https://img.shields.io/github/stars/DiegoRivas1/htb-labs-connected">
 - [iamrajkumar1995/cve-2025-5781_FreePBX](https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX)	<img alt="forks" src="https://img.shields.io/github/forks/iamrajkumar1995/cve-2025-5781_FreePBX">	<img alt="stars" src="https://img.shields.io/github/stars/iamrajkumar1995/cve-2025-5781_FreePBX">
 - [shivammittal2403/cve-2025-57819-freepbx-range](https://github.com/shivammittal2403/cve-2025-57819-freepbx-range)	<img alt="forks" src="https://img.shields.io/github/forks/shivammittal2403/cve-2025-57819-freepbx-range">	<img alt="stars" src="https://img.shields.io/github/stars/shivammittal2403/cve-2025-57819-freepbx-range">
-- [donggle0802-code/cve-2025-57819](https://github.com/donggle0802-code/cve-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/donggle0802-code/cve-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/donggle0802-code/cve-2025-57819">
+- [donggle0802/cve-2025-57819](https://github.com/donggle0802/cve-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/donggle0802/cve-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/donggle0802/cve-2025-57819">
 - [Wayang1337/CVE-2025-57819](https://github.com/Wayang1337/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/Wayang1337/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/Wayang1337/CVE-2025-57819">
+- [alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819](https://github.com/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819">
+- [foxcornlab/freepbx-rce-detector](https://github.com/foxcornlab/freepbx-rce-detector)	<img alt="forks" src="https://img.shields.io/github/forks/foxcornlab/freepbx-rce-detector">	<img alt="stars" src="https://img.shields.io/github/stars/foxcornlab/freepbx-rce-detector">
+- [kelltich-756/FreePBX-Breaker](https://github.com/kelltich-756/FreePBX-Breaker)	<img alt="forks" src="https://img.shields.io/github/forks/kelltich-756/FreePBX-Breaker">	<img alt="stars" src="https://img.shields.io/github/stars/kelltich-756/FreePBX-Breaker">
 
 ---
 ## CVE-2025-5781 ()

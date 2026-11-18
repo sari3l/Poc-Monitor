@@ -1252,6 +1252,7 @@
 - [mcpmark-eval-liuhezi/log4shell-audit-18](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-18)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-18">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-18">
 - [mcpmark-eval-liuhezi/log4shell-audit-17](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-17)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-17">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-17">
 - [mcpmark-eval-liuhezi/log4shell-audit-16](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-16)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-16">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-16">
+- [johnyProDev/CVE-2021-44228-PoC](https://github.com/johnyProDev/CVE-2021-44228-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/johnyProDev/CVE-2021-44228-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/johnyProDev/CVE-2021-44228-PoC">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
