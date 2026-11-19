@@ -2896,6 +2896,11 @@
 - [Live-Hack-CVE/CVE-2021-4128](https://github.com/Live-Hack-CVE/CVE-2021-4128)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4128">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4128">
 
 ---
+## CVE-2021-41278 ()
+> 
+- [FDlucifer/CVE-2021-41278](https://github.com/FDlucifer/CVE-2021-41278)	<img alt="forks" src="https://img.shields.io/github/forks/FDlucifer/CVE-2021-41278">	<img alt="stars" src="https://img.shields.io/github/stars/FDlucifer/CVE-2021-41278">
+
+---
 ## CVE-2021-41277 (2021-11-17T20:15:00)
 > Metabase is an open source data analytics platform. In affected versions a security issue has been discovered with the custom GeoJSON map (`admin->settings->maps->custom maps->add a map`) support and potential local file inclusion (including environment variables). URLs were not validated prior to being loaded. This issue is fixed in a new maintenance release (0.40.5 and 1.40.5), and any subsequent release after that. If youâ€™re unable to upgrade immediately, you can mitigate this by including rules in your reverse proxy or load balancer or WAF to provide a validation filter before the application.
 - [Vulnmachines/Metabase_CVE-2021-41277](https://github.com/Vulnmachines/Metabase_CVE-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Metabase_CVE-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Metabase_CVE-2021-41277">
