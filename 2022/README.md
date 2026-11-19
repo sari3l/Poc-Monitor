@@ -7446,6 +7446,7 @@ If this ACL bypass issue were to be successfully exploited, it potentially could
 - [KosmicOwl045/ICT287-CVE-2022-42889](https://github.com/KosmicOwl045/ICT287-CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/KosmicOwl045/ICT287-CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/KosmicOwl045/ICT287-CVE-2022-42889">
 - [Hkaeeeer/CVE-2022-42889](https://github.com/Hkaeeeer/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/Hkaeeeer/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/Hkaeeeer/CVE-2022-42889">
 - [gustanini/CVE-2022-42889-Text4Shell-POC](https://github.com/gustanini/CVE-2022-42889-Text4Shell-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gustanini/CVE-2022-42889-Text4Shell-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gustanini/CVE-2022-42889-Text4Shell-POC">
+- [adikelty/commons-text-cve-2022-42889](https://github.com/adikelty/commons-text-cve-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/adikelty/commons-text-cve-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/adikelty/commons-text-cve-2022-42889">
 
 ---
 ## CVE-2022-4287 (2022-12-21T17:15:00)
