@@ -404,6 +404,11 @@
 - [andikahilmy/CVE-2015-2156-netty-vulnerable](https://github.com/andikahilmy/CVE-2015-2156-netty-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2015-2156-netty-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2015-2156-netty-vulnerable">
 
 ---
+## CVE-2015-2050 ()
+> 
+- [nightscry/CVE-2015-2050-DAP-1320](https://github.com/nightscry/CVE-2015-2050-DAP-1320)	<img alt="forks" src="https://img.shields.io/github/forks/nightscry/CVE-2015-2050-DAP-1320">	<img alt="stars" src="https://img.shields.io/github/stars/nightscry/CVE-2015-2050-DAP-1320">
+
+---
 ## CVE-2015-2025 ()
 > 
 - [Ethanpr05/cve-2015-2025-analisis](https://github.com/Ethanpr05/cve-2015-2025-analisis)	<img alt="forks" src="https://img.shields.io/github/forks/Ethanpr05/cve-2015-2025-analisis">	<img alt="stars" src="https://img.shields.io/github/stars/Ethanpr05/cve-2015-2025-analisis">
