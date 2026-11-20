@@ -14376,6 +14376,12 @@
 - [LLCForge/CVE-2026-133113](https://github.com/LLCForge/CVE-2026-133113)	<img alt="forks" src="https://img.shields.io/github/forks/LLCForge/CVE-2026-133113">	<img alt="stars" src="https://img.shields.io/github/stars/LLCForge/CVE-2026-133113">
 
 ---
+## CVE-2026-132825 ()
+> 
+- [evenomn/CVE-2026-132825](https://github.com/evenomn/CVE-2026-132825)	<img alt="forks" src="https://img.shields.io/github/forks/evenomn/CVE-2026-132825">	<img alt="stars" src="https://img.shields.io/github/stars/evenomn/CVE-2026-132825">
+- [scadastrangelove/ruby2shell](https://github.com/scadastrangelove/ruby2shell)	<img alt="forks" src="https://img.shields.io/github/forks/scadastrangelove/ruby2shell">	<img alt="stars" src="https://img.shields.io/github/stars/scadastrangelove/ruby2shell">
+
+---
 ## CVE-2026-13249 ()
 > 
 - [murrez/CVE-2026-13249](https://github.com/murrez/CVE-2026-13249)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-13249">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-13249">
@@ -15610,6 +15616,9 @@
 - [avego/php2shell](https://github.com/avego/php2shell)	<img alt="forks" src="https://img.shields.io/github/forks/avego/php2shell">	<img alt="stars" src="https://img.shields.io/github/stars/avego/php2shell">
 - [SirjanSingh/php2shell-check](https://github.com/SirjanSingh/php2shell-check)	<img alt="forks" src="https://img.shields.io/github/forks/SirjanSingh/php2shell-check">	<img alt="stars" src="https://img.shields.io/github/stars/SirjanSingh/php2shell-check">
 - [esskslifetech/php-secure-patch](https://github.com/esskslifetech/php-secure-patch)	<img alt="forks" src="https://img.shields.io/github/forks/esskslifetech/php-secure-patch">	<img alt="stars" src="https://img.shields.io/github/stars/esskslifetech/php-secure-patch">
+- [LLCForge/CVE-2026-115560](https://github.com/LLCForge/CVE-2026-115560)	<img alt="forks" src="https://img.shields.io/github/forks/LLCForge/CVE-2026-115560">	<img alt="stars" src="https://img.shields.io/github/stars/LLCForge/CVE-2026-115560">
+- [PVY-Smit/php2shell-defender](https://github.com/PVY-Smit/php2shell-defender)	<img alt="forks" src="https://img.shields.io/github/forks/PVY-Smit/php2shell-defender">	<img alt="stars" src="https://img.shields.io/github/stars/PVY-Smit/php2shell-defender">
+- [JAvito-GC/php2shell-check](https://github.com/JAvito-GC/php2shell-check)	<img alt="forks" src="https://img.shields.io/github/forks/JAvito-GC/php2shell-check">	<img alt="stars" src="https://img.shields.io/github/stars/JAvito-GC/php2shell-check">
 
 ---
 ## CVE-2026-11551 ()
@@ -15678,6 +15687,7 @@
 - [sam00/Java4Shell-CVE-2026-114938-PoC](https://github.com/sam00/Java4Shell-CVE-2026-114938-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sam00/Java4Shell-CVE-2026-114938-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sam00/Java4Shell-CVE-2026-114938-PoC">
 - [shivabalaj/CVE-2026-114938](https://github.com/shivabalaj/CVE-2026-114938)	<img alt="forks" src="https://img.shields.io/github/forks/shivabalaj/CVE-2026-114938">	<img alt="stars" src="https://img.shields.io/github/stars/shivabalaj/CVE-2026-114938">
 - [alt3kx/CVE-2026-114938](https://github.com/alt3kx/CVE-2026-114938)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2026-114938">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2026-114938">
+- [uxokpro1234/Java4Shell-CVE-2026-114938-Defender](https://github.com/uxokpro1234/Java4Shell-CVE-2026-114938-Defender)	<img alt="forks" src="https://img.shields.io/github/forks/uxokpro1234/Java4Shell-CVE-2026-114938-Defender">	<img alt="stars" src="https://img.shields.io/github/stars/uxokpro1234/Java4Shell-CVE-2026-114938-Defender">
 
 ---
 ## CVE-2026-114820 ()
