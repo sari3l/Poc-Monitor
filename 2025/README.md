@@ -1735,6 +1735,7 @@
 - [LordBheem/CVE-2025-6554](https://github.com/LordBheem/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/LordBheem/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/LordBheem/CVE-2025-6554">
 - [juccoblak/CVE-2025-6554](https://github.com/juccoblak/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/juccoblak/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/juccoblak/CVE-2025-6554">
 - [dexteon/cve-2025-6554-poc](https://github.com/dexteon/cve-2025-6554-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexteon/cve-2025-6554-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexteon/cve-2025-6554-poc">
+- [zhanghangjie/CVE-2025-6554-CYL1](https://github.com/zhanghangjie/CVE-2025-6554-CYL1)	<img alt="forks" src="https://img.shields.io/github/forks/zhanghangjie/CVE-2025-6554-CYL1">	<img alt="stars" src="https://img.shields.io/github/stars/zhanghangjie/CVE-2025-6554-CYL1">
 
 ---
 ## CVE-2025-65534 ()
@@ -10468,6 +10469,7 @@
 - [khoatran107/cve-2025-21756](https://github.com/khoatran107/cve-2025-21756)	<img alt="forks" src="https://img.shields.io/github/forks/khoatran107/cve-2025-21756">	<img alt="stars" src="https://img.shields.io/github/stars/khoatran107/cve-2025-21756">
 - [KuanKuanQAQ/cve-testing](https://github.com/KuanKuanQAQ/cve-testing)	<img alt="forks" src="https://img.shields.io/github/forks/KuanKuanQAQ/cve-testing">	<img alt="stars" src="https://img.shields.io/github/stars/KuanKuanQAQ/cve-testing">
 - [h3raklez/CVE-2025-21756](https://github.com/h3raklez/CVE-2025-21756)	<img alt="forks" src="https://img.shields.io/github/forks/h3raklez/CVE-2025-21756">	<img alt="stars" src="https://img.shields.io/github/stars/h3raklez/CVE-2025-21756">
+- [zhanghangjie/CVE-2025-21756-VM](https://github.com/zhanghangjie/CVE-2025-21756-VM)	<img alt="forks" src="https://img.shields.io/github/forks/zhanghangjie/CVE-2025-21756-VM">	<img alt="stars" src="https://img.shields.io/github/stars/zhanghangjie/CVE-2025-21756-VM">
 
 ---
 ## CVE-2025-21692 ()

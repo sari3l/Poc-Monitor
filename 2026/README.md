@@ -296,6 +296,7 @@
 - [mumaosong/cve-2026-98260-app](https://github.com/mumaosong/cve-2026-98260-app)	<img alt="forks" src="https://img.shields.io/github/forks/mumaosong/cve-2026-98260-app">	<img alt="stars" src="https://img.shields.io/github/stars/mumaosong/cve-2026-98260-app">
 - [idk12345-desigh/lapis-mt6878-root](https://github.com/idk12345-desigh/lapis-mt6878-root)	<img alt="forks" src="https://img.shields.io/github/forks/idk12345-desigh/lapis-mt6878-root">	<img alt="stars" src="https://img.shields.io/github/stars/idk12345-desigh/lapis-mt6878-root">
 - [yxc0915/cve-2026-98260-ppg-an00](https://github.com/yxc0915/cve-2026-98260-ppg-an00)	<img alt="forks" src="https://img.shields.io/github/forks/yxc0915/cve-2026-98260-ppg-an00">	<img alt="stars" src="https://img.shields.io/github/stars/yxc0915/cve-2026-98260-ppg-an00">
+- [zhanghangjie/CVE-2026-98260-CYL1](https://github.com/zhanghangjie/CVE-2026-98260-CYL1)	<img alt="forks" src="https://img.shields.io/github/forks/zhanghangjie/CVE-2026-98260-CYL1">	<img alt="stars" src="https://img.shields.io/github/stars/zhanghangjie/CVE-2026-98260-CYL1">
 
 ---
 ## CVE-2026-98258 ()
@@ -3119,6 +3120,11 @@
 - [mahumadad/cve-2026-71362-magento-ato](https://github.com/mahumadad/cve-2026-71362-magento-ato)	<img alt="forks" src="https://img.shields.io/github/forks/mahumadad/cve-2026-71362-magento-ato">	<img alt="stars" src="https://img.shields.io/github/stars/mahumadad/cve-2026-71362-magento-ato">
 
 ---
+## CVE-2026-71319 ()
+> 
+- [TazmiDev/CVE-2026-71319](https://github.com/TazmiDev/CVE-2026-71319)	<img alt="forks" src="https://img.shields.io/github/forks/TazmiDev/CVE-2026-71319">	<img alt="stars" src="https://img.shields.io/github/stars/TazmiDev/CVE-2026-71319">
+
+---
 ## CVE-2026-71300 ()
 > 
 - [oscerd/CVE-2026-71300](https://github.com/oscerd/CVE-2026-71300)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-71300">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-71300">
@@ -3991,6 +3997,8 @@
 - [wanwuzhishi/ksu-root](https://github.com/wanwuzhishi/ksu-root)	<img alt="forks" src="https://img.shields.io/github/forks/wanwuzhishi/ksu-root">	<img alt="stars" src="https://img.shields.io/github/stars/wanwuzhishi/ksu-root">
 - [No-World/rootkit](https://github.com/No-World/rootkit)	<img alt="forks" src="https://img.shields.io/github/forks/No-World/rootkit">	<img alt="stars" src="https://img.shields.io/github/stars/No-World/rootkit">
 - [000999888111/op13-cve-2026-64560](https://github.com/000999888111/op13-cve-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/000999888111/op13-cve-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/000999888111/op13-cve-2026-64560">
+- [zhanghangjie/CVE-2026-64560-CYL1](https://github.com/zhanghangjie/CVE-2026-64560-CYL1)	<img alt="forks" src="https://img.shields.io/github/forks/zhanghangjie/CVE-2026-64560-CYL1">	<img alt="stars" src="https://img.shields.io/github/stars/zhanghangjie/CVE-2026-64560-CYL1">
+- [Sulisong/OnePlus16-Jailbreak](https://github.com/Sulisong/OnePlus16-Jailbreak)	<img alt="forks" src="https://img.shields.io/github/forks/Sulisong/OnePlus16-Jailbreak">	<img alt="stars" src="https://img.shields.io/github/stars/Sulisong/OnePlus16-Jailbreak">
 
 ---
 ## CVE-2026-64531 ()
@@ -4243,6 +4251,11 @@
 - [dexit/CVE-2026-63030](https://github.com/dexit/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/dexit/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/dexit/CVE-2026-63030">
 - [noxcrypt-x/CVE-2026-63030](https://github.com/noxcrypt-x/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/noxcrypt-x/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/noxcrypt-x/CVE-2026-63030">
 - [CptNope/JAT-Shell-Scanner](https://github.com/CptNope/JAT-Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CptNope/JAT-Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CptNope/JAT-Shell-Scanner">
+
+---
+## CVE-2026-62955 ()
+> 
+- [googlesky/CVE-2026-62955](https://github.com/googlesky/CVE-2026-62955)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-62955">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-62955">
 
 ---
 ## CVE-2026-62911 ()
@@ -7397,6 +7410,9 @@
 - [jonrazta89/NewGhostTimer](https://github.com/jonrazta89/NewGhostTimer)	<img alt="forks" src="https://img.shields.io/github/forks/jonrazta89/NewGhostTimer">	<img alt="stars" src="https://img.shields.io/github/stars/jonrazta89/NewGhostTimer">
 - [DarkDevil-937/make-it-root](https://github.com/DarkDevil-937/make-it-root)	<img alt="forks" src="https://img.shields.io/github/forks/DarkDevil-937/make-it-root">	<img alt="stars" src="https://img.shields.io/github/stars/DarkDevil-937/make-it-root">
 - [BlackIce417/root-oplusace5](https://github.com/BlackIce417/root-oplusace5)	<img alt="forks" src="https://img.shields.io/github/forks/BlackIce417/root-oplusace5">	<img alt="stars" src="https://img.shields.io/github/stars/BlackIce417/root-oplusace5">
+- [zhanghangjie/CVE-2026-43499-CYL1](https://github.com/zhanghangjie/CVE-2026-43499-CYL1)	<img alt="forks" src="https://img.shields.io/github/forks/zhanghangjie/CVE-2026-43499-CYL1">	<img alt="stars" src="https://img.shields.io/github/stars/zhanghangjie/CVE-2026-43499-CYL1">
+- [rubnet/ghostlock-RMX3031](https://github.com/rubnet/ghostlock-RMX3031)	<img alt="forks" src="https://img.shields.io/github/forks/rubnet/ghostlock-RMX3031">	<img alt="stars" src="https://img.shields.io/github/stars/rubnet/ghostlock-RMX3031">
+- [bxffhss/iqoo-z6-temp-root](https://github.com/bxffhss/iqoo-z6-temp-root)	<img alt="forks" src="https://img.shields.io/github/forks/bxffhss/iqoo-z6-temp-root">	<img alt="stars" src="https://img.shields.io/github/stars/bxffhss/iqoo-z6-temp-root">
 
 ---
 ## CVE-2026-43494 ()
@@ -12972,6 +12988,7 @@
 > 
 - [unionnx/CVE-2026-21385](https://github.com/unionnx/CVE-2026-21385)	<img alt="forks" src="https://img.shields.io/github/forks/unionnx/CVE-2026-21385">	<img alt="stars" src="https://img.shields.io/github/stars/unionnx/CVE-2026-21385">
 - [automate-it0/qualcomm-vulnerability-scanner](https://github.com/automate-it0/qualcomm-vulnerability-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/automate-it0/qualcomm-vulnerability-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/automate-it0/qualcomm-vulnerability-scanner">
+- [zhanghangjie/CVE-2026-21385-CYL1](https://github.com/zhanghangjie/CVE-2026-21385-CYL1)	<img alt="forks" src="https://img.shields.io/github/forks/zhanghangjie/CVE-2026-21385-CYL1">	<img alt="stars" src="https://img.shields.io/github/stars/zhanghangjie/CVE-2026-21385-CYL1">
 
 ---
 ## CVE-2026-21250 ()
@@ -13108,6 +13125,11 @@
 ## CVE-2026-20999 ()
 > 
 - [lasdjk/CVE-2026-20999-my-thought](https://github.com/lasdjk/CVE-2026-20999-my-thought)	<img alt="forks" src="https://img.shields.io/github/forks/lasdjk/CVE-2026-20999-my-thought">	<img alt="stars" src="https://img.shields.io/github/stars/lasdjk/CVE-2026-20999-my-thought">
+
+---
+## CVE-2026-20971 ()
+> 
+- [zhanghangjie/CVE-2026-20971-CYL1](https://github.com/zhanghangjie/CVE-2026-20971-CYL1)	<img alt="forks" src="https://img.shields.io/github/forks/zhanghangjie/CVE-2026-20971-CYL1">	<img alt="stars" src="https://img.shields.io/github/stars/zhanghangjie/CVE-2026-20971-CYL1">
 
 ---
 ## CVE-2026-20963 ()
@@ -14380,6 +14402,32 @@
 > 
 - [evenomn/CVE-2026-132825](https://github.com/evenomn/CVE-2026-132825)	<img alt="forks" src="https://img.shields.io/github/forks/evenomn/CVE-2026-132825">	<img alt="stars" src="https://img.shields.io/github/stars/evenomn/CVE-2026-132825">
 - [scadastrangelove/ruby2shell](https://github.com/scadastrangelove/ruby2shell)	<img alt="forks" src="https://img.shields.io/github/forks/scadastrangelove/ruby2shell">	<img alt="stars" src="https://img.shields.io/github/stars/scadastrangelove/ruby2shell">
+- [evenomn/CVE-2026-132825](https://github.com/evenomn/CVE-2026-132825)	<img alt="forks" src="https://img.shields.io/github/forks/evenomn/CVE-2026-132825">	<img alt="stars" src="https://img.shields.io/github/stars/evenomn/CVE-2026-132825">
+
+---
+## CVE-2026-132749 ()
+> 
+- [SHAHID-XT/CVE-2026-132749-Vtiger-CRM-Reports-SQLi](https://github.com/SHAHID-XT/CVE-2026-132749-Vtiger-CRM-Reports-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/SHAHID-XT/CVE-2026-132749-Vtiger-CRM-Reports-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/SHAHID-XT/CVE-2026-132749-Vtiger-CRM-Reports-SQLi">
+
+---
+## CVE-2026-132748 ()
+> 
+- [SHAHID-XT/CVE-2026-132748-Vtiger-CRM-PHP-Code-Injection](https://github.com/SHAHID-XT/CVE-2026-132748-Vtiger-CRM-PHP-Code-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/SHAHID-XT/CVE-2026-132748-Vtiger-CRM-PHP-Code-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/SHAHID-XT/CVE-2026-132748-Vtiger-CRM-PHP-Code-Injection">
+
+---
+## CVE-2026-132747 ()
+> 
+- [SHAHID-XT/CVE-2026-132747-Vtiger-CRM-ExportData-SQLi](https://github.com/SHAHID-XT/CVE-2026-132747-Vtiger-CRM-ExportData-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/SHAHID-XT/CVE-2026-132747-Vtiger-CRM-ExportData-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/SHAHID-XT/CVE-2026-132747-Vtiger-CRM-ExportData-SQLi">
+
+---
+## CVE-2026-132746 ()
+> 
+- [SHAHID-XT/CVE-2026-132746-Vtiger-CRM-WSAPP-SQLi-](https://github.com/SHAHID-XT/CVE-2026-132746-Vtiger-CRM-WSAPP-SQLi-)	<img alt="forks" src="https://img.shields.io/github/forks/SHAHID-XT/CVE-2026-132746-Vtiger-CRM-WSAPP-SQLi-">	<img alt="stars" src="https://img.shields.io/github/stars/SHAHID-XT/CVE-2026-132746-Vtiger-CRM-WSAPP-SQLi-">
+
+---
+## CVE-2026-132745 ()
+> 
+- [SHAHID-XT/CVE-2026-132745-Vtiger-CRM-Blind-SQLi](https://github.com/SHAHID-XT/CVE-2026-132745-Vtiger-CRM-Blind-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/SHAHID-XT/CVE-2026-132745-Vtiger-CRM-Blind-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/SHAHID-XT/CVE-2026-132745-Vtiger-CRM-Blind-SQLi">
 
 ---
 ## CVE-2026-13249 ()
@@ -14890,6 +14938,12 @@
 ## CVE-2026-12400 ()
 > 
 - [0x00phantom-hat/CVE-2026-12400-Exploit](https://github.com/0x00phantom-hat/CVE-2026-12400-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0x00phantom-hat/CVE-2026-12400-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0x00phantom-hat/CVE-2026-12400-Exploit">
+
+---
+## CVE-2026-123890 ()
+> 
+- [Quaerendir/cve-2026-123890-audit](https://github.com/Quaerendir/cve-2026-123890-audit)	<img alt="forks" src="https://img.shields.io/github/forks/Quaerendir/cve-2026-123890-audit">	<img alt="stars" src="https://img.shields.io/github/stars/Quaerendir/cve-2026-123890-audit">
+- [Cyber-BansalAI/vmware-vcenter-2026](https://github.com/Cyber-BansalAI/vmware-vcenter-2026)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-BansalAI/vmware-vcenter-2026">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-BansalAI/vmware-vcenter-2026">
 
 ---
 ## CVE-2026-1238 ()
@@ -17946,6 +18000,16 @@
 ## CVE-2026-103039 ()
 > 
 - [noxcrypt-x/CVE-2026-103039](https://github.com/noxcrypt-x/CVE-2026-103039)	<img alt="forks" src="https://img.shields.io/github/forks/noxcrypt-x/CVE-2026-103039">	<img alt="stars" src="https://img.shields.io/github/stars/noxcrypt-x/CVE-2026-103039">
+
+---
+## CVE-2026-103033 ()
+> 
+- [googlesky/CVE-2026-103033](https://github.com/googlesky/CVE-2026-103033)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-103033">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-103033">
+
+---
+## CVE-2026-103025 ()
+> 
+- [googlesky/CVE-2026-103025](https://github.com/googlesky/CVE-2026-103025)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-103025">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-103025">
 
 ---
 ## CVE-2026-102975 ()
