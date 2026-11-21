@@ -2400,6 +2400,7 @@
 - [lmcewen9/cve-2021-42013](https://github.com/lmcewen9/cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/lmcewen9/cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/lmcewen9/cve-2021-42013">
 - [CyberCTF/vulhub-httpd-cve-2021-42013](https://github.com/CyberCTF/vulhub-httpd-cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-httpd-cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-httpd-cve-2021-42013">
 - [mhd964/CVE-2021-42013](https://github.com/mhd964/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/mhd964/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/mhd964/CVE-2021-42013">
+- [wvverez/CVE-2021-42013](https://github.com/wvverez/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2021-42013">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)
