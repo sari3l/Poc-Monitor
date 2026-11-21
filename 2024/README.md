@@ -11629,6 +11629,11 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [jidle123/cve-2024-0305exp](https://github.com/jidle123/cve-2024-0305exp)	<img alt="forks" src="https://img.shields.io/github/forks/jidle123/cve-2024-0305exp">	<img alt="stars" src="https://img.shields.io/github/stars/jidle123/cve-2024-0305exp">
 
 ---
+## CVE-2024-0264 ()
+> 
+- [wh1t3w1s4/CVE-2024-0264-PoC](https://github.com/wh1t3w1s4/CVE-2024-0264-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/wh1t3w1s4/CVE-2024-0264-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/wh1t3w1s4/CVE-2024-0264-PoC">
+
+---
 ## CVE-2024-0258 ()
 > 
 - [aliyabuz25/CVE-2024-0258](https://github.com/aliyabuz25/CVE-2024-0258)	<img alt="forks" src="https://img.shields.io/github/forks/aliyabuz25/CVE-2024-0258">	<img alt="stars" src="https://img.shields.io/github/stars/aliyabuz25/CVE-2024-0258">

@@ -11768,6 +11768,11 @@
 - [error-inside/CVE-2025-10897](https://github.com/error-inside/CVE-2025-10897)	<img alt="forks" src="https://img.shields.io/github/forks/error-inside/CVE-2025-10897">	<img alt="stars" src="https://img.shields.io/github/stars/error-inside/CVE-2025-10897">
 
 ---
+## CVE-2025-10890 ()
+> 
+- [SpiralBL0CK/CVE-2025-10890-lab](https://github.com/SpiralBL0CK/CVE-2025-10890-lab)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2025-10890-lab">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2025-10890-lab">
+
+---
 ## CVE-2025-10878 ()
 > 
 - [onurcangnc/CVE-2025-10878-AdminPandov1.0.1-SQLi](https://github.com/onurcangnc/CVE-2025-10878-AdminPandov1.0.1-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/onurcangnc/CVE-2025-10878-AdminPandov1.0.1-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/onurcangnc/CVE-2025-10878-AdminPandov1.0.1-SQLi">

@@ -9241,6 +9241,8 @@
 - [TeddyEngel/CVE-2021-22204](https://github.com/TeddyEngel/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/TeddyEngel/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/TeddyEngel/CVE-2021-22204">
 - [d4ytox/CVE-2021-22204](https://github.com/d4ytox/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2021-22204">
 - [cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204](https://github.com/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204">
+- [la-padula/CVE-2021-22204](https://github.com/la-padula/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/la-padula/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/la-padula/CVE-2021-22204">
+- [d4ytox/CVE-2021-22205](https://github.com/d4ytox/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2021-22205">
 
 ---
 ## CVE-2021-2220 ()
