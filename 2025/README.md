@@ -8107,6 +8107,7 @@
 - [Avinash37402/CVE-2025-32433-Erlang-OTP-SSH](https://github.com/Avinash37402/CVE-2025-32433-Erlang-OTP-SSH)	<img alt="forks" src="https://img.shields.io/github/forks/Avinash37402/CVE-2025-32433-Erlang-OTP-SSH">	<img alt="stars" src="https://img.shields.io/github/stars/Avinash37402/CVE-2025-32433-Erlang-OTP-SSH">
 - [Avinash37402/CVE-2025-32433](https://github.com/Avinash37402/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/Avinash37402/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/Avinash37402/CVE-2025-32433">
 - [Ghost-Bx1/cve-2025-32433-erlang-ssh-preauth-rce](https://github.com/Ghost-Bx1/cve-2025-32433-erlang-ssh-preauth-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/cve-2025-32433-erlang-ssh-preauth-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/cve-2025-32433-erlang-ssh-preauth-rce">
+- [javakhir018/jenkins-erlang-otp-cve-2025-32433](https://github.com/javakhir018/jenkins-erlang-otp-cve-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/javakhir018/jenkins-erlang-otp-cve-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/javakhir018/jenkins-erlang-otp-cve-2025-32433">
 
 ---
 ## CVE-2025-32432 ()
