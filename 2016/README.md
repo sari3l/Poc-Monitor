@@ -1366,6 +1366,11 @@
 - [rwincey/Oracle-GoldenGate---CVE-2016-0451](https://github.com/rwincey/Oracle-GoldenGate---CVE-2016-0451)	<img alt="forks" src="https://img.shields.io/github/forks/rwincey/Oracle-GoldenGate---CVE-2016-0451">	<img alt="stars" src="https://img.shields.io/github/stars/rwincey/Oracle-GoldenGate---CVE-2016-0451">
 
 ---
+## CVE-2016-0287 ()
+> 
+- [nullbyter19/cve-2016-0287](https://github.com/nullbyter19/cve-2016-0287)	<img alt="forks" src="https://img.shields.io/github/forks/nullbyter19/cve-2016-0287">	<img alt="stars" src="https://img.shields.io/github/stars/nullbyter19/cve-2016-0287">
+
+---
 ## CVE-2016-0189 ()
 > 
 - [Theori-lO/cve-2016-0189](https://github.com/Theori-lO/cve-2016-0189)	<img alt="forks" src="https://img.shields.io/github/forks/Theori-lO/cve-2016-0189">	<img alt="stars" src="https://img.shields.io/github/stars/Theori-lO/cve-2016-0189">

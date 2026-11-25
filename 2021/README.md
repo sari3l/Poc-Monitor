@@ -5607,6 +5607,7 @@
 - [0xlane/CVE-2021-3493](https://github.com/0xlane/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/CVE-2021-3493">
 - [r3dw4n48m3d/CVE-2021-3493-Exploit](https://github.com/r3dw4n48m3d/CVE-2021-3493-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/r3dw4n48m3d/CVE-2021-3493-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/r3dw4n48m3d/CVE-2021-3493-Exploit">
 - [devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493](https://github.com/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493">
+- [LaurenceBDavid/CVE-2021-3493](https://github.com/LaurenceBDavid/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/LaurenceBDavid/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/LaurenceBDavid/CVE-2021-3493">
 
 ---
 ## CVE-2021-3490 (2021-06-04T02:15:00)
@@ -6234,6 +6235,11 @@
 ## CVE-2021-33235 (2022-08-15T20:15:00)
 > Buffer overflow vulnerability in write_node in htmldoc through 1.9.11 allows attackers to cause a denial of service via htmldoc/htmldoc/html.cxx:588.
 - [Live-Hack-CVE/CVE-2021-33235](https://github.com/Live-Hack-CVE/CVE-2021-33235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33235">
+
+---
+## CVE-2021-33200 ()
+> 
+- [d4ytox/CVE-2021-33200](https://github.com/d4ytox/CVE-2021-33200)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2021-33200">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2021-33200">
 
 ---
 ## CVE-2021-33198 (2021-08-02T19:15:00)
