@@ -2713,6 +2713,7 @@ use after free.
 - [hfiref0x/KDU](https://github.com/hfiref0x/KDU)	<img alt="forks" src="https://img.shields.io/github/forks/hfiref0x/KDU">	<img alt="stars" src="https://img.shields.io/github/stars/hfiref0x/KDU">
 - [Barakat/CVE-2019-16098](https://github.com/Barakat/CVE-2019-16098)	<img alt="forks" src="https://img.shields.io/github/forks/Barakat/CVE-2019-16098">	<img alt="stars" src="https://img.shields.io/github/stars/Barakat/CVE-2019-16098">
 - [houseofxyz/CVE-2019-16098](https://github.com/houseofxyz/CVE-2019-16098)	<img alt="forks" src="https://img.shields.io/github/forks/houseofxyz/CVE-2019-16098">	<img alt="stars" src="https://img.shields.io/github/stars/houseofxyz/CVE-2019-16098">
+- [Fl0sec/RTCore64-CVE-2019-16098](https://github.com/Fl0sec/RTCore64-CVE-2019-16098)	<img alt="forks" src="https://img.shields.io/github/forks/Fl0sec/RTCore64-CVE-2019-16098">	<img alt="stars" src="https://img.shields.io/github/stars/Fl0sec/RTCore64-CVE-2019-16098">
 
 ---
 ## CVE-2019-1609 (2019-03-08T20:29:00)

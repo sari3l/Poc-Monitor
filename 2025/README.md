@@ -5086,6 +5086,11 @@
 - [pandatix/CVE-2025-53632](https://github.com/pandatix/CVE-2025-53632)	<img alt="forks" src="https://img.shields.io/github/forks/pandatix/CVE-2025-53632">	<img alt="stars" src="https://img.shields.io/github/stars/pandatix/CVE-2025-53632">
 
 ---
+## CVE-2025-53607 ()
+> 
+- [phor3nsic/CVE-2025-53607](https://github.com/phor3nsic/CVE-2025-53607)	<img alt="forks" src="https://img.shields.io/github/forks/phor3nsic/CVE-2025-53607">	<img alt="stars" src="https://img.shields.io/github/stars/phor3nsic/CVE-2025-53607">
+
+---
 ## CVE-2025-53580 ()
 > 
 - [Nxploited/CVE-2025-53580](https://github.com/Nxploited/CVE-2025-53580)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-53580">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-53580">

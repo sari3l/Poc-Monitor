@@ -3644,6 +3644,11 @@
 - [und3sc0n0c1d0/CVE-2020-2038](https://github.com/und3sc0n0c1d0/CVE-2020-2038)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/CVE-2020-2038">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/CVE-2020-2038">
 
 ---
+## CVE-2020-20277 ()
+> 
+- [decoyishere/CVE-2020-20277-PoC](https://github.com/decoyishere/CVE-2020-20277-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/decoyishere/CVE-2020-20277-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/decoyishere/CVE-2020-20277-PoC">
+
+---
 ## CVE-2020-2026 (2020-06-10T18:15:00)
 > A malicious guest compromised before a container creation (e.g. a malicious guest image or a guest running multiple containers) can trick the kata runtime into mounting the untrusted container filesystem on any host path, potentially allowing for code execution on the host. This issue affects: Kata Containers 1.11 versions earlier than 1.11.1; Kata Containers 1.10 versions earlier than 1.10.5; Kata Containers 1.9 and earlier versions.
 - [Live-Hack-CVE/CVE-2020-2026](https://github.com/Live-Hack-CVE/CVE-2020-2026)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2026">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2026">
