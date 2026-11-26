@@ -27422,6 +27422,7 @@ the client's API server credentials to third parties.
 - [mpvx/CVE-2022-29464](https://github.com/mpvx/CVE-2022-29464)	<img alt="forks" src="https://img.shields.io/github/forks/mpvx/CVE-2022-29464">	<img alt="stars" src="https://img.shields.io/github/stars/mpvx/CVE-2022-29464">
 - [c1ph3rbyt3/CVE-2022-29464](https://github.com/c1ph3rbyt3/CVE-2022-29464)	<img alt="forks" src="https://img.shields.io/github/forks/c1ph3rbyt3/CVE-2022-29464">	<img alt="stars" src="https://img.shields.io/github/stars/c1ph3rbyt3/CVE-2022-29464">
 - [hxlxmj/Mass-exploit-CVE-2022-29464](https://github.com/hxlxmj/Mass-exploit-CVE-2022-29464)	<img alt="forks" src="https://img.shields.io/github/forks/hxlxmj/Mass-exploit-CVE-2022-29464">	<img alt="stars" src="https://img.shields.io/github/stars/hxlxmj/Mass-exploit-CVE-2022-29464">
+- [googlesky/CVE-2022-29464](https://github.com/googlesky/CVE-2022-29464)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2022-29464">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2022-29464">
 
 ---
 ## CVE-2022-2946 (2022-08-23T17:15:00)
@@ -32032,6 +32033,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [amit-pathak009/CVE-2022-22954-PoC](https://github.com/amit-pathak009/CVE-2022-22954-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/amit-pathak009/CVE-2022-22954-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/amit-pathak009/CVE-2022-22954-PoC">
 - [nguyenv1nK/CVE-2022-22954](https://github.com/nguyenv1nK/CVE-2022-22954)	<img alt="forks" src="https://img.shields.io/github/forks/nguyenv1nK/CVE-2022-22954">	<img alt="stars" src="https://img.shields.io/github/stars/nguyenv1nK/CVE-2022-22954">
 - [nieldk/VMware-CVE-2022-22954](https://github.com/nieldk/VMware-CVE-2022-22954)	<img alt="forks" src="https://img.shields.io/github/forks/nieldk/VMware-CVE-2022-22954">	<img alt="stars" src="https://img.shields.io/github/stars/nieldk/VMware-CVE-2022-22954">
+- [googlesky/CVE-2022-22954](https://github.com/googlesky/CVE-2022-22954)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2022-22954">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2022-22954">
 
 ---
 ## CVE-2022-22948 (2022-03-29T18:15:00)

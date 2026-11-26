@@ -3562,6 +3562,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [KrioSocial/defender-bypass-winrar-cve-2023-38831](https://github.com/KrioSocial/defender-bypass-winrar-cve-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/KrioSocial/defender-bypass-winrar-cve-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/KrioSocial/defender-bypass-winrar-cve-2023-38831">
 - [Dnyaneshwari-123/DFIR-Capstone-Investigations](https://github.com/Dnyaneshwari-123/DFIR-Capstone-Investigations)	<img alt="forks" src="https://img.shields.io/github/forks/Dnyaneshwari-123/DFIR-Capstone-Investigations">	<img alt="stars" src="https://img.shields.io/github/stars/Dnyaneshwari-123/DFIR-Capstone-Investigations">
 - [cristhiansm0/TXDXCristhian_2023-CVE-38831](https://github.com/cristhiansm0/TXDXCristhian_2023-CVE-38831)	<img alt="forks" src="https://img.shields.io/github/forks/cristhiansm0/TXDXCristhian_2023-CVE-38831">	<img alt="stars" src="https://img.shields.io/github/stars/cristhiansm0/TXDXCristhian_2023-CVE-38831">
+- [googlesky/CVE-2023-38831](https://github.com/googlesky/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2023-38831">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
@@ -4649,6 +4650,7 @@ The specific flaw exists within the DDP service. The issue results from the lack
 - [Aicks/Citrix-CVE-2023-3519](https://github.com/Aicks/Citrix-CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/Aicks/Citrix-CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/Aicks/Citrix-CVE-2023-3519">
 - [dhammerg/CVE-2023-3519](https://github.com/dhammerg/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/dhammerg/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/dhammerg/CVE-2023-3519">
 - [Chocapikk/CVE-2023-3519](https://github.com/Chocapikk/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-3519">
+- [googlesky/CVE-2023-3519](https://github.com/googlesky/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2023-3519">
 
 ---
 ## CVE-2023-35086 (2023-07-21T07:15:00)

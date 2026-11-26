@@ -2099,6 +2099,7 @@ use after free.
 - [tpdlshdmlrkfmcla/CVE-2019-19781](https://github.com/tpdlshdmlrkfmcla/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/tpdlshdmlrkfmcla/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/tpdlshdmlrkfmcla/CVE-2019-19781">
 - [hyunjin0334/CVE-2019-19781](https://github.com/hyunjin0334/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/hyunjin0334/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/hyunjin0334/CVE-2019-19781">
 - [autocode07/cisagov__check-cve-2019-19781.4142e02b](https://github.com/autocode07/cisagov__check-cve-2019-19781.4142e02b)	<img alt="forks" src="https://img.shields.io/github/forks/autocode07/cisagov__check-cve-2019-19781.4142e02b">	<img alt="stars" src="https://img.shields.io/github/stars/autocode07/cisagov__check-cve-2019-19781.4142e02b">
+- [googlesky/CVE-2019-19781](https://github.com/googlesky/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2019-19781">
 
 ---
 ## CVE-2019-19725 (2019-12-11T18:16:00)

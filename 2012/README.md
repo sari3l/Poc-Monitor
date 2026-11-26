@@ -176,6 +176,11 @@
 - [Live-Hack-CVE/CVE-2012-1688](https://github.com/Live-Hack-CVE/CVE-2012-1688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-1688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-1688">
 
 ---
+## CVE-2012-1675 ()
+> 
+- [0xwarwolf/Oracle-Security-Alert-CVE-2012-1675](https://github.com/0xwarwolf/Oracle-Security-Alert-CVE-2012-1675)	<img alt="forks" src="https://img.shields.io/github/forks/0xwarwolf/Oracle-Security-Alert-CVE-2012-1675">	<img alt="stars" src="https://img.shields.io/github/stars/0xwarwolf/Oracle-Security-Alert-CVE-2012-1675">
+
+---
 ## CVE-2012-1495 (2020-01-27T15:15:00)
 > install/index.php in WebCalendar before 1.2.5 allows remote attackers to execute arbitrary code via the form_single_user_login parameter.
 - [axelbankole/CVE-2012-1495-Webcalendar-](https://github.com/axelbankole/CVE-2012-1495-Webcalendar-)	<img alt="forks" src="https://img.shields.io/github/forks/axelbankole/CVE-2012-1495-Webcalendar-">	<img alt="stars" src="https://img.shields.io/github/stars/axelbankole/CVE-2012-1495-Webcalendar-">

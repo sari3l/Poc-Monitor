@@ -9388,6 +9388,11 @@
 - [mreza-en/cve-2021-21994_POC](https://github.com/mreza-en/cve-2021-21994_POC)	<img alt="forks" src="https://img.shields.io/github/forks/mreza-en/cve-2021-21994_POC">	<img alt="stars" src="https://img.shields.io/github/stars/mreza-en/cve-2021-21994_POC">
 
 ---
+## CVE-2021-21985 ()
+> 
+- [googlesky/CVE-2021-21985](https://github.com/googlesky/CVE-2021-21985)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2021-21985">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2021-21985">
+
+---
 ## CVE-2021-21980 ()
 > 
 - [pkxk5pr6m2-web/cve-2021-21980-nuclei-poc](https://github.com/pkxk5pr6m2-web/cve-2021-21980-nuclei-poc)	<img alt="forks" src="https://img.shields.io/github/forks/pkxk5pr6m2-web/cve-2021-21980-nuclei-poc">	<img alt="stars" src="https://img.shields.io/github/stars/pkxk5pr6m2-web/cve-2021-21980-nuclei-poc">
@@ -10028,6 +10033,11 @@
 ## CVE-2021-20594 (2021-08-06T17:15:00)
 > Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Mitsubishi Electric MELSEC iQ-R series Safety CPU modules R08/16/32/120SFCPU firmware versions "26" and prior and Mitsubishi Electric MELSEC iQ-R series SIL2 Process CPU modules R08/16/32/120PSFCPU all versions allows a remote unauthenticated attacker to acquire legitimate user names registered in the module via brute-force attack on user names.
 - [Live-Hack-CVE/CVE-2021-20594](https://github.com/Live-Hack-CVE/CVE-2021-20594)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20594">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20594">
+
+---
+## CVE-2021-20329 ()
+> 
+- [hugo19941994/CVE-2021-20329-bson-injection](https://github.com/hugo19941994/CVE-2021-20329-bson-injection)	<img alt="forks" src="https://img.shields.io/github/forks/hugo19941994/CVE-2021-20329-bson-injection">	<img alt="stars" src="https://img.shields.io/github/stars/hugo19941994/CVE-2021-20329-bson-injection">
 
 ---
 ## CVE-2021-20323 (2022-03-25T19:15:00)

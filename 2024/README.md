@@ -10133,6 +10133,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [shauryarathore357-hub/thm-Moniker-Link-cve-2024-21413-writeup](https://github.com/shauryarathore357-hub/thm-Moniker-Link-cve-2024-21413-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/shauryarathore357-hub/thm-Moniker-Link-cve-2024-21413-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/shauryarathore357-hub/thm-Moniker-Link-cve-2024-21413-writeup">
 - [yfelipecruvinel/tryhackme-moniker-link](https://github.com/yfelipecruvinel/tryhackme-moniker-link)	<img alt="forks" src="https://img.shields.io/github/forks/yfelipecruvinel/tryhackme-moniker-link">	<img alt="stars" src="https://img.shields.io/github/stars/yfelipecruvinel/tryhackme-moniker-link">
 - [PCzBuilds/monikerlink-cve-2024-21413-writeup](https://github.com/PCzBuilds/monikerlink-cve-2024-21413-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/PCzBuilds/monikerlink-cve-2024-21413-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/PCzBuilds/monikerlink-cve-2024-21413-writeup">
+- [NuhHozar/Moniker-Link-CVE-2024-21413-TRYHACKME-WALKTROUGH-](https://github.com/NuhHozar/Moniker-Link-CVE-2024-21413-TRYHACKME-WALKTROUGH-)	<img alt="forks" src="https://img.shields.io/github/forks/NuhHozar/Moniker-Link-CVE-2024-21413-TRYHACKME-WALKTROUGH-">	<img alt="stars" src="https://img.shields.io/github/stars/NuhHozar/Moniker-Link-CVE-2024-21413-TRYHACKME-WALKTROUGH-">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
