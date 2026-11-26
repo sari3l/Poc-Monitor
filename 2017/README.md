@@ -1505,6 +1505,7 @@
 - [tdwyer/PoC_CVE-2017-3164_CVE-2017-1262](https://github.com/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262)	<img alt="forks" src="https://img.shields.io/github/forks/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262">	<img alt="stars" src="https://img.shields.io/github/stars/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262">
 - [Imanfeng/Apache-Solr-RCE](https://github.com/Imanfeng/Apache-Solr-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Imanfeng/Apache-Solr-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Imanfeng/Apache-Solr-RCE">
 - [CyberCTF/vulhub-solr-cve-2017-12629-rce](https://github.com/CyberCTF/vulhub-solr-cve-2017-12629-rce)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-solr-cve-2017-12629-rce">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-solr-cve-2017-12629-rce">
+- [googlesky/CVE-2017-12629](https://github.com/googlesky/CVE-2017-12629)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2017-12629">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2017-12629">
 
 ---
 ## CVE-2017-12617 (2017-10-04T01:29:00)
@@ -1524,6 +1525,7 @@
 - [TheRealCiscoo/Tomcat_CVE201712617](https://github.com/TheRealCiscoo/Tomcat_CVE201712617)	<img alt="forks" src="https://img.shields.io/github/forks/TheRealCiscoo/Tomcat_CVE201712617">	<img alt="stars" src="https://img.shields.io/github/stars/TheRealCiscoo/Tomcat_CVE201712617">
 - [ducknuts/network-forensics-cve-2017-12617](https://github.com/ducknuts/network-forensics-cve-2017-12617)	<img alt="forks" src="https://img.shields.io/github/forks/ducknuts/network-forensics-cve-2017-12617">	<img alt="stars" src="https://img.shields.io/github/stars/ducknuts/network-forensics-cve-2017-12617">
 - [lem0n817/CVE-2017-12617-POC](https://github.com/lem0n817/CVE-2017-12617-POC)	<img alt="forks" src="https://img.shields.io/github/forks/lem0n817/CVE-2017-12617-POC">	<img alt="stars" src="https://img.shields.io/github/stars/lem0n817/CVE-2017-12617-POC">
+- [googlesky/CVE-2017-12617](https://github.com/googlesky/CVE-2017-12617)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2017-12617">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2017-12617">
 
 ---
 ## CVE-2017-12615 (2017-09-19T13:29:00)
@@ -1683,6 +1685,7 @@
 - [danielakin417/CVE-2017-11882-analysis](https://github.com/danielakin417/CVE-2017-11882-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/danielakin417/CVE-2017-11882-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/danielakin417/CVE-2017-11882-analysis">
 - [SyedaQuratulain098/factura-malware-analysis-lab](https://github.com/SyedaQuratulain098/factura-malware-analysis-lab)	<img alt="forks" src="https://img.shields.io/github/forks/SyedaQuratulain098/factura-malware-analysis-lab">	<img alt="stars" src="https://img.shields.io/github/stars/SyedaQuratulain098/factura-malware-analysis-lab">
 - [Mo200909/Office-Malware-Forensics-Lab-REMnux-Static-Analysis](https://github.com/Mo200909/Office-Malware-Forensics-Lab-REMnux-Static-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Mo200909/Office-Malware-Forensics-Lab-REMnux-Static-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Mo200909/Office-Malware-Forensics-Lab-REMnux-Static-Analysis">
+- [googlesky/CVE-2017-11882](https://github.com/googlesky/CVE-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2017-11882">
 
 ---
 ## CVE-2017-1182 ()

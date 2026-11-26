@@ -4941,6 +4941,9 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 - [tubaaiftikhar-ui/MOVEit-Transfer-Data-Breach-Analysis.](https://github.com/tubaaiftikhar-ui/MOVEit-Transfer-Data-Breach-Analysis.)	<img alt="forks" src="https://img.shields.io/github/forks/tubaaiftikhar-ui/MOVEit-Transfer-Data-Breach-Analysis.">	<img alt="stars" src="https://img.shields.io/github/stars/tubaaiftikhar-ui/MOVEit-Transfer-Data-Breach-Analysis.">
 - [khengar9274-web/moveit-transfer-2023-breach](https://github.com/khengar9274-web/moveit-transfer-2023-breach)	<img alt="forks" src="https://img.shields.io/github/forks/khengar9274-web/moveit-transfer-2023-breach">	<img alt="stars" src="https://img.shields.io/github/stars/khengar9274-web/moveit-transfer-2023-breach">
 - [k9yk5zkn76-op/-CVE-2023-34362-Analysis](https://github.com/k9yk5zkn76-op/-CVE-2023-34362-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/k9yk5zkn76-op/-CVE-2023-34362-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/k9yk5zkn76-op/-CVE-2023-34362-Analysis">
+- [googlesky/CVE-2023-34362](https://github.com/googlesky/CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2023-34362">
+- [khaled970r/moveit-breach-analysis-sqli](https://github.com/khaled970r/moveit-breach-analysis-sqli)	<img alt="forks" src="https://img.shields.io/github/forks/khaled970r/moveit-breach-analysis-sqli">	<img alt="stars" src="https://img.shields.io/github/stars/khaled970r/moveit-breach-analysis-sqli">
+- [Conviee/Assignment-](https://github.com/Conviee/Assignment-)	<img alt="forks" src="https://img.shields.io/github/forks/Conviee/Assignment-">	<img alt="stars" src="https://img.shields.io/github/stars/Conviee/Assignment-">
 
 ---
 ## CVE-2023-34312 (2023-06-01T03:15:00)
@@ -7666,6 +7669,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [praneethnaidu1910-cmd/cve-2023-23397-purple-team](https://github.com/praneethnaidu1910-cmd/cve-2023-23397-purple-team)	<img alt="forks" src="https://img.shields.io/github/forks/praneethnaidu1910-cmd/cve-2023-23397-purple-team">	<img alt="stars" src="https://img.shields.io/github/stars/praneethnaidu1910-cmd/cve-2023-23397-purple-team">
 - [medyassineakhmari/CVE_2023_23397](https://github.com/medyassineakhmari/CVE_2023_23397)	<img alt="forks" src="https://img.shields.io/github/forks/medyassineakhmari/CVE_2023_23397">	<img alt="stars" src="https://img.shields.io/github/stars/medyassineakhmari/CVE_2023_23397">
 - [ZHOUCC-CPU/cve-2023-23397-detection-lab](https://github.com/ZHOUCC-CPU/cve-2023-23397-detection-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ZHOUCC-CPU/cve-2023-23397-detection-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ZHOUCC-CPU/cve-2023-23397-detection-lab">
+- [googlesky/CVE-2023-23397](https://github.com/googlesky/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2023-23397">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)

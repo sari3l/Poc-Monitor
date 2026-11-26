@@ -558,6 +558,7 @@
 - [shaily29-eng/CyberSecurity_CVE-2021-45046](https://github.com/shaily29-eng/CyberSecurity_CVE-2021-45046)	<img alt="forks" src="https://img.shields.io/github/forks/shaily29-eng/CyberSecurity_CVE-2021-45046">	<img alt="stars" src="https://img.shields.io/github/stars/shaily29-eng/CyberSecurity_CVE-2021-45046">
 - [khulnasoft-lab/awesome-security](https://github.com/khulnasoft-lab/awesome-security)	<img alt="forks" src="https://img.shields.io/github/forks/khulnasoft-lab/awesome-security">	<img alt="stars" src="https://img.shields.io/github/stars/khulnasoft-lab/awesome-security">
 - [demonrvm/Log4ShellRemediation](https://github.com/demonrvm/Log4ShellRemediation)	<img alt="forks" src="https://img.shields.io/github/forks/demonrvm/Log4ShellRemediation">	<img alt="stars" src="https://img.shields.io/github/stars/demonrvm/Log4ShellRemediation">
+- [googlesky/CVE-2021-45046](https://github.com/googlesky/CVE-2021-45046)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2021-45046">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2021-45046">
 
 ---
 ## CVE-2021-45036 (2022-11-28T16:15:00)
@@ -3628,6 +3629,7 @@
 - [DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab](https://github.com/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab">
 - [eshkoreee/CVE-2021-4034](https://github.com/eshkoreee/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/eshkoreee/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/eshkoreee/CVE-2021-4034">
 - [vukma25/CVE-2021-4034](https://github.com/vukma25/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/vukma25/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/vukma25/CVE-2021-4034">
+- [googlesky/CVE-2021-4034](https://github.com/googlesky/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2021-4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
@@ -6827,6 +6829,7 @@
 - [AmroYasserH/DFIR-CVE-2021-3156-Incident-Response](https://github.com/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response)	<img alt="forks" src="https://img.shields.io/github/forks/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response">	<img alt="stars" src="https://img.shields.io/github/stars/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response">
 - [HanaBouikni/AppArmor-Simulation-CVE-2021-3156](https://github.com/HanaBouikni/AppArmor-Simulation-CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/HanaBouikni/AppArmor-Simulation-CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/HanaBouikni/AppArmor-Simulation-CVE-2021-3156">
 - [HanaBouikni/Volatility3-Forensics-Incident-Response](https://github.com/HanaBouikni/Volatility3-Forensics-Incident-Response)	<img alt="forks" src="https://img.shields.io/github/forks/HanaBouikni/Volatility3-Forensics-Incident-Response">	<img alt="stars" src="https://img.shields.io/github/stars/HanaBouikni/Volatility3-Forensics-Incident-Response">
+- [googlesky/CVE-2021-3156](https://github.com/googlesky/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2021-3156">
 
 ---
 ## CVE-2021-31525 (2021-05-27T13:15:00)
@@ -7873,6 +7876,7 @@
 - [wysssadda/ExchangeSmash](https://github.com/wysssadda/ExchangeSmash)	<img alt="forks" src="https://img.shields.io/github/forks/wysssadda/ExchangeSmash">	<img alt="stars" src="https://img.shields.io/github/stars/wysssadda/ExchangeSmash">
 - [ifeoluwaayodeji/CVE-2021-26855-Analysis](https://github.com/ifeoluwaayodeji/CVE-2021-26855-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/ifeoluwaayodeji/CVE-2021-26855-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/ifeoluwaayodeji/CVE-2021-26855-Analysis">
 - [layee27/JIMOH-ABDULLAHI](https://github.com/layee27/JIMOH-ABDULLAHI)	<img alt="forks" src="https://img.shields.io/github/forks/layee27/JIMOH-ABDULLAHI">	<img alt="stars" src="https://img.shields.io/github/stars/layee27/JIMOH-ABDULLAHI">
+- [googlesky/CVE-2021-26855](https://github.com/googlesky/CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2021-26855">
 
 ---
 ## CVE-2021-26837 ()
@@ -8250,6 +8254,7 @@
 ## CVE-2021-25329 (2021-03-01T12:15:00)
 > The fix for CVE-2020-9484 was incomplete. When using Apache Tomcat 10.0.0-M1 to 10.0.0, 9.0.0.M1 to 9.0.41, 8.5.0 to 8.5.61 or 7.0.0. to 7.0.107 with a configuration edge case that was highly unlikely to be used, the Tomcat instance was still vulnerable to CVE-2020-9494. Note that both the previously published prerequisites for CVE-2020-9484 and the previously published mitigations for CVE-2020-9484 also apply to this issue.
 - [Live-Hack-CVE/CVE-2021-25329](https://github.com/Live-Hack-CVE/CVE-2021-25329)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25329">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25329">
+- [googlesky/CVE-2021-25329](https://github.com/googlesky/CVE-2021-25329)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2021-25329">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2021-25329">
 
 ---
 ## CVE-2021-25322 (2021-06-10T12:15:00)

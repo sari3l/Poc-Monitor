@@ -103,6 +103,7 @@
 - [0dayCTF/CVE-2020-9484](https://github.com/0dayCTF/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/0dayCTF/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/0dayCTF/CVE-2020-9484">
 - [Disturbante/CVE-2020-9484](https://github.com/Disturbante/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/Disturbante/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/Disturbante/CVE-2020-9484">
 - [deathquote/CVE-2020-9484](https://github.com/deathquote/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/deathquote/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/deathquote/CVE-2020-9484">
+- [CrieHeiki/Apache-Tomcat-CVE-2020-9484](https://github.com/CrieHeiki/Apache-Tomcat-CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/CrieHeiki/Apache-Tomcat-CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/CrieHeiki/Apache-Tomcat-CVE-2020-9484">
 
 ---
 ## CVE-2020-9483 ()
@@ -3801,6 +3802,11 @@
 - [zzzz966/CVE-2020-19360](https://github.com/zzzz966/CVE-2020-19360)	<img alt="forks" src="https://img.shields.io/github/forks/zzzz966/CVE-2020-19360">	<img alt="stars" src="https://img.shields.io/github/stars/zzzz966/CVE-2020-19360">
 
 ---
+## CVE-2020-1935 ()
+> 
+- [googlesky/CVE-2020-1935](https://github.com/googlesky/CVE-2020-1935)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2020-1935">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2020-1935">
+
+---
 ## CVE-2020-1920 (2021-06-01T14:15:00)
 > A regular expression denial of service (ReDoS) vulnerability in the validateBaseUrl function can cause the application to use excessive resources, become unresponsive, or crash. This was introduced in react-native version 0.59.0 and fixed in version 0.64.1.
 - [Live-Hack-CVE/CVE-2020-1920](https://github.com/Live-Hack-CVE/CVE-2020-1920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1920">
@@ -6066,6 +6072,7 @@
 - [tvdat20004/CVE-2020-0688](https://github.com/tvdat20004/CVE-2020-0688)	<img alt="forks" src="https://img.shields.io/github/forks/tvdat20004/CVE-2020-0688">	<img alt="stars" src="https://img.shields.io/github/stars/tvdat20004/CVE-2020-0688">
 - [iamwajd/Cyber-Attack-Analysis](https://github.com/iamwajd/Cyber-Attack-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/iamwajd/Cyber-Attack-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/iamwajd/Cyber-Attack-Analysis">
 - [bailongwang1/CVE-2020-0688](https://github.com/bailongwang1/CVE-2020-0688)	<img alt="forks" src="https://img.shields.io/github/forks/bailongwang1/CVE-2020-0688">	<img alt="stars" src="https://img.shields.io/github/stars/bailongwang1/CVE-2020-0688">
+- [googlesky/CVE-2020-0688](https://github.com/googlesky/CVE-2020-0688)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2020-0688">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2020-0688">
 
 ---
 ## CVE-2020-0665 ()

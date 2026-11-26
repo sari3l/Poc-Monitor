@@ -103,6 +103,12 @@
 - [andikahilmy/CVE-2016-8741-qpid-broker-j-vulnerable](https://github.com/andikahilmy/CVE-2016-8741-qpid-broker-j-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-8741-qpid-broker-j-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-8741-qpid-broker-j-vulnerable">
 
 ---
+## CVE-2016-8735 ()
+> 
+- [googlesky/CVE-2016-8735](https://github.com/googlesky/CVE-2016-8735)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2016-8735">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2016-8735">
+- [ianxtianxt/CVE-2016-8735](https://github.com/ianxtianxt/CVE-2016-8735)	<img alt="forks" src="https://img.shields.io/github/forks/ianxtianxt/CVE-2016-8735">	<img alt="stars" src="https://img.shields.io/github/stars/ianxtianxt/CVE-2016-8735">
+
+---
 ## CVE-2016-8732 (2018-04-24T19:29:00)
 > Multiple security flaws exists in InvProtectDrv.sys which is a part of Invincea Dell Protected Workspace 5.1.1-22303. Weak restrictions on the driver communication channel and additional insufficient checks allow any application to turn off some of the protection mechanisms provided by the Invincea product.
 - [Live-Hack-CVE/CVE-2016-8732](https://github.com/Live-Hack-CVE/CVE-2016-8732)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8732">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8732">
@@ -395,6 +401,11 @@
 ## CVE-2016-6914 ()
 > 
 - [CybermonkX/CVE-2016-6914-UniFiVideo-LPE](https://github.com/CybermonkX/CVE-2016-6914-UniFiVideo-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/CybermonkX/CVE-2016-6914-UniFiVideo-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/CybermonkX/CVE-2016-6914-UniFiVideo-LPE">
+
+---
+## CVE-2016-6816 ()
+> 
+- [googlesky/CVE-2016-6816](https://github.com/googlesky/CVE-2016-6816)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2016-6816">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2016-6816">
 
 ---
 ## CVE-2016-6812 ()

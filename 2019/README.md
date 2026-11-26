@@ -2429,6 +2429,7 @@ use after free.
 ## CVE-2019-17563 (2019-12-23T17:15:00)
 > When using FORM authentication with Apache Tomcat 9.0.0.M1 to 9.0.29, 8.5.0 to 8.5.49 and 7.0.0 to 7.0.98 there was a narrow window where an attacker could perform a session fixation attack. The window was considered too narrow for an exploit to be practical but, erring on the side of caution, this issue has been treated as a security vulnerability.
 - [Live-Hack-CVE/CVE-2019-17563](https://github.com/Live-Hack-CVE/CVE-2019-17563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17563">
+- [googlesky/CVE-2019-17563](https://github.com/googlesky/CVE-2019-17563)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2019-17563">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2019-17563">
 
 ---
 ## CVE-2019-17559 (2020-03-23T22:15:00)
@@ -3195,6 +3196,7 @@ use after free.
 - [josemlwdf/CVE-2019-13272](https://github.com/josemlwdf/CVE-2019-13272)	<img alt="forks" src="https://img.shields.io/github/forks/josemlwdf/CVE-2019-13272">	<img alt="stars" src="https://img.shields.io/github/stars/josemlwdf/CVE-2019-13272">
 - [letsr00t/CVE-2019-13272](https://github.com/letsr00t/CVE-2019-13272)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/CVE-2019-13272">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/CVE-2019-13272">
 - [Chinmay1743/ptrace-vuln](https://github.com/Chinmay1743/ptrace-vuln)	<img alt="forks" src="https://img.shields.io/github/forks/Chinmay1743/ptrace-vuln">	<img alt="stars" src="https://img.shields.io/github/stars/Chinmay1743/ptrace-vuln">
+- [googlesky/CVE-2019-13272](https://github.com/googlesky/CVE-2019-13272)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2019-13272">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2019-13272">
 
 ---
 ## CVE-2019-13139 ()
@@ -3619,6 +3621,17 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-10433](https://github.com/Live-Hack-CVE/CVE-2019-10433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10433">
 
 ---
+## CVE-2019-1040 ()
+> 
+- [googlesky/CVE-2019-1040](https://github.com/googlesky/CVE-2019-1040)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2019-1040">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2019-1040">
+- [JonyFilc/PrintSpoofer-ReflectiveDLL](https://github.com/JonyFilc/PrintSpoofer-ReflectiveDLL)	<img alt="forks" src="https://img.shields.io/github/forks/JonyFilc/PrintSpoofer-ReflectiveDLL">	<img alt="stars" src="https://img.shields.io/github/stars/JonyFilc/PrintSpoofer-ReflectiveDLL">
+- [Ridter/CVE-2019-1040](https://github.com/Ridter/CVE-2019-1040)	<img alt="forks" src="https://img.shields.io/github/forks/Ridter/CVE-2019-1040">	<img alt="stars" src="https://img.shields.io/github/stars/Ridter/CVE-2019-1040">
+- [Ridter/CVE-2019-1040-dcpwn](https://github.com/Ridter/CVE-2019-1040-dcpwn)	<img alt="forks" src="https://img.shields.io/github/forks/Ridter/CVE-2019-1040-dcpwn">	<img alt="stars" src="https://img.shields.io/github/stars/Ridter/CVE-2019-1040-dcpwn">
+- [QAX-A-Team/dcpwn](https://github.com/QAX-A-Team/dcpwn)	<img alt="forks" src="https://img.shields.io/github/forks/QAX-A-Team/dcpwn">	<img alt="stars" src="https://img.shields.io/github/stars/QAX-A-Team/dcpwn">
+- [fox-it/cve-2019-1040-scanner](https://github.com/fox-it/cve-2019-1040-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/fox-it/cve-2019-1040-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/fox-it/cve-2019-1040-scanner">
+- [lazaars/UltraRealy_with_CVE-2019-1040](https://github.com/lazaars/UltraRealy_with_CVE-2019-1040)	<img alt="forks" src="https://img.shields.io/github/forks/lazaars/UltraRealy_with_CVE-2019-1040">	<img alt="stars" src="https://img.shields.io/github/stars/lazaars/UltraRealy_with_CVE-2019-1040">
+
+---
 ## CVE-2019-10392 ()
 > 
 - [shoucheng3/jenkinsci__git-client-plugin_CVE-2019-10392_2-8-4](https://github.com/shoucheng3/jenkinsci__git-client-plugin_CVE-2019-10392_2-8-4)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/jenkinsci__git-client-plugin_CVE-2019-10392_2-8-4">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/jenkinsci__git-client-plugin_CVE-2019-10392_2-8-4">
@@ -3918,6 +3931,11 @@ use after free.
 ## CVE-2019-0201 ()
 > 
 - [andikahilmy/CVE-2019-0201-zookeeper-vulnerable](https://github.com/andikahilmy/CVE-2019-0201-zookeeper-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-0201-zookeeper-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-0201-zookeeper-vulnerable">
+
+---
+## CVE-2019-0199 ()
+> 
+- [googlesky/CVE-2019-0199](https://github.com/googlesky/CVE-2019-0199)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2019-0199">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2019-0199">
 
 ---
 ## CVE-2019-0194 ()
