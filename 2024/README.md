@@ -385,6 +385,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 remote and unauthenticated attacker can execute arbitrary operating system commands by sending a crafted multipart file upload HTTP request.
 - [Chocapikk/CVE-2024-8517](https://github.com/Chocapikk/CVE-2024-8517)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-8517">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-8517">
 - [saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517](https://github.com/saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517)	<img alt="forks" src="https://img.shields.io/github/forks/saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517">	<img alt="stars" src="https://img.shields.io/github/stars/saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517">
+- [mhmoudjma/CVE-2024-8517](https://github.com/mhmoudjma/CVE-2024-8517)	<img alt="forks" src="https://img.shields.io/github/forks/mhmoudjma/CVE-2024-8517">	<img alt="stars" src="https://img.shields.io/github/stars/mhmoudjma/CVE-2024-8517">
 
 ---
 ## CVE-2024-8514 (2024-09-25T04:15:00)

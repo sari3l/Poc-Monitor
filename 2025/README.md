@@ -8011,6 +8011,7 @@
 - [EthanEvans92/CVE-2025-32463](https://github.com/EthanEvans92/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/EthanEvans92/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/EthanEvans92/CVE-2025-32463">
 - [jigrit/CVE-2025-32463](https://github.com/jigrit/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/jigrit/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/jigrit/CVE-2025-32463">
 - [roock3t/CVE-2025-32463](https://github.com/roock3t/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/roock3t/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/roock3t/CVE-2025-32463">
+- [chenceyang/cve-2025-32463-presentation](https://github.com/chenceyang/cve-2025-32463-presentation)	<img alt="forks" src="https://img.shields.io/github/forks/chenceyang/cve-2025-32463-presentation">	<img alt="stars" src="https://img.shields.io/github/stars/chenceyang/cve-2025-32463-presentation">
 
 ---
 ## CVE-2025-32462 ()
