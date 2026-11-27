@@ -179,6 +179,7 @@
 ## CVE-2012-1675 ()
 > 
 - [0xwarwolf/Oracle-Security-Alert-CVE-2012-1675](https://github.com/0xwarwolf/Oracle-Security-Alert-CVE-2012-1675)	<img alt="forks" src="https://img.shields.io/github/forks/0xwarwolf/Oracle-Security-Alert-CVE-2012-1675">	<img alt="stars" src="https://img.shields.io/github/stars/0xwarwolf/Oracle-Security-Alert-CVE-2012-1675">
+- [bongbongco/CVE-2012-1675](https://github.com/bongbongco/CVE-2012-1675)	<img alt="forks" src="https://img.shields.io/github/forks/bongbongco/CVE-2012-1675">	<img alt="stars" src="https://img.shields.io/github/stars/bongbongco/CVE-2012-1675">
 
 ---
 ## CVE-2012-1495 (2020-01-27T15:15:00)
