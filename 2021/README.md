@@ -1268,6 +1268,7 @@
 - [for-toolathlon/log4shell-audit](https://github.com/for-toolathlon/log4shell-audit)	<img alt="forks" src="https://img.shields.io/github/forks/for-toolathlon/log4shell-audit">	<img alt="stars" src="https://img.shields.io/github/stars/for-toolathlon/log4shell-audit">
 - [minBuild/unhacked](https://github.com/minBuild/unhacked)	<img alt="forks" src="https://img.shields.io/github/forks/minBuild/unhacked">	<img alt="stars" src="https://img.shields.io/github/stars/minBuild/unhacked">
 - [johnyProDev/CVE-2021-44228-Essay](https://github.com/johnyProDev/CVE-2021-44228-Essay)	<img alt="forks" src="https://img.shields.io/github/forks/johnyProDev/CVE-2021-44228-Essay">	<img alt="stars" src="https://img.shields.io/github/stars/johnyProDev/CVE-2021-44228-Essay">
+- [johnyProDev/CVE-2021-44228-Study](https://github.com/johnyProDev/CVE-2021-44228-Study)	<img alt="forks" src="https://img.shields.io/github/forks/johnyProDev/CVE-2021-44228-Study">	<img alt="stars" src="https://img.shields.io/github/stars/johnyProDev/CVE-2021-44228-Study">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
