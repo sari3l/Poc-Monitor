@@ -360,6 +360,7 @@
 - [k-o-n-t-o-r/sm-s936b-cve-2026-98260](https://github.com/k-o-n-t-o-r/sm-s936b-cve-2026-98260)	<img alt="forks" src="https://img.shields.io/github/forks/k-o-n-t-o-r/sm-s936b-cve-2026-98260">	<img alt="stars" src="https://img.shields.io/github/stars/k-o-n-t-o-r/sm-s936b-cve-2026-98260">
 - [minhmc2007/CVE-2026-98260-My-A55](https://github.com/minhmc2007/CVE-2026-98260-My-A55)	<img alt="forks" src="https://img.shields.io/github/forks/minhmc2007/CVE-2026-98260-My-A55">	<img alt="stars" src="https://img.shields.io/github/stars/minhmc2007/CVE-2026-98260-My-A55">
 - [CrystalXYN/cve-2026-98260](https://github.com/CrystalXYN/cve-2026-98260)	<img alt="forks" src="https://img.shields.io/github/forks/CrystalXYN/cve-2026-98260">	<img alt="stars" src="https://img.shields.io/github/stars/CrystalXYN/cve-2026-98260">
+- [laobinggunzhao-lab/TimerRoot-Next](https://github.com/laobinggunzhao-lab/TimerRoot-Next)	<img alt="forks" src="https://img.shields.io/github/forks/laobinggunzhao-lab/TimerRoot-Next">	<img alt="stars" src="https://img.shields.io/github/stars/laobinggunzhao-lab/TimerRoot-Next">
 
 ---
 ## CVE-2026-98258 ()
@@ -15210,6 +15211,11 @@
 ## CVE-2026-133780 ()
 > 
 - [googlesky/CVE-2026-133780](https://github.com/googlesky/CVE-2026-133780)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-133780">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-133780">
+
+---
+## CVE-2026-133742 ()
+> 
+- [tryformy/CVE-2026-133742](https://github.com/tryformy/CVE-2026-133742)	<img alt="forks" src="https://img.shields.io/github/forks/tryformy/CVE-2026-133742">	<img alt="stars" src="https://img.shields.io/github/stars/tryformy/CVE-2026-133742">
 
 ---
 ## CVE-2026-1337 ()
